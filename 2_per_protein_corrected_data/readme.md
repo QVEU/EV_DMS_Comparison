@@ -8,7 +8,7 @@ So that the average corrected MFE of each protein is 0 and positive and negative
 
 ## Files:
 
-aligned_per_prot_corrected_data.csv: Structurally aligned DMS data across proteins for both viruses
+- aligned_per_prot_corrected_data.csv: Structurally aligned DMS data across proteins for both viruses
 
 - per_prot_corr_cvb3.csv: Per-protein corrected DMS data for CVB3
 
