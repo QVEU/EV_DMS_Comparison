@@ -1,0 +1,2186 @@
+cvb3_functional_region,cvb3_region,cvb3_site,cvb3_prot,cvb3_pos,cvb3_aa,cvb3_ss,cvb3_annotation,cvb3_domains,cvb3_domains_source,cvb3_capsid_ss
+capsid,P1,1,VP4,1,M,loop,,,,
+capsid,P1,2,VP4,2,G,loop,,,,
+capsid,P1,3,VP4,3,A,loop,,,,
+capsid,P1,4,VP4,4,Q,strand,,,,
+capsid,P1,5,VP4,5,V,strand,,,,
+capsid,P1,6,VP4,6,S,strand,,,,
+capsid,P1,7,VP4,7,T,strand,,,,
+capsid,P1,8,VP4,8,Q,loop,,,,
+capsid,P1,9,VP4,9,K,strand,,,,
+capsid,P1,10,VP4,10,T,loop,,,,
+capsid,P1,11,VP4,11,G,loop,,,,
+capsid,P1,12,VP4,12,A,loop,,,,
+capsid,P1,13,VP4,13,H,loop,,,,
+capsid,P1,14,VP4,14,E,loop,,,,
+capsid,P1,15,VP4,15,T,loop,,,,
+capsid,P1,16,VP4,16,R,loop,,,,
+capsid,P1,17,VP4,17,L,loop,,,,
+capsid,P1,18,VP4,18,N,loop,,,,
+capsid,P1,19,VP4,19,A,loop,,,,
+capsid,P1,20,VP4,20,S,loop,,,,
+capsid,P1,21,VP4,21,G,loop,,,,
+capsid,P1,22,VP4,22,N,loop,,,,
+capsid,P1,23,VP4,23,S,loop,,,,
+capsid,P1,24,VP4,24,I,loop,,,,
+capsid,P1,25,VP4,25,I,loop,,,,
+capsid,P1,26,VP4,26,H,strand,,,,
+capsid,P1,27,VP4,27,Y,strand,,,,
+capsid,P1,28,VP4,28,T,strand,,,,
+capsid,P1,29,VP4,29,N,strand,,,,
+capsid,P1,30,VP4,30,I,loop,,,,
+capsid,P1,31,VP4,31,N,loop,,,,
+capsid,P1,32,VP4,32,Y,loop,,,,
+capsid,P1,33,VP4,33,Y,loop,,,,
+capsid,P1,34,VP4,34,K,loop,,,,
+capsid,P1,35,VP4,35,D,strand,,,,
+capsid,P1,36,VP4,36,A,helix,,,,
+capsid,P1,37,VP4,37,A,helix,,,,
+capsid,P1,38,VP4,38,S,helix,,,,
+capsid,P1,39,VP4,39,N,loop,,,,
+capsid,P1,40,VP4,40,S,loop,,,,
+capsid,P1,41,VP4,41,A,loop,,,,
+capsid,P1,42,VP4,42,N,loop,,,,
+capsid,P1,43,VP4,43,R,loop,,,,
+capsid,P1,44,VP4,44,Q,loop,,,,
+capsid,P1,45,VP4,45,D,loop,,,,
+capsid,P1,46,VP4,46,F,loop,,,,
+capsid,P1,47,VP4,47,T,loop,,,,
+capsid,P1,48,VP4,48,Q,loop,,,,
+capsid,P1,49,VP4,49,D,loop,,,,
+capsid,P1,50,VP4,50,P,loop,,,,
+capsid,P1,51,VP4,51,G,loop,,,,
+capsid,P1,52,VP4,52,K,loop,,,,
+capsid,P1,53,VP4,53,F,loop,,,,
+capsid,P1,54,VP4,54,T,loop,,,,
+capsid,P1,55,VP4,55,E,loop,,,,
+capsid,P1,56,VP4,56,P,loop,,,,
+capsid,P1,57,VP4,57,V,strand,,,,
+capsid,P1,58,VP4,58,K,loop,,,,
+capsid,P1,59,VP4,59,D,loop,,,,
+capsid,P1,60,VP4,60,I,loop,,,,
+capsid,P1,61,VP4,61,M,loop,,,,
+capsid,P1,62,VP4,62,I,loop,,,,
+capsid,P1,63,VP4,63,K,loop,,,,
+capsid,P1,64,VP4,64,S,loop,,,,
+capsid,P1,65,VP4,65,L,loop,,,,
+capsid,P1,66,VP4,66,P,loop,,,,
+capsid,P1,67,VP4,67,A,loop,,,,
+capsid,P1,68,VP4,68,L,loop,,,,
+capsid,P1,69,VP4,69,N,loop,,,,
+capsid,P1,70,VP2,1,S,loop,,Ntermloop,,Ntermloop
+capsid,P1,71,VP2,2,P,loop,,Ntermloop,,Ntermloop
+capsid,P1,72,VP2,3,T,loop,,Ntermloop,,Ntermloop
+capsid,P1,73,VP2,4,V,loop,,Ntermloop,,Ntermloop
+capsid,P1,74,VP2,5,E,loop,,Ntermloop,,Ntermloop
+capsid,P1,75,VP2,6,E,loop,,Ntermloop,,Ntermloop
+capsid,P1,76,VP2,7,C,loop,,Ntermloop,,Ntermloop
+capsid,P1,77,VP2,8,G,loop,,Ntermloop,,Ntermloop
+capsid,P1,78,VP2,9,Y,loop,,Ntermloop,,Ntermloop
+capsid,P1,79,VP2,10,S,loop,,Ntermloop,,Ntermloop
+capsid,P1,80,VP2,11,D,loop,,Ntermloop,,Ntermloop
+capsid,P1,81,VP2,12,R,loop,,Ntermloop,,Ntermloop
+capsid,P1,82,VP2,13,A,loop,,Ntermloop,,Ntermloop
+capsid,P1,83,VP2,14,R,strand,,A1,,A1
+capsid,P1,84,VP2,15,S,strand,,A1,,A1
+capsid,P1,85,VP2,16,I,strand,,A1,,A1
+capsid,P1,86,VP2,17,T,strand,,A1,,A1
+capsid,P1,87,VP2,18,L,strand,,A1A2loop,,A1A2loop
+capsid,P1,88,VP2,19,G,loop,,A1A2loop,,A1A2loop
+capsid,P1,89,VP2,20,N,loop,,A1A2loop,,A1A2loop
+capsid,P1,90,VP2,21,S,strand,,A1A2loop,,A1A2loop
+capsid,P1,91,VP2,22,T,strand,,A2,,A2
+capsid,P1,92,VP2,23,I,strand,,A2,,A2
+capsid,P1,93,VP2,24,T,strand,,A2,,A2
+capsid,P1,94,VP2,25,T,strand,,A2,,A2
+capsid,P1,95,VP2,26,Q,loop,,ABloop,,ABloop
+capsid,P1,96,VP2,27,E,loop,,ABloop,,ABloop
+capsid,P1,97,VP2,28,C,loop,,ABloop,,ABloop
+capsid,P1,98,VP2,29,A,loop,,ABloop,,ABloop
+capsid,P1,99,VP2,30,N,loop,,ABloop,,ABloop
+capsid,P1,100,VP2,31,V,loop,,ABloop,,ABloop
+capsid,P1,101,VP2,32,V,strand,,ABloop,,ABloop
+capsid,P1,102,VP2,33,V,strand,,ABloop,,ABloop
+capsid,P1,103,VP2,34,G,loop,,ABloop,,ABloop
+capsid,P1,104,VP2,35,Y,loop,,ABloop,,ABloop
+capsid,P1,105,VP2,36,G,loop,,ABloop,,ABloop
+capsid,P1,106,VP2,37,V,loop,,ABloop,,ABloop
+capsid,P1,107,VP2,38,W,loop,,ABloop,,ABloop
+capsid,P1,108,VP2,39,P,loop,,ABloop,,ABloop
+capsid,P1,109,VP2,40,D,loop,,ABloop,,ABloop
+capsid,P1,110,VP2,41,Y,loop,,ABloop,,ABloop
+capsid,P1,111,VP2,42,L,loop,,ABloop,,ABloop
+capsid,P1,112,VP2,43,K,loop,,ABloop,,ABloop
+capsid,P1,113,VP2,44,D,loop,,ABhelix,,ABhelix
+capsid,P1,114,VP2,45,S,loop,,ABhelix,,ABhelix
+capsid,P1,115,VP2,46,E,loop,,ABhelix,,ABhelix
+capsid,P1,116,VP2,47,A,loop,,ABloop,,ABloop
+capsid,P1,117,VP2,48,T,loop,,ABloop,,ABloop
+capsid,P1,118,VP2,49,A,loop,,ABloop,,ABloop
+capsid,P1,119,VP2,50,E,loop,,ABloop,,ABloop
+capsid,P1,120,VP2,51,D,strand,,ABloop,,ABloop
+capsid,P1,121,VP2,52,Q,loop,,ABloop,,ABloop
+capsid,P1,122,VP2,53,P,loop,,ABloop,,ABloop
+capsid,P1,123,VP2,54,T,strand,,ABloop,,ABloop
+capsid,P1,124,VP2,55,Q,loop,,ABloop,,ABloop
+capsid,P1,125,VP2,56,P,loop,,ABloop,,ABloop
+capsid,P1,126,VP2,57,D,loop,,ABhelix,,ABhelix
+capsid,P1,127,VP2,58,V,loop,,ABhelix,,ABhelix
+capsid,P1,128,VP2,59,A,loop,,ABhelix,,ABhelix
+capsid,P1,129,VP2,60,T,loop,,ABloop,,ABloop
+capsid,P1,130,VP2,61,C,loop,,ABloop,,ABloop
+capsid,P1,131,VP2,62,R,loop,,ABloop,,ABloop
+capsid,P1,132,VP2,63,F,loop,,ABloop,,ABloop
+capsid,P1,133,VP2,64,Y,strand,,B,,B
+capsid,P1,134,VP2,65,T,strand,,B,,B
+capsid,P1,135,VP2,66,L,strand,,Bloop,,Bloop
+capsid,P1,136,VP2,67,D,strand,,Bloop,,Bloop
+capsid,P1,137,VP2,68,S,strand,,Bloop,,Bloop
+capsid,P1,138,VP2,69,V,strand,,B,,B
+capsid,P1,139,VP2,70,Q,strand,,B,,B
+capsid,P1,140,VP2,71,W,strand,,B,,B
+capsid,P1,141,VP2,72,Q,loop,,BCloop,,BCloop
+capsid,P1,142,VP2,73,K,loop,,BCloop,,BCloop
+capsid,P1,143,VP2,74,T,loop,,BCloop,,BCloop
+capsid,P1,144,VP2,75,S,loop,,BCloop,,BCloop
+capsid,P1,145,VP2,76,P,loop,,BCloop,,BCloop
+capsid,P1,146,VP2,77,G,loop,,BCloop,,BCloop
+capsid,P1,147,VP2,78,W,strand,,C,,C
+capsid,P1,148,VP2,79,W,strand,,C,,C
+capsid,P1,149,VP2,80,W,strand,,C,,C
+capsid,P1,150,VP2,81,K,strand,,C,,C
+capsid,P1,151,VP2,82,L,helix,,CDhelix,,CDhelix
+capsid,P1,152,VP2,83,P,helix,,CDhelix,,CDhelix
+capsid,P1,153,VP2,84,D,helix,,CDhelix,,CDhelix
+capsid,P1,154,VP2,85,A,helix,,CDhelix,,CDhelix
+capsid,P1,155,VP2,86,L,helix,,CDloop,,CDloop
+capsid,P1,156,VP2,87,S,loop,,CDloop,,CDloop
+capsid,P1,157,VP2,88,N,loop,,CDloop,,CDloop
+capsid,P1,158,VP2,89,L,loop,,CDloop,,CDloop
+capsid,P1,159,VP2,90,G,helix,,A,,A
+capsid,P1,160,VP2,91,L,helix,,A,,A
+capsid,P1,161,VP2,92,F,helix,,A,,A
+capsid,P1,162,VP2,93,G,helix,,A,,A
+capsid,P1,163,VP2,94,Q,helix,,A,,A
+capsid,P1,164,VP2,95,N,helix,,A,,A
+capsid,P1,165,VP2,96,M,helix,,A,,A
+capsid,P1,166,VP2,97,Q,helix,,A,,A
+capsid,P1,167,VP2,98,Y,helix,,A,,A
+capsid,P1,168,VP2,99,H,strand,,D,,D
+capsid,P1,169,VP2,100,Y,strand,,D,,D
+capsid,P1,170,VP2,101,L,strand,,D,,D
+capsid,P1,171,VP2,102,G,strand,,D,,D
+capsid,P1,172,VP2,103,R,strand,,D,,D
+capsid,P1,173,VP2,104,T,strand,,D,,D
+capsid,P1,174,VP2,105,G,strand,,D,,D
+capsid,P1,175,VP2,106,Y,strand,,D,,D
+capsid,P1,176,VP2,107,T,strand,,D,,D
+capsid,P1,177,VP2,108,V,strand,,D,,D
+capsid,P1,178,VP2,109,H,strand,,D,,D
+capsid,P1,179,VP2,110,V,strand,,D,,D
+capsid,P1,180,VP2,111,Q,strand,,D,,D
+capsid,P1,181,VP2,112,C,loop,,DEloop,,DEloop
+capsid,P1,182,VP2,113,N,loop,,DEloop,,DEloop
+capsid,P1,183,VP2,114,A,loop,,DEloop,,DEloop
+capsid,P1,184,VP2,115,S,loop,,DEloop,,DEloop
+capsid,P1,185,VP2,116,K,loop,,DEloop,,DEloop
+capsid,P1,186,VP2,117,F,loop,,DEloop,,DEloop
+capsid,P1,187,VP2,118,H,loop,,DEloop,,DEloop
+capsid,P1,188,VP2,119,Q,strand,,E,,E
+capsid,P1,189,VP2,120,G,strand,,E,,E
+capsid,P1,190,VP2,121,C,strand,,E,,E
+capsid,P1,191,VP2,122,L,strand,,E,,E
+capsid,P1,192,VP2,123,L,strand,,E,,E
+capsid,P1,193,VP2,124,V,strand,,E,,E
+capsid,P1,194,VP2,125,V,strand,,E,,E
+capsid,P1,195,VP2,126,C,strand,,E,,E
+capsid,P1,196,VP2,127,V,strand,,E,,E
+capsid,P1,197,VP2,128,P,strand,,E,,E
+capsid,P1,198,VP2,129,E,loop,,EFloop,,EFloop
+capsid,P1,199,VP2,130,A,loop,,EFloop,,EFloop
+capsid,P1,200,VP2,131,E,loop,,EFloop,,EFloop
+capsid,P1,201,VP2,132,M,loop,,EFloop,,EFloop
+capsid,P1,202,VP2,133,G,loop,,EFloop,,EFloop
+capsid,P1,203,VP2,134,C,strand,,,,
+capsid,P1,204,VP2,135,A,loop,,EFloop,,EFloop
+capsid,P1,205,VP2,136,T,loop,,EFloop,,EFloop
+capsid,P1,206,VP2,137,L,loop,,EFloop,,EFloop
+capsid,P1,207,VP2,138,D,loop,,EFloop,,EFloop
+capsid,P1,208,VP2,139,N,loop,,EFloop,,EFloop
+capsid,P1,209,VP2,140,T,loop,,EFloop,,EFloop
+capsid,P1,210,VP2,141,P,loop,,EFloop,,EFloop
+capsid,P1,211,VP2,142,S,loop,,EFloop,,EFloop
+capsid,P1,212,VP2,143,S,helix,,EFhelix,,EFhelix
+capsid,P1,213,VP2,144,A,helix,,EFhelix,,EFhelix
+capsid,P1,214,VP2,145,E,helix,,EFhelix,,EFhelix
+capsid,P1,215,VP2,146,L,helix,,EFhelix,,EFhelix
+capsid,P1,216,VP2,147,L,loop,,EFloop,,EFloop
+capsid,P1,217,VP2,148,G,loop,,EFloop,,EFloop
+capsid,P1,218,VP2,149,G,loop,,EFloop,,EFloop
+capsid,P1,219,VP2,150,D,loop,,EFloop,,EFloop
+capsid,P1,220,VP2,151,S,loop,,EFloop,,EFloop
+capsid,P1,221,VP2,152,A,loop,,EFloop,,EFloop
+capsid,P1,222,VP2,153,K,strand,,EFloop,,EFloop
+capsid,P1,223,VP2,154,E,strand,,EFloop,,EFloop
+capsid,P1,224,VP2,155,F,loop,,EFloop,,EFloop
+capsid,P1,225,VP2,156,A,strand,,EFloop,,EFloop
+capsid,P1,226,VP2,157,D,loop,,EFloop,,EFloop
+capsid,P1,227,VP2,158,K,loop,,EFloop,,EFloop
+capsid,P1,228,VP2,159,P,loop,,EFloop,,EFloop
+capsid,P1,229,VP2,160,V,loop,,EFloop,,EFloop
+capsid,P1,230,VP2,161,A,loop,,EFloop,,EFloop
+capsid,P1,231,VP2,162,S,loop,,EFloop,,EFloop
+capsid,P1,232,VP2,163,G,loop,,EFloop,,EFloop
+capsid,P1,233,VP2,164,S,loop,,EFloop,,EFloop
+capsid,P1,234,VP2,165,N,loop,,EFloop,,EFloop
+capsid,P1,235,VP2,166,K,loop,,EFloop,,EFloop
+capsid,P1,236,VP2,167,L,loop,,EFloop,,EFloop
+capsid,P1,237,VP2,168,V,strand,,EFloop,,EFloop
+capsid,P1,238,VP2,169,Q,loop,,EFloop,,EFloop
+capsid,P1,239,VP2,170,R,loop,,EFloop,,EFloop
+capsid,P1,240,VP2,171,V,strand,,EFhelix,,EFhelix
+capsid,P1,241,VP2,172,V,helix,,EFhelix,,EFhelix
+capsid,P1,242,VP2,173,Y,helix,,EFhelix,,EFhelix
+capsid,P1,243,VP2,174,N,helix,,EFhelix,,EFhelix
+capsid,P1,244,VP2,175,A,loop,,EFloop,,EFloop
+capsid,P1,245,VP2,176,G,loop,,EFloop,,EFloop
+capsid,P1,246,VP2,177,M,loop,,EFloop,,EFloop
+capsid,P1,247,VP2,178,G,loop,,EFloop,,EFloop
+capsid,P1,248,VP2,179,V,strand,,EFloop,,EFloop
+capsid,P1,249,VP2,180,G,loop,,EFloop,,EFloop
+capsid,P1,250,VP2,181,V,helix,,EFhelix,,EFhelix
+capsid,P1,251,VP2,182,G,helix,,EFhelix,,EFhelix
+capsid,P1,252,VP2,183,N,helix,,EFhelix,,EFhelix
+capsid,P1,253,VP2,184,L,loop,,EFhelix,,EFhelix
+capsid,P1,254,VP2,185,T,loop,,EFhelix,,EFhelix
+capsid,P1,255,VP2,186,I,loop,,EFhelix,,EFhelix
+capsid,P1,256,VP2,187,F,loop,,EFloop,,EFloop
+capsid,P1,257,VP2,188,P,loop,,EFloop,,EFloop
+capsid,P1,258,VP2,189,H,strand,,F,,F
+capsid,P1,259,VP2,190,Q,strand,,F,,F
+capsid,P1,260,VP2,191,W,strand,,F,,F
+capsid,P1,261,VP2,192,I,strand,,F,,F
+capsid,P1,262,VP2,193,N,strand,,F,,F
+capsid,P1,263,VP2,194,L,loop,,FGloop,,FGloop
+capsid,P1,264,VP2,195,R,loop,,FGloop,,FGloop
+capsid,P1,265,VP2,196,T,loop,,FGloop,,FGloop
+capsid,P1,266,VP2,197,N,loop,,FGloop,,FGloop
+capsid,P1,267,VP2,198,N,loop,,FGloop,,FGloop
+capsid,P1,268,VP2,199,S,strand,,G1,,G1
+capsid,P1,269,VP2,200,A,strand,,G1,,G1
+capsid,P1,270,VP2,201,T,strand,,G1,,G1
+capsid,P1,271,VP2,202,I,strand,,G1,,G1
+capsid,P1,272,VP2,203,V,strand,,G1,,G1
+capsid,P1,273,VP2,204,M,strand,,G1,,G1
+capsid,P1,274,VP2,205,P,loop,,G1G2loop,,G1G2loop
+capsid,P1,275,VP2,206,Y,loop,,G1G2loop,,G1G2loop
+capsid,P1,276,VP2,207,T,loop,,G1G2loop,,G1G2loop
+capsid,P1,277,VP2,208,N,loop,,G1G2loop,,G1G2loop
+capsid,P1,278,VP2,209,S,loop,,G1G2loop,,G1G2loop
+capsid,P1,279,VP2,210,V,loop,,G1G2loop,,G1G2loop
+capsid,P1,280,VP2,211,P,loop,,G1G2loop,,G1G2loop
+capsid,P1,281,VP2,212,M,loop,,G1G2loop,,G1G2loop
+capsid,P1,282,VP2,213,D,strand,,G2,,G2
+capsid,P1,283,VP2,214,N,loop,,G2loop,,G2loop
+capsid,P1,284,VP2,215,M,loop,,G2loop,,G2loop
+capsid,P1,285,VP2,216,F,loop,,G2loop,,G2loop
+capsid,P1,286,VP2,217,R,loop,,G2loop,,G2loop
+capsid,P1,287,VP2,218,H,strand,,G2,,G2
+capsid,P1,288,VP2,219,N,loop,,G2Hloop,,G2Hloop
+capsid,P1,289,VP2,220,N,loop,,G2Hloop,,G2Hloop
+capsid,P1,290,VP2,221,V,strand,,H,,H
+capsid,P1,291,VP2,222,T,strand,,H,,H
+capsid,P1,292,VP2,223,L,strand,,H,,H
+capsid,P1,293,VP2,224,M,strand,,H,,H
+capsid,P1,294,VP2,225,V,strand,,H,,H
+capsid,P1,295,VP2,226,I,strand,,Hloop,,Hloop
+capsid,P1,296,VP2,227,P,strand,,Hloop,,Hloop
+capsid,P1,297,VP2,228,F,strand,,Hloop,,Hloop
+capsid,P1,298,VP2,229,V,strand,,H,,H
+capsid,P1,299,VP2,230,P,strand,,H,,H
+capsid,P1,300,VP2,231,L,strand,,H,,H
+capsid,P1,301,VP2,232,D,strand,,H,,H
+capsid,P1,302,VP2,233,Y,loop,,HIloop,,HIloop
+capsid,P1,303,VP2,234,C,loop,,HIloop,,HIloop
+capsid,P1,304,VP2,235,P,loop,,HIloop,,HIloop
+capsid,P1,305,VP2,236,G,loop,,HIloop,,HIloop
+capsid,P1,306,VP2,237,S,loop,,HIloop,,HIloop
+capsid,P1,307,VP2,238,T,loop,,HIloop,,HIloop
+capsid,P1,308,VP2,239,T,loop,,HIloop,,HIloop
+capsid,P1,309,VP2,240,Y,loop,,HIloop,,HIloop
+capsid,P1,310,VP2,241,V,strand,,I,,I
+capsid,P1,311,VP2,242,P,strand,,I,,I
+capsid,P1,312,VP2,243,I,strand,,I,,I
+capsid,P1,313,VP2,244,T,strand,,I,,I
+capsid,P1,314,VP2,245,V,strand,,I,,I
+capsid,P1,315,VP2,246,T,strand,,I,,I
+capsid,P1,316,VP2,247,I,strand,,I,,I
+capsid,P1,317,VP2,248,A,strand,,I,,I
+capsid,P1,318,VP2,249,P,strand,,I,,I
+capsid,P1,319,VP2,250,M,strand,,I,,I
+capsid,P1,320,VP2,251,C,strand,,I,,I
+capsid,P1,321,VP2,252,A,strand,,I,,I
+capsid,P1,322,VP2,253,E,strand,,I,,I
+capsid,P1,323,VP2,254,Y,strand,,I,,I
+capsid,P1,324,VP2,255,N,strand,,I,,I
+capsid,P1,325,VP2,256,G,strand,,I,,I
+capsid,P1,326,VP2,257,L,strand,,I,,I
+capsid,P1,327,VP2,258,R,loop,,Ctermloop,,Ctermloop
+capsid,P1,328,VP2,259,L,loop,,Ctermloop,,Ctermloop
+capsid,P1,329,VP2,260,A,loop,,Ctermloop,,Ctermloop
+capsid,P1,330,VP2,261,G,loop,,Ctermloop,,Ctermloop
+capsid,P1,331,VP2,262,H,loop,,Ctermloop,,Ctermloop
+capsid,P1,332,VP2,263,Q,loop,cleavage_site,Ctermloop,,Ctermloop
+capsid,P1,333,VP3,1,G,loop,cleavage_site,Ntermloop,,Ntermloop
+capsid,P1,334,VP3,2,L,strand,,Ntermloop,,Ntermloop
+capsid,P1,335,VP3,3,P,strand,,Ntermloop,,Ntermloop
+capsid,P1,336,VP3,4,T,strand,,Ntermloop,,Ntermloop
+capsid,P1,337,VP3,5,M,strand,,Ntermloop,,Ntermloop
+capsid,P1,338,VP3,6,N,strand,,Ntermloop,,Ntermloop
+capsid,P1,339,VP3,7,T,loop,,Ntermloop,,Ntermloop
+capsid,P1,340,VP3,8,P,loop,,Ntermloop,,Ntermloop
+capsid,P1,341,VP3,9,G,loop,,Ntermloop,,Ntermloop
+capsid,P1,342,VP3,10,S,loop,,Ntermloop,,Ntermloop
+capsid,P1,343,VP3,11,C,loop,,Ntermloop,,Ntermloop
+capsid,P1,344,VP3,12,Q,loop,,Ntermloop,,Ntermloop
+capsid,P1,345,VP3,13,F,strand,,Ntermloop,,Ntermloop
+capsid,P1,346,VP3,14,L,strand,,Ntermloop,,Ntermloop
+capsid,P1,347,VP3,15,T,loop,,Ntermloop,,Ntermloop
+capsid,P1,348,VP3,16,S,loop,,Ntermloop,,Ntermloop
+capsid,P1,349,VP3,17,D,loop,,Ntermloop,,Ntermloop
+capsid,P1,350,VP3,18,D,loop,,Ntermloop,,Ntermloop
+capsid,P1,351,VP3,19,F,loop,,Ntermloop,,Ntermloop
+capsid,P1,352,VP3,20,Q,loop,,Ntermloop,,Ntermloop
+capsid,P1,353,VP3,21,S,loop,,Ntermloop,,Ntermloop
+capsid,P1,354,VP3,22,P,loop,,Ntermloop,,Ntermloop
+capsid,P1,355,VP3,23,S,strand,,Ntermloop,,Ntermloop
+capsid,P1,356,VP3,24,A,loop,,Ntermloop,,Ntermloop
+capsid,P1,357,VP3,25,M,loop,,Ntermloop,,Ntermloop
+capsid,P1,358,VP3,26,P,loop,,Ntermloop,,Ntermloop
+capsid,P1,359,VP3,27,Q,loop,,Ntermloop,,Ntermloop
+capsid,P1,360,VP3,28,Y,loop,,Ntermloop,,Ntermloop
+capsid,P1,361,VP3,29,D,loop,,Ntermloop,,Ntermloop
+capsid,P1,362,VP3,30,V,loop,,Ntermloop,,Ntermloop
+capsid,P1,363,VP3,31,T,loop,,Ntermloop,,Ntermloop
+capsid,P1,364,VP3,32,P,loop,,Ntermloop,,Ntermloop
+capsid,P1,365,VP3,33,E,loop,,Ntermloop,,Ntermloop
+capsid,P1,366,VP3,34,M,loop,,Ntermloop,,Ntermloop
+capsid,P1,367,VP3,35,R,loop,,Ntermloop,,Ntermloop
+capsid,P1,368,VP3,36,I,loop,,Ntermloop,,Ntermloop
+capsid,P1,369,VP3,37,P,loop,,Ntermloop,,Ntermloop
+capsid,P1,370,VP3,38,G,loop,,Ntermloop,,Ntermloop
+capsid,P1,371,VP3,39,E,strand,,Ntermloop,,Ntermloop
+capsid,P1,372,VP3,40,V,strand,,Ntermloop,,Ntermloop
+capsid,P1,373,VP3,41,K,loop,,Ntermloop,,Ntermloop
+capsid,P1,374,VP3,42,N,strand,,Ntermloop,,Ntermloop
+capsid,P1,375,VP3,43,L,helix,,Zhelix,,Zhelix
+capsid,P1,376,VP3,44,M,helix,,Zhelix,,Zhelix
+capsid,P1,377,VP3,45,E,helix,,Zhelix,,Zhelix
+capsid,P1,378,VP3,46,I,loop,,Zhelix,,Zhelix
+capsid,P1,379,VP3,47,A,loop,,Zhelix,,Zhelix
+capsid,P1,380,VP3,48,E,loop,,Ntermloop,,Ntermloop
+capsid,P1,381,VP3,49,V,loop,,Ntermloop,,Ntermloop
+capsid,P1,382,VP3,50,D,loop,,Ntermloop,,Ntermloop
+capsid,P1,383,VP3,51,S,strand,,A,,A
+capsid,P1,384,VP3,52,V,strand,,A,,A
+capsid,P1,385,VP3,53,V,strand,,ABloop,,ABloop
+capsid,P1,386,VP3,54,P,loop,,ABloop,,ABloop
+capsid,P1,387,VP3,55,V,loop,,ABloop,,ABloop
+capsid,P1,388,VP3,56,Q,loop,,ABloop,,ABloop
+capsid,P1,389,VP3,57,N,loop,,ABloop,,ABloop
+capsid,P1,390,VP3,58,V,loop,,ABloop,,ABloop
+capsid,P1,391,VP3,59,G,loop,,ABhelix,,ABhelix
+capsid,P1,392,VP3,60,E,loop,,ABhelix,,ABhelix
+capsid,P1,393,VP3,61,K,helix,,ABhelix,,ABhelix
+capsid,P1,394,VP3,62,V,helix,,ABhelix,,ABhelix
+capsid,P1,395,VP3,63,N,helix,,ABhelix,,ABhelix
+capsid,P1,396,VP3,64,S,loop,,ABloop,,ABloop
+capsid,P1,397,VP3,65,M,helix,,ABhelix,,ABhelix
+capsid,P1,398,VP3,66,E,helix,,ABhelix,,ABhelix
+capsid,P1,399,VP3,67,A,helix,,ABhelix,,ABhelix
+capsid,P1,400,VP3,68,Y,helix,,ABhelix,,ABhelix
+capsid,P1,401,VP3,69,Q,loop,,ABloop,,ABloop
+capsid,P1,402,VP3,70,I,strand,,B,,B
+capsid,P1,403,VP3,71,P,strand,,B,,B
+capsid,P1,404,VP3,72,V,strand,,B,,B
+capsid,P1,405,VP3,73,R,strand,,B,,B
+capsid,P1,406,VP3,74,S,loop,,BCloop,,BCloop
+capsid,P1,407,VP3,75,N,loop,,BCloop,,BCloop
+capsid,P1,408,VP3,76,E,loop,,BCloop,,BCloop
+capsid,P1,409,VP3,77,G,loop,,BCloop,,BCloop
+capsid,P1,410,VP3,78,S,loop,,BCloop,,BCloop
+capsid,P1,411,VP3,79,G,loop,,BCloop,,BCloop
+capsid,P1,412,VP3,80,T,strand,,BCloop,,BCloop
+capsid,P1,413,VP3,81,Q,strand,,C,,C
+capsid,P1,414,VP3,82,V,strand,,C,,C
+capsid,P1,415,VP3,83,F,strand,,C,,C
+capsid,P1,416,VP3,84,G,strand,,C,,C
+capsid,P1,417,VP3,85,F,strand,,C,,C
+capsid,P1,418,VP3,86,P,strand,,C,,C
+capsid,P1,419,VP3,87,L,loop,,CDloop,,CDloop
+capsid,P1,420,VP3,88,Q,loop,,CDloop,,CDloop
+capsid,P1,421,VP3,89,P,loop,,CDloop,,CDloop
+capsid,P1,422,VP3,90,G,loop,,CDloop,,CDloop
+capsid,P1,423,VP3,91,Y,loop,,CDloop,,CDloop
+capsid,P1,424,VP3,92,S,loop,,CDloop,,CDloop
+capsid,P1,425,VP3,93,S,loop,,CDloop,,CDloop
+capsid,P1,426,VP3,94,V,loop,,CDloop,,CDloop
+capsid,P1,427,VP3,95,F,loop,,CDloop,,CDloop
+capsid,P1,428,VP3,96,S,loop,,CDloop,,CDloop
+capsid,P1,429,VP3,97,R,loop,,CDloop,,CDloop
+capsid,P1,430,VP3,98,T,loop,,CDloop,,CDloop
+capsid,P1,431,VP3,99,L,helix,,A,,A
+capsid,P1,432,VP3,100,L,helix,,A,,A
+capsid,P1,433,VP3,101,G,helix,,A,,A
+capsid,P1,434,VP3,102,E,helix,,A,,A
+capsid,P1,435,VP3,103,I,helix,,A,,A
+capsid,P1,436,VP3,104,L,helix,,A,,A
+capsid,P1,437,VP3,105,N,helix,,CDloop,,CDloop
+capsid,P1,438,VP3,106,Y,loop,,CDloop,,CDloop
+capsid,P1,439,VP3,107,Y,strand,,D,,D
+capsid,P1,440,VP3,108,T,strand,,D,,D
+capsid,P1,441,VP3,109,H,strand,,D,,D
+capsid,P1,442,VP3,110,W,strand,,D,,D
+capsid,P1,443,VP3,111,S,strand,,D,,D
+capsid,P1,444,VP3,112,G,loop,,Dloop,,Dloop
+capsid,P1,445,VP3,113,S,loop,,Dloop,,Dloop
+capsid,P1,446,VP3,114,I,strand,,D,,D
+capsid,P1,447,VP3,115,K,strand,,D,,D
+capsid,P1,448,VP3,116,L,strand,,D,,D
+capsid,P1,449,VP3,117,T,strand,,D,,D
+capsid,P1,450,VP3,118,F,strand,,D,,D
+capsid,P1,451,VP3,119,M,strand,,D,,D
+capsid,P1,452,VP3,120,F,strand,,D,,D
+capsid,P1,453,VP3,121,C,loop,,DEloop,,DEloop
+capsid,P1,454,VP3,122,G,loop,,DEloop,,DEloop
+capsid,P1,455,VP3,123,S,strand,,DEloop,,DEloop
+capsid,P1,456,VP3,124,A,loop,,DEloop,,DEloop
+capsid,P1,457,VP3,125,M,loop,,DEloop,,DEloop
+capsid,P1,458,VP3,126,A,loop,,DEloop,,DEloop
+capsid,P1,459,VP3,127,T,strand,,DEloop,,DEloop
+capsid,P1,460,VP3,128,G,strand,,DEloop,,DEloop
+capsid,P1,461,VP3,129,K,strand,,E,,E
+capsid,P1,462,VP3,130,F,strand,,E,,E
+capsid,P1,463,VP3,131,L,strand,,E,,E
+capsid,P1,464,VP3,132,L,strand,,E,,E
+capsid,P1,465,VP3,133,A,strand,,E,,E
+capsid,P1,466,VP3,134,Y,strand,,E,,E
+capsid,P1,467,VP3,135,S,strand,,E,,E
+capsid,P1,468,VP3,136,P,loop,,EFloop,,EFloop
+capsid,P1,469,VP3,137,P,loop,,EFloop,,EFloop
+capsid,P1,470,VP3,138,G,loop,,EFloop,,EFloop
+capsid,P1,471,VP3,139,A,loop,,EFloop,,EFloop
+capsid,P1,472,VP3,140,G,loop,,EFloop,,EFloop
+capsid,P1,473,VP3,141,A,loop,,EFloop,,EFloop
+capsid,P1,474,VP3,142,P,loop,,EFloop,,EFloop
+capsid,P1,475,VP3,143,T,loop,,EFloop,,EFloop
+capsid,P1,476,VP3,144,K,loop,,EFloop,,EFloop
+capsid,P1,477,VP3,145,R,helix,,B,,B
+capsid,P1,478,VP3,146,V,helix,,B,,B
+capsid,P1,479,VP3,147,D,helix,,B,,B
+capsid,P1,480,VP3,148,A,helix,,B,,B
+capsid,P1,481,VP3,149,M,helix,,EFloop,,EFloop
+capsid,P1,482,VP3,150,L,loop,,EFloop,,EFloop
+capsid,P1,483,VP3,151,G,loop,,EFloop,,EFloop
+capsid,P1,484,VP3,152,T,strand,,F,,F
+capsid,P1,485,VP3,153,H,strand,,F,,F
+capsid,P1,486,VP3,154,V,strand,,F,,F
+capsid,P1,487,VP3,155,I,strand,,F,,F
+capsid,P1,488,VP3,156,W,strand,,F,,F
+capsid,P1,489,VP3,157,D,strand,,F,,F
+capsid,P1,490,VP3,158,V,loop,,FGloop,,FGloop
+capsid,P1,491,VP3,159,G,loop,,FGloop,,FGloop
+capsid,P1,492,VP3,160,L,loop,,FGloop,,FGloop
+capsid,P1,493,VP3,161,Q,loop,,FGloop,,FGloop
+capsid,P1,494,VP3,162,S,loop,,FGloop,,FGloop
+capsid,P1,495,VP3,163,S,strand,,G1,,G1
+capsid,P1,496,VP3,164,C,strand,,G1,,G1
+capsid,P1,497,VP3,165,V,strand,,G1,,G1
+capsid,P1,498,VP3,166,L,strand,,G1,,G1
+capsid,P1,499,VP3,167,C,strand,,G1,,G1
+capsid,P1,500,VP3,168,I,strand,,G1,,G1
+capsid,P1,501,VP3,169,P,loop,,G1G2loop,,G1G2loop
+capsid,P1,502,VP3,170,W,loop,,G1G2loop,,G1G2loop
+capsid,P1,503,VP3,171,I,loop,,G1G2loop,,G1G2loop
+capsid,P1,504,VP3,172,S,loop,,G1G2loop,,G1G2loop
+capsid,P1,505,VP3,173,Q,loop,,G1G2loop,,G1G2loop
+capsid,P1,506,VP3,174,T,loop,,G1G2loop,,G1G2loop
+capsid,P1,507,VP3,175,H,loop,,G1G2loop,,G1G2loop
+capsid,P1,508,VP3,176,Y,loop,,G1G2loop,,G1G2loop
+capsid,P1,509,VP3,177,R,strand,,G2,,G2
+capsid,P1,510,VP3,178,F,strand,,G2,,G2
+capsid,P1,511,VP3,179,V,loop,,G2Hloop,,G2Hloop
+capsid,P1,512,VP3,180,A,loop,,G2Hloop,,G2Hloop
+capsid,P1,513,VP3,181,S,loop,,G2Hloop,,G2Hloop
+capsid,P1,514,VP3,182,D,loop,,G2Hloop,,G2Hloop
+capsid,P1,515,VP3,183,E,helix,,G2Hloop,,G2Hloop
+capsid,P1,516,VP3,184,Y,helix,,G2Hloop,,G2Hloop
+capsid,P1,517,VP3,185,T,helix,,G2Hloop,,G2Hloop
+capsid,P1,518,VP3,186,A,loop,,G2Hloop,,G2Hloop
+capsid,P1,519,VP3,187,G,loop,,G2Hloop,,G2Hloop
+capsid,P1,520,VP3,188,G,loop,,G2Hloop,,G2Hloop
+capsid,P1,521,VP3,189,F,strand,,H,,H
+capsid,P1,522,VP3,190,I,strand,,H,,H
+capsid,P1,523,VP3,191,T,strand,,H,,H
+capsid,P1,524,VP3,192,C,strand,,H,,H
+capsid,P1,525,VP3,193,W,strand,,H,,H
+capsid,P1,526,VP3,194,Y,strand,,H,,H
+capsid,P1,527,VP3,195,Q,strand,,H,,H
+capsid,P1,528,VP3,196,T,strand,,H,,H
+capsid,P1,529,VP3,197,N,strand,,HIoop,,HIoop
+capsid,P1,530,VP3,198,I,strand,,HIoop,,HIoop
+capsid,P1,531,VP3,199,V,strand,,HIoop,,HIoop
+capsid,P1,532,VP3,200,V,loop,,HIoop,,HIoop
+capsid,P1,533,VP3,201,P,loop,,HIoop,,HIoop
+capsid,P1,534,VP3,202,A,loop,,HIoop,,HIoop
+capsid,P1,535,VP3,203,D,loop,,HIoop,,HIoop
+capsid,P1,536,VP3,204,A,loop,,HIoop,,HIoop
+capsid,P1,537,VP3,205,Q,loop,,HIoop,,HIoop
+capsid,P1,538,VP3,206,S,loop,,HIoop,,HIoop
+capsid,P1,539,VP3,207,S,strand,,I,,I
+capsid,P1,540,VP3,208,C,strand,,I,,I
+capsid,P1,541,VP3,209,Y,strand,,I,,I
+capsid,P1,542,VP3,210,I,strand,,I,,I
+capsid,P1,543,VP3,211,M,strand,,I,,I
+capsid,P1,544,VP3,212,C,strand,,I,,I
+capsid,P1,545,VP3,213,F,strand,,I,,I
+capsid,P1,546,VP3,214,V,strand,,I,,I
+capsid,P1,547,VP3,215,S,strand,,I,,I
+capsid,P1,548,VP3,216,A,strand,,I,,I
+capsid,P1,549,VP3,217,C,loop,,Ctermloop,,Ctermloop
+capsid,P1,550,VP3,218,N,loop,,Ctermloop,,Ctermloop
+capsid,P1,551,VP3,219,D,loop,,Ctermloop,,Ctermloop
+capsid,P1,552,VP3,220,F,loop,,Ctermloop,,Ctermloop
+capsid,P1,553,VP3,221,S,strand,,Ctermloop,,Ctermloop
+capsid,P1,554,VP3,222,V,strand,,Ctermloop,,Ctermloop
+capsid,P1,555,VP3,223,R,strand,,Ctermloop,,Ctermloop
+capsid,P1,556,VP3,224,L,strand,,Ctermloop,,Ctermloop
+capsid,P1,557,VP3,225,L,strand,,Ctermloop,,Ctermloop
+capsid,P1,558,VP3,226,K,loop,,Ctermloop,,Ctermloop
+capsid,P1,559,VP3,227,D,loop,,Ctermloop,,Ctermloop
+capsid,P1,560,VP3,228,T,loop,,Ctermloop,,Ctermloop
+capsid,P1,561,VP3,229,P,loop,,Ctermloop,,Ctermloop
+capsid,P1,562,VP3,230,F,loop,,Ctermloop,,Ctermloop
+capsid,P1,563,VP3,231,I,loop,,Ctermloop,,Ctermloop
+capsid,P1,564,VP3,232,S,loop,,Ctermloop,,Ctermloop
+capsid,P1,565,VP3,233,Q,loop,,Ctermloop,,Ctermloop
+capsid,P1,566,VP3,234,Q,loop,,Ctermloop,,Ctermloop
+capsid,P1,567,VP3,235,N,loop,,Ctermloop,,Ctermloop
+capsid,P1,568,VP3,236,F,loop,,Ctermloop,,Ctermloop
+capsid,P1,569,VP3,237,F,loop,,Ctermloop,,Ctermloop
+capsid,P1,570,VP3,238,Q,loop,cleavage_site,Ctermloop,,Ctermloop
+capsid,P1,571,VP1,1,G,loop,cleavage_site,Ntermloop,,Ntermloop
+capsid,P1,572,VP1,2,P,loop,,Ntermloop,,Ntermloop
+capsid,P1,573,VP1,3,V,loop,,Ntermloop,,Ntermloop
+capsid,P1,574,VP1,4,E,loop,,Ntermloop,,Ntermloop
+capsid,P1,575,VP1,5,D,loop,,Ntermloop,,Ntermloop
+capsid,P1,576,VP1,6,A,loop,,Ntermloop,,Ntermloop
+capsid,P1,577,VP1,7,I,loop,,Ntermloop,,Ntermloop
+capsid,P1,578,VP1,8,T,loop,,Ntermloop,,Ntermloop
+capsid,P1,579,VP1,9,A,loop,,Ntermloop,,Ntermloop
+capsid,P1,580,VP1,10,A,loop,,Ntermloop,,Ntermloop
+capsid,P1,581,VP1,11,I,loop,,Ntermloop,,Ntermloop
+capsid,P1,582,VP1,12,G,loop,,Ntermloop,,Ntermloop
+capsid,P1,583,VP1,13,R,strand,,Ntermloop,,Ntermloop
+capsid,P1,584,VP1,14,V,loop,,Ntermloop,,Ntermloop
+capsid,P1,585,VP1,15,A,loop,,Ntermloop,,Ntermloop
+capsid,P1,586,VP1,16,D,loop,,Ntermloop,,Ntermloop
+capsid,P1,587,VP1,17,T,strand,,Ntermloop,,Ntermloop
+capsid,P1,588,VP1,18,V,loop,,Ntermloop,,Ntermloop
+capsid,P1,589,VP1,19,G,loop,,Ntermloop,,Ntermloop
+capsid,P1,590,VP1,20,T,strand,,Ntermloop,,Ntermloop
+capsid,P1,591,VP1,21,G,loop,,Ntermloop,,Ntermloop
+capsid,P1,592,VP1,22,P,loop,,Ntermloop,,Ntermloop
+capsid,P1,593,VP1,23,T,loop,,Ntermloop,,Ntermloop
+capsid,P1,594,VP1,24,N,loop,,Ntermloop,,Ntermloop
+capsid,P1,595,VP1,25,S,loop,,Ntermloop,,Ntermloop
+capsid,P1,596,VP1,26,E,loop,,Ntermloop,,Ntermloop
+capsid,P1,597,VP1,27,A,loop,,Ntermloop,,Ntermloop
+capsid,P1,598,VP1,28,I,loop,,Ntermloop,,Ntermloop
+capsid,P1,599,VP1,29,P,loop,,Ntermloop,,Ntermloop
+capsid,P1,600,VP1,30,A,loop,,Ntermloop,,Ntermloop
+capsid,P1,601,VP1,31,L,strand,,A,,A
+capsid,P1,602,VP1,32,T,strand,,A,,A
+capsid,P1,603,VP1,33,A,loop,,ABloop,,ABloop
+capsid,P1,604,VP1,34,A,helix,,ABhelix,,ABhelix
+capsid,P1,605,VP1,35,E,helix,,ABhelix,,ABhelix
+capsid,P1,606,VP1,36,T,helix,,ABhelix,,ABhelix
+capsid,P1,607,VP1,37,G,loop,,ABloop,,ABloop
+capsid,P1,608,VP1,38,H,loop,,ABloop,,ABloop
+capsid,P1,609,VP1,39,T,loop,,ABloop,,ABloop
+capsid,P1,610,VP1,40,S,loop,,ABloop,,ABloop
+capsid,P1,611,VP1,41,Q,loop,,ABloop,,ABloop
+capsid,P1,612,VP1,42,V,loop,,ABloop,,ABloop
+capsid,P1,613,VP1,43,V,loop,,ABloop,,ABloop
+capsid,P1,614,VP1,44,P,helix,,ABhelix,,ABhelix
+capsid,P1,615,VP1,45,G,helix,,ABhelix,,ABhelix
+capsid,P1,616,VP1,46,D,helix,,ABhelix,,ABhelix
+capsid,P1,617,VP1,47,T,loop,,ABloop,,ABloop
+capsid,P1,618,VP1,48,M,loop,,ABloop,,ABloop
+capsid,P1,619,VP1,49,Q,loop,,ABloop,,ABloop
+capsid,P1,620,VP1,50,T,strand,,ABloop,,ABloop
+capsid,P1,621,VP1,51,R,loop,,ABloop,,ABloop
+capsid,P1,622,VP1,52,H,loop,,ABloop,,ABloop
+capsid,P1,623,VP1,53,V,strand,,ABloop,,ABloop
+capsid,P1,624,VP1,54,K,loop,,ABloop,,ABloop
+capsid,P1,625,VP1,55,N,loop,,ABloop,,ABloop
+capsid,P1,626,VP1,56,Y,loop,,ABloop,,ABloop
+capsid,P1,627,VP1,57,H,loop,,ABloop,,ABloop
+capsid,P1,628,VP1,58,S,strand,,ABloop,,ABloop
+capsid,P1,629,VP1,59,R,loop,,ABloop,,ABloop
+capsid,P1,630,VP1,60,S,loop,,ABhelix,,ABhelix
+capsid,P1,631,VP1,61,E,loop,,ABhelix,,ABhelix
+capsid,P1,632,VP1,62,S,loop,,ABhelix,,ABhelix
+capsid,P1,633,VP1,63,T,strand,,ABhelix,,ABhelix
+capsid,P1,634,VP1,64,I,helix,,Zhelix,,Zhelix
+capsid,P1,635,VP1,65,E,helix,,Zhelix,,Zhelix
+capsid,P1,636,VP1,66,N,helix,,Zhelix,,Zhelix
+capsid,P1,637,VP1,67,F,helix,,Zhelix,,Zhelix
+capsid,P1,638,VP1,68,L,helix,,Zhelix,,Zhelix
+capsid,P1,639,VP1,69,C,loop,,ABloop,,ABloop
+capsid,P1,640,VP1,70,R,loop,,ABloop,,ABloop
+capsid,P1,641,VP1,71,S,loop,,ABloop,,ABloop
+capsid,P1,642,VP1,72,A,strand,,B,,B
+capsid,P1,643,VP1,73,C,strand,,B,,B
+capsid,P1,644,VP1,74,V,strand,,B,,B
+capsid,P1,645,VP1,75,Y,strand,,B,,B
+capsid,P1,646,VP1,76,F,strand,,B,,B
+capsid,P1,647,VP1,77,T,strand,,B,,B
+capsid,P1,648,VP1,78,E,strand,,B,,B
+capsid,P1,649,VP1,79,Y,strand,,B,,B
+capsid,P1,650,VP1,80,K,strand,,B,,B
+capsid,P1,651,VP1,81,N,loop,,BCloop,,BCloop
+capsid,P1,652,VP1,82,S,loop,,BCloop,,BCloop
+capsid,P1,653,VP1,83,G,loop,,BCloop,,BCloop
+capsid,P1,654,VP1,84,A,loop,,BCloop,,BCloop
+capsid,P1,655,VP1,85,K,loop,,BCloop,,BCloop
+capsid,P1,656,VP1,86,R,loop,,BCloop,,BCloop
+capsid,P1,657,VP1,87,Y,strand,,C,,C
+capsid,P1,658,VP1,88,A,strand,,C,,C
+capsid,P1,659,VP1,89,E,strand,,C,,C
+capsid,P1,660,VP1,90,W,strand,,C,,C
+capsid,P1,661,VP1,91,V,strand,,C,,C
+capsid,P1,662,VP1,92,L,loop,,CDloop,,CDloop
+capsid,P1,663,VP1,93,T,loop,,CDloop,,CDloop
+capsid,P1,664,VP1,94,P,loop,,CDloop,,CDloop
+capsid,P1,665,VP1,95,R,loop,,CDloop,,CDloop
+capsid,P1,666,VP1,96,Q,loop,,CDloop,,CDloop
+capsid,P1,667,VP1,97,A,loop,,CDloop,,CDloop
+capsid,P1,668,VP1,98,A,helix,,CDloop,,CDloop
+capsid,P1,669,VP1,99,Q,helix,,A,,A
+capsid,P1,670,VP1,100,L,helix,,A,,A
+capsid,P1,671,VP1,101,R,helix,,A,,A
+capsid,P1,672,VP1,102,R,helix,,A,,A
+capsid,P1,673,VP1,103,K,helix,,A,,A
+capsid,P1,674,VP1,104,L,helix,,A,,A
+capsid,P1,675,VP1,105,E,helix,,CDloop,,CDloop
+capsid,P1,676,VP1,106,F,loop,,CDloop,,CDloop
+capsid,P1,677,VP1,107,F,strand,,D,,D
+capsid,P1,678,VP1,108,T,strand,,D,,D
+capsid,P1,679,VP1,109,Y,strand,,D,,D
+capsid,P1,680,VP1,110,V,strand,,D,,D
+capsid,P1,681,VP1,111,R,strand,,D,,D
+capsid,P1,682,VP1,112,F,strand,,D,,D
+capsid,P1,683,VP1,113,D,strand,,D,,D
+capsid,P1,684,VP1,114,L,strand,,D,,D
+capsid,P1,685,VP1,115,E,strand,,D,,D
+capsid,P1,686,VP1,116,L,strand,,D,,D
+capsid,P1,687,VP1,117,T,strand,,D,,D
+capsid,P1,688,VP1,118,F,strand,,D,,D
+capsid,P1,689,VP1,119,V,strand,,D,,D
+capsid,P1,690,VP1,120,I,strand,,D,,D
+capsid,P1,691,VP1,121,T,strand,,D,,D
+capsid,P1,692,VP1,122,S,strand,,D,,D
+capsid,P1,693,VP1,123,T,strand,,D,,D
+capsid,P1,694,VP1,124,Q,strand,,D,,D
+capsid,P1,695,VP1,125,Q,loop,,DEloop,,DEloop
+capsid,P1,696,VP1,126,P,loop,,DEloop,,DEloop
+capsid,P1,697,VP1,127,S,loop,,DEloop,,DEloop
+capsid,P1,698,VP1,128,T,loop,,DEloop,,DEloop
+capsid,P1,699,VP1,129,T,loop,,DEloop,,DEloop
+capsid,P1,700,VP1,130,Q,loop,,DEloop,,DEloop
+capsid,P1,701,VP1,131,N,loop,,DEloop,,DEloop
+capsid,P1,702,VP1,132,Q,loop,,DEloop,,DEloop
+capsid,P1,703,VP1,133,D,loop,,DEloop,,DEloop
+capsid,P1,704,VP1,134,A,loop,,DEloop,,DEloop
+capsid,P1,705,VP1,135,Q,loop,,DEloop,,DEloop
+capsid,P1,706,VP1,136,I,loop,,DEloop,,DEloop
+capsid,P1,707,VP1,137,L,loop,,DEloop,,DEloop
+capsid,P1,708,VP1,138,T,strand,,E,,E
+capsid,P1,709,VP1,139,H,strand,,E,,E
+capsid,P1,710,VP1,140,Q,strand,,E,,E
+capsid,P1,711,VP1,141,I,strand,,E,,E
+capsid,P1,712,VP1,142,M,strand,,E,,E
+capsid,P1,713,VP1,143,Y,strand,,E,,E
+capsid,P1,714,VP1,144,V,strand,,E,,E
+capsid,P1,715,VP1,145,P,loop,,EFloop,,EFloop
+capsid,P1,716,VP1,146,P,loop,,EFloop,,EFloop
+capsid,P1,717,VP1,147,G,loop,,EFloop,,EFloop
+capsid,P1,718,VP1,148,G,loop,,EFloop,,EFloop
+capsid,P1,719,VP1,149,P,loop,,EFloop,,EFloop
+capsid,P1,720,VP1,150,V,loop,,EFloop,,EFloop
+capsid,P1,721,VP1,151,P,loop,,EFloop,,EFloop
+capsid,P1,722,VP1,152,D,loop,,EFloop,,EFloop
+capsid,P1,723,VP1,153,K,loop,,EFloop,,EFloop
+capsid,P1,724,VP1,154,V,loop,,EFloop,,EFloop
+capsid,P1,725,VP1,155,D,loop,,EFloop,,EFloop
+capsid,P1,726,VP1,156,S,loop,,EFloop,,EFloop
+capsid,P1,727,VP1,157,Y,helix,,Bhelix,,Bhelix
+capsid,P1,728,VP1,158,V,helix,,Bhelix,,Bhelix
+capsid,P1,729,VP1,159,W,helix,,Bhelix,,Bhelix
+capsid,P1,730,VP1,160,Q,helix,,Bhelix,,Bhelix
+capsid,P1,731,VP1,161,T,loop,,EFloop,,EFloop
+capsid,P1,732,VP1,162,S,loop,,EFloop,,EFloop
+capsid,P1,733,VP1,163,T,loop,,EFloop,,EFloop
+capsid,P1,734,VP1,164,N,loop,,EFloop,,EFloop
+capsid,P1,735,VP1,165,P,loop,,EFloop,,EFloop
+capsid,P1,736,VP1,166,S,strand,,F,,F
+capsid,P1,737,VP1,167,V,strand,,F,,F
+capsid,P1,738,VP1,168,F,strand,,F,,F
+capsid,P1,739,VP1,169,W,strand,,F,,F
+capsid,P1,740,VP1,170,T,strand,,F,,F
+capsid,P1,741,VP1,171,E,loop,,FG1loop,,FG1loop
+capsid,P1,742,VP1,172,G,loop,,FG1loop,,FG1loop
+capsid,P1,743,VP1,173,N,loop,,FG1loop,,FG1loop
+capsid,P1,744,VP1,174,A,loop,,FG1loop,,FG1loop
+capsid,P1,745,VP1,175,P,loop,,FG1loop,,FG1loop
+capsid,P1,746,VP1,176,P,loop,,FG1loop,,FG1loop
+capsid,P1,747,VP1,177,R,strand,,G1,,G1
+capsid,P1,748,VP1,178,M,strand,,G1,,G1
+capsid,P1,749,VP1,179,S,strand,,G1,,G1
+capsid,P1,750,VP1,180,I,strand,,G1,,G1
+capsid,P1,751,VP1,181,P,loop,,G1G2loop,,G1G2loop
+capsid,P1,752,VP1,182,F,loop,,G1G2loop,,G1G2loop
+capsid,P1,753,VP1,183,L,loop,,G1G2loop,,G1G2loop
+capsid,P1,754,VP1,184,S,loop,,G1G2loop,,G1G2loop
+capsid,P1,755,VP1,185,I,loop,,G1G2loop,,G1G2loop
+capsid,P1,756,VP1,186,G,loop,,G1G2loop,,G1G2loop
+capsid,P1,757,VP1,187,N,loop,,G1G2loop,,G1G2loop
+capsid,P1,758,VP1,188,A,loop,,G1G2loop,,G1G2loop
+capsid,P1,759,VP1,189,Y,strand,,G2,,G2
+capsid,P1,760,VP1,190,S,strand,,G2,,G2
+capsid,P1,761,VP1,191,N,loop,,G2Hloop,,G2Hloop
+capsid,P1,762,VP1,192,F,loop,,G2Hloop,,G2Hloop
+capsid,P1,763,VP1,193,Y,loop,,G2Hloop,,G2Hloop
+capsid,P1,764,VP1,194,D,loop,,G2Hloop,,G2Hloop
+capsid,P1,765,VP1,195,G,strand,,G2Hloop,,G2Hloop
+capsid,P1,766,VP1,196,W,strand,,G2Hloop,,G2Hloop
+capsid,P1,767,VP1,197,S,strand,,G2Hloop,,G2Hloop
+capsid,P1,768,VP1,198,E,strand,,G2Hloop,,G2Hloop
+capsid,P1,769,VP1,199,F,loop,,G2Hloop,,G2Hloop
+capsid,P1,770,VP1,200,S,loop,,G2Hloop,,G2Hloop
+capsid,P1,771,VP1,201,R,loop,,G2Hloop,,G2Hloop
+capsid,P1,772,VP1,202,N,strand,,G2Hloop,,G2Hloop
+capsid,P1,773,VP1,203,G,strand,,G2Hloop,,G2Hloop
+capsid,P1,774,VP1,204,V,strand,,G2Hloop,,G2Hloop
+capsid,P1,775,VP1,205,Y,strand,,G2Hloop,,G2Hloop
+capsid,P1,776,VP1,206,G,loop,,G2Hloop,,G2Hloop
+capsid,P1,777,VP1,207,I,helix,,G2Hhelix,,G2Hhelix
+capsid,P1,778,VP1,208,N,helix,,G2Hhelix,,G2Hhelix
+capsid,P1,779,VP1,209,T,helix,,G2Hhelix,,G2Hhelix
+capsid,P1,780,VP1,210,L,loop,,G2Hloop,,G2Hloop
+capsid,P1,781,VP1,211,N,loop,,G2Hloop,,G2Hloop
+capsid,P1,782,VP1,212,N,loop,,G2Hloop,,G2Hloop
+capsid,P1,783,VP1,213,M,loop,,G2Hloop,,G2Hloop
+capsid,P1,784,VP1,214,G,loop,,G2Hloop,,G2Hloop
+capsid,P1,785,VP1,215,T,strand,,H,,H
+capsid,P1,786,VP1,216,L,strand,,H,,H
+capsid,P1,787,VP1,217,Y,strand,,H,,H
+capsid,P1,788,VP1,218,A,strand,,H,,H
+capsid,P1,789,VP1,219,R,strand,,H,,H
+capsid,P1,790,VP1,220,H,strand,,H,,H
+capsid,P1,791,VP1,221,V,loop,,HIloop,,HIloop
+capsid,P1,792,VP1,222,N,loop,,HIloop,,HIloop
+capsid,P1,793,VP1,223,A,loop,,HIloop,,HIloop
+capsid,P1,794,VP1,224,G,loop,,HIloop,,HIloop
+capsid,P1,795,VP1,225,S,loop,,HIloop,,HIloop
+capsid,P1,796,VP1,226,T,loop,,HIloop,,HIloop
+capsid,P1,797,VP1,227,G,loop,,HIloop,,HIloop
+capsid,P1,798,VP1,228,P,loop,,HIloop,,HIloop
+capsid,P1,799,VP1,229,I,strand,,I,,I
+capsid,P1,800,VP1,230,K,strand,,I,,I
+capsid,P1,801,VP1,231,S,strand,,I,,I
+capsid,P1,802,VP1,232,T,strand,,I,,I
+capsid,P1,803,VP1,233,I,strand,,I,,I
+capsid,P1,804,VP1,234,R,strand,,I,,I
+capsid,P1,805,VP1,235,I,strand,,I,,I
+capsid,P1,806,VP1,236,Y,strand,,I,,I
+capsid,P1,807,VP1,237,F,strand,,I,,I
+capsid,P1,808,VP1,238,K,loop,,Iloop,,Iloop
+capsid,P1,809,VP1,239,P,strand,,I,,I
+capsid,P1,810,VP1,240,K,strand,,I,,I
+capsid,P1,811,VP1,241,H,strand,,I,,I
+capsid,P1,812,VP1,242,V,strand,,I,,I
+capsid,P1,813,VP1,243,K,strand,,I,,I
+capsid,P1,814,VP1,244,A,strand,,I,,I
+capsid,P1,815,VP1,245,W,strand,,I,,I
+capsid,P1,816,VP1,246,I,strand,,I,,I
+capsid,P1,817,VP1,247,P,strand,,I,,I
+capsid,P1,818,VP1,248,R,loop,,Ctermloop,,Ctermloop
+capsid,P1,819,VP1,249,P,loop,,Ctermloop,,Ctermloop
+capsid,P1,820,VP1,250,P,loop,,Ctermloop,,Ctermloop
+capsid,P1,821,VP1,251,R,strand,,Ctermloop,,Ctermloop
+capsid,P1,822,VP1,252,L,loop,,Ctermloop,,Ctermloop
+capsid,P1,823,VP1,253,C,loop,,Ctermloop,,Ctermloop
+capsid,P1,824,VP1,254,Q,loop,,Ctermloop,,Ctermloop
+capsid,P1,825,VP1,255,Y,strand,,Ctermloop,,Ctermloop
+capsid,P1,826,VP1,256,E,loop,,Ctermloop,,Ctermloop
+capsid,P1,827,VP1,257,K,loop,,Ctermloop,,Ctermloop
+capsid,P1,828,VP1,258,A,loop,,Ctermloop,,Ctermloop
+capsid,P1,829,VP1,259,K,loop,,Ctermloop,,Ctermloop
+capsid,P1,830,VP1,260,N,loop,,Ctermloop,,Ctermloop
+capsid,P1,831,VP1,261,V,loop,,Ctermloop,,Ctermloop
+capsid,P1,832,VP1,262,N,loop,,Ctermloop,,Ctermloop
+capsid,P1,833,VP1,263,F,strand,,Ctermloop,,Ctermloop
+capsid,P1,834,VP1,264,Q,loop,,Ctermloop,,Ctermloop
+capsid,P1,835,VP1,265,P,loop,,Ctermloop,,Ctermloop
+capsid,P1,836,VP1,266,S,loop,,Ctermloop,,Ctermloop
+capsid,P1,837,VP1,267,G,loop,,Ctermloop,,Ctermloop
+capsid,P1,838,VP1,268,V,loop,,Ctermloop,,Ctermloop
+capsid,P1,839,VP1,269,T,loop,,Ctermloop,,Ctermloop
+capsid,P1,840,VP1,270,T,loop,,Ctermloop,,Ctermloop
+capsid,P1,841,VP1,271,T,loop,,Ctermloop,,Ctermloop
+capsid,P1,842,VP1,272,R,loop,,Ctermloop,,Ctermloop
+capsid,P1,843,VP1,273,Q,loop,,Ctermloop,,Ctermloop
+capsid,P1,844,VP1,274,S,loop,,Ctermloop,,Ctermloop
+capsid,P1,845,VP1,275,I,loop,,Ctermloop,,Ctermloop
+capsid,P1,846,VP1,276,T,loop,,Ctermloop,,Ctermloop
+capsid,P1,847,VP1,277,T,loop,,Ctermloop,,Ctermloop
+capsid,P1,848,VP1,278,M,loop,,Ctermloop,,Ctermloop
+capsid,P1,849,VP1,279,T,loop,,Ctermloop,,Ctermloop
+capsid,P1,850,VP1,280,N,loop,,Ctermloop,,Ctermloop
+capsid,P1,851,VP1,281,T,loop,cleavage_site,Ctermloop,,Ctermloop
+replication,P2,852,2A,1,G,loop,cleavage_site,,,
+replication,P2,853,2A,2,A,loop,,,,
+replication,P2,854,2A,3,F,loop,,,,
+replication,P2,855,2A,4,G,loop,,,,
+replication,P2,856,2A,5,Q,loop,,,,
+replication,P2,857,2A,6,Q,loop,,,,
+replication,P2,858,2A,7,S,loop,,,,
+replication,P2,859,2A,8,G,loop,,,,
+replication,P2,860,2A,9,A,loop,,,,
+replication,P2,861,2A,10,V,strand,,,,
+replication,P2,862,2A,11,Y,strand,,,,
+replication,P2,863,2A,12,V,strand,,,,
+replication,P2,864,2A,13,G,strand,,,,
+replication,P2,865,2A,14,N,strand,,,,
+replication,P2,866,2A,15,Y,strand,,,,
+replication,P2,867,2A,16,R,strand,,,,
+replication,P2,868,2A,17,V,strand,,,,
+replication,P2,869,2A,18,V,strand,,,,
+replication,P2,870,2A,19,N,strand,,,,
+replication,P2,871,2A,20,R,helix,,,,
+replication,P2,872,2A,21,H,helix,active_site,,,
+replication,P2,873,2A,22,L,helix,,,,
+replication,P2,874,2A,23,A,loop,,,,
+replication,P2,875,2A,24,T,loop,,,,
+replication,P2,876,2A,25,S,helix,,,,
+replication,P2,877,2A,26,A,helix,,,,
+replication,P2,878,2A,27,D,helix,,,,
+replication,P2,879,2A,28,W,helix,,,,
+replication,P2,880,2A,29,Q,helix,,,,
+replication,P2,881,2A,30,N,helix,,,,
+replication,P2,882,2A,31,C,strand,,,,
+replication,P2,883,2A,32,V,strand,,,,
+replication,P2,884,2A,33,W,strand,,,,
+replication,P2,885,2A,34,E,strand,,,,
+replication,P2,886,2A,35,S,strand,,,,
+replication,P2,887,2A,36,Y,helix,,,,
+replication,P2,888,2A,37,N,helix,,,,
+replication,P2,889,2A,38,R,helix,,,,
+replication,P2,890,2A,39,D,loop,active_site,,,
+replication,P2,891,2A,40,L,strand,,,,
+replication,P2,892,2A,41,L,strand,,,,
+replication,P2,893,2A,42,V,strand,,,,
+replication,P2,894,2A,43,S,strand,,,,
+replication,P2,895,2A,44,T,strand,,,,
+replication,P2,896,2A,45,T,strand,,,,
+replication,P2,897,2A,46,T,strand,,,,
+replication,P2,898,2A,47,A,strand,,,,
+replication,P2,899,2A,48,H,strand,,,,
+replication,P2,900,2A,49,G,strand,,,,
+replication,P2,901,2A,50,C,strand,,,,
+replication,P2,902,2A,51,D,loop,,,,
+replication,P2,903,2A,52,I,loop,,,,
+replication,P2,904,2A,53,I,strand,,,,
+replication,P2,905,2A,54,A,loop,,,,
+replication,P2,906,2A,55,R,loop,,,,
+replication,P2,907,2A,56,C,loop,,,,
+replication,P2,908,2A,57,Q,loop,,,,
+replication,P2,909,2A,58,C,loop,,,,
+replication,P2,910,2A,59,T,loop,,,,
+replication,P2,911,2A,60,T,strand,,,,
+replication,P2,912,2A,61,G,strand,,,,
+replication,P2,913,2A,62,V,strand,,,,
+replication,P2,914,2A,63,Y,strand,,,,
+replication,P2,915,2A,64,F,strand,,,,
+replication,P2,916,2A,65,C,strand,,,,
+replication,P2,917,2A,66,A,loop,,,,
+replication,P2,918,2A,67,S,loop,,,,
+replication,P2,919,2A,68,K,loop,,,,
+replication,P2,920,2A,69,N,loop,,,,
+replication,P2,921,2A,70,K,strand,,,,
+replication,P2,922,2A,71,H,strand,,,,
+replication,P2,923,2A,72,Y,strand,,,,
+replication,P2,924,2A,73,P,strand,,,,
+replication,P2,925,2A,74,I,strand,,,,
+replication,P2,926,2A,75,S,strand,,,,
+replication,P2,927,2A,76,F,strand,,,,
+replication,P2,928,2A,77,E,strand,,,,
+replication,P2,929,2A,78,G,loop,,,,
+replication,P2,930,2A,79,P,loop,,,,
+replication,P2,931,2A,80,G,strand,,,,
+replication,P2,932,2A,81,L,strand,,,,
+replication,P2,933,2A,82,V,strand,,,,
+replication,P2,934,2A,83,E,strand,,,,
+replication,P2,935,2A,84,V,strand,,,,
+replication,P2,936,2A,85,Q,loop,,,,
+replication,P2,937,2A,86,E,loop,,,,
+replication,P2,938,2A,87,S,strand,,,,
+replication,P2,939,2A,88,E,loop,,,,
+replication,P2,940,2A,89,Y,loop,,,,
+replication,P2,941,2A,90,Y,strand,,,,
+replication,P2,942,2A,91,P,loop,,,,
+replication,P2,943,2A,92,R,loop,,,,
+replication,P2,944,2A,93,R,strand,,,,
+replication,P2,945,2A,94,Y,strand,,,,
+replication,P2,946,2A,95,Q,strand,,,,
+replication,P2,947,2A,96,S,strand,,,,
+replication,P2,948,2A,97,H,strand,,,,
+replication,P2,949,2A,98,V,strand,,,,
+replication,P2,950,2A,99,L,strand,,,,
+replication,P2,951,2A,100,L,strand,,,,
+replication,P2,952,2A,101,A,strand,,,,
+replication,P2,953,2A,102,A,strand,,,,
+replication,P2,954,2A,103,G,loop,,,,
+replication,P2,955,2A,104,F,loop,,,,
+replication,P2,956,2A,105,S,loop,,,,
+replication,P2,957,2A,106,E,loop,,,,
+replication,P2,958,2A,107,P,loop,,,,
+replication,P2,959,2A,108,G,loop,,,,
+replication,P2,960,2A,109,D,loop,,,,
+replication,P2,961,2A,110,C,loop,active_site,,,
+replication,P2,962,2A,111,G,loop,,,,
+replication,P2,963,2A,112,G,strand,,,,
+replication,P2,964,2A,113,I,strand,,,,
+replication,P2,965,2A,114,L,strand,,,,
+replication,P2,966,2A,115,R,strand,,,,
+replication,P2,967,2A,116,C,strand,,,,
+replication,P2,968,2A,117,E,loop,,,,
+replication,P2,969,2A,118,H,loop,,,,
+replication,P2,970,2A,119,G,strand,,,,
+replication,P2,971,2A,120,V,strand,,,,
+replication,P2,972,2A,121,I,strand,,,,
+replication,P2,973,2A,122,G,strand,,,,
+replication,P2,974,2A,123,I,strand,,,,
+replication,P2,975,2A,124,V,strand,,,,
+replication,P2,976,2A,125,T,strand,,,,
+replication,P2,977,2A,126,M,strand,,,,
+replication,P2,978,2A,127,G,strand,,,,
+replication,P2,979,2A,128,G,strand,,,,
+replication,P2,980,2A,129,E,loop,,,,
+replication,P2,981,2A,130,G,loop,,,,
+replication,P2,982,2A,131,V,strand,,,,
+replication,P2,983,2A,132,V,strand,,,,
+replication,P2,984,2A,133,G,strand,,,,
+replication,P2,985,2A,134,F,strand,,,,
+replication,P2,986,2A,135,A,strand,,,,
+replication,P2,987,2A,136,D,strand,,,,
+replication,P2,988,2A,137,I,loop,,,,
+replication,P2,989,2A,138,R,loop,,,,
+replication,P2,990,2A,139,D,loop,,,,
+replication,P2,991,2A,140,L,loop,,,,
+replication,P2,992,2A,141,L,helix,,,,
+replication,P2,993,2A,142,W,helix,,,,
+replication,P2,994,2A,143,L,helix,,,,
+replication,P2,995,2A,144,E,helix,,,,
+replication,P2,996,2A,145,D,helix,,,,
+replication,P2,997,2A,146,D,helix,,,,
+replication,P2,998,2A,147,A,loop,,,,
+replication,P2,999,2A,148,M,loop,,,,
+replication,P2,1000,2A,149,E,loop,,,,
+replication,P2,1001,2A,150,Q,loop,cleavage_site,,,
+replication,P2,1002,2B,1,G,loop,cleavage_site,,,
+replication,P2,1003,2B,2,V,helix,,,,
+replication,P2,1004,2B,3,K,helix,,,,
+replication,P2,1005,2B,4,D,helix,,,,
+replication,P2,1006,2B,5,Y,helix,,,,
+replication,P2,1007,2B,6,V,helix,,,,
+replication,P2,1008,2B,7,E,helix,,,,
+replication,P2,1009,2B,8,Q,helix,,,,
+replication,P2,1010,2B,9,L,helix,,,,
+replication,P2,1011,2B,10,G,helix,,,,
+replication,P2,1012,2B,11,N,helix,,,,
+replication,P2,1013,2B,12,A,helix,,,,
+replication,P2,1014,2B,13,F,helix,,,,
+replication,P2,1015,2B,14,G,loop,,,,
+replication,P2,1016,2B,15,S,helix,,,,
+replication,P2,1017,2B,16,G,helix,,,,
+replication,P2,1018,2B,17,F,helix,,,,
+replication,P2,1019,2B,18,T,helix,,,,
+replication,P2,1020,2B,19,N,helix,,,,
+replication,P2,1021,2B,20,Q,helix,,,,
+replication,P2,1022,2B,21,I,helix,,,,
+replication,P2,1023,2B,22,C,helix,,,,
+replication,P2,1024,2B,23,E,helix,,,,
+replication,P2,1025,2B,24,Q,helix,,,,
+replication,P2,1026,2B,25,V,helix,,,,
+replication,P2,1027,2B,26,N,helix,,,,
+replication,P2,1028,2B,27,L,helix,,,,
+replication,P2,1029,2B,28,L,helix,,,,
+replication,P2,1030,2B,29,K,helix,,,,
+replication,P2,1031,2B,30,E,helix,,,,
+replication,P2,1032,2B,31,S,helix,,,,
+replication,P2,1033,2B,32,L,loop,,,,
+replication,P2,1034,2B,33,V,loop,,,,
+replication,P2,1035,2B,34,G,loop,,,,
+replication,P2,1036,2B,35,Q,loop,,,,
+replication,P2,1037,2B,36,D,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1038,2B,37,S,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1039,2B,38,I,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1040,2B,39,L,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1041,2B,40,E,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1042,2B,41,K,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1043,2B,42,S,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1044,2B,43,L,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1045,2B,44,K,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1046,2B,45,A,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1047,2B,46,L,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1048,2B,47,V,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1049,2B,48,K,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1050,2B,49,I,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1051,2B,50,I,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1052,2B,51,S,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1053,2B,52,A,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1054,2B,53,L,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1055,2B,54,V,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1056,2B,55,I,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1057,2B,56,V,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1058,2B,57,V,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1059,2B,58,R,helix,,amphipathic helix,UniProt + Alphafold2,
+replication,P2,1060,2B,59,N,loop,,stem-loop,UniProt + Alphafold2,
+replication,P2,1061,2B,60,H,loop,,stem-loop,UniProt + Alphafold2,
+replication,P2,1062,2B,61,D,loop,,stem-loop,UniProt + Alphafold2,
+replication,P2,1063,2B,62,D,helix,,stem-loop,UniProt + Alphafold2,
+replication,P2,1064,2B,63,L,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1065,2B,64,I,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1066,2B,65,T,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1067,2B,66,V,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1068,2B,67,T,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1069,2B,68,A,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1070,2B,69,T,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1071,2B,70,L,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1072,2B,71,A,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1073,2B,72,L,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1074,2B,73,I,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1075,2B,74,G,loop,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1076,2B,75,C,loop,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1077,2B,76,T,loop,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1078,2B,77,S,loop,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1079,2B,78,S,loop,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1080,2B,79,P,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1081,2B,80,W,helix,,complete hydrophobic,UniProt + Alphafold2,
+replication,P2,1082,2B,81,R,helix,,,,
+replication,P2,1083,2B,82,W,helix,,,,
+replication,P2,1084,2B,83,L,helix,,,,
+replication,P2,1085,2B,84,K,helix,,,,
+replication,P2,1086,2B,85,Q,helix,,,,
+replication,P2,1087,2B,86,K,helix,,,,
+replication,P2,1088,2B,87,V,helix,,,,
+replication,P2,1089,2B,88,S,helix,,,,
+replication,P2,1090,2B,89,Q,helix,,,,
+replication,P2,1091,2B,90,Y,helix,,,,
+replication,P2,1092,2B,91,Y,helix,,,,
+replication,P2,1093,2B,92,G,loop,,,,
+replication,P2,1094,2B,93,I,loop,,,,
+replication,P2,1095,2B,94,P,loop,,,,
+replication,P2,1096,2B,95,M,loop,,,,
+replication,P2,1097,2B,96,A,loop,,,,
+replication,P2,1098,2B,97,E,loop,,,,
+replication,P2,1099,2B,98,R,loop,,,,
+replication,P2,1100,2B,99,Q,loop,cleavage_site,,,
+replication,P2,1101,2C,1,N,loop,cleavage_site,MBD,UniProt,
+replication,P2,1102,2C,2,N,helix,,MBD,UniProt,
+replication,P2,1103,2C,3,S,helix,,MBD,UniProt,
+replication,P2,1104,2C,4,W,helix,,MBD,UniProt,
+replication,P2,1105,2C,5,L,helix,,MBD,UniProt,
+replication,P2,1106,2C,6,K,helix,,MBD,UniProt,
+replication,P2,1107,2C,7,K,helix,,MBD,UniProt,
+replication,P2,1108,2C,8,F,helix,,MBD,UniProt,
+replication,P2,1109,2C,9,T,helix,,MBD,UniProt,
+replication,P2,1110,2C,10,E,helix,,MBD,UniProt,
+replication,P2,1111,2C,11,M,helix,,MBD,UniProt,
+replication,P2,1112,2C,12,T,helix,,MBD,UniProt,
+replication,P2,1113,2C,13,N,helix,,MBD,UniProt,
+replication,P2,1114,2C,14,A,helix,,MBD,UniProt,
+replication,P2,1115,2C,15,C,helix,,MBD,UniProt,
+replication,P2,1116,2C,16,K,helix,,MBD,UniProt,
+replication,P2,1117,2C,17,G,helix,,MBD,UniProt,
+replication,P2,1118,2C,18,M,helix,,MBD,UniProt,
+replication,P2,1119,2C,19,E,helix,,MBD,UniProt,
+replication,P2,1120,2C,20,W,helix,,MBD,UniProt,
+replication,P2,1121,2C,21,I,helix,,MBD,UniProt,
+replication,P2,1122,2C,22,A,helix,,MBD,UniProt,
+replication,P2,1123,2C,23,V,helix,,MBD,UniProt,
+replication,P2,1124,2C,24,K,helix,,MBD,UniProt,
+replication,P2,1125,2C,25,I,helix,Involved in the interaction with host RTN3,MBD,UniProt,
+replication,P2,1126,2C,26,Q,helix,,MBD,UniProt,
+replication,P2,1127,2C,27,K,helix,,MBD,UniProt,
+replication,P2,1128,2C,28,F,helix,,MBD,UniProt,
+replication,P2,1129,2C,29,I,helix,,MBD,UniProt,
+replication,P2,1130,2C,30,E,helix,,MBD,UniProt,
+replication,P2,1131,2C,31,W,helix,,MBD,UniProt,
+replication,P2,1132,2C,32,L,helix,,MBD,UniProt,
+replication,P2,1133,2C,33,K,helix,,MBD,UniProt,
+replication,P2,1134,2C,34,V,helix,,MBD,UniProt,
+replication,P2,1135,2C,35,K,helix,,MBD,UniProt,
+replication,P2,1136,2C,36,I,helix,,MBD,UniProt,
+replication,P2,1137,2C,37,L,helix,,MBD,UniProt,
+replication,P2,1138,2C,38,P,helix,,MBD,UniProt,
+replication,P2,1139,2C,39,E,helix,,MBD,UniProt,
+replication,P2,1140,2C,40,V,helix,,MBD,UniProt,
+replication,P2,1141,2C,41,R,helix,,MBD,UniProt,
+replication,P2,1142,2C,42,E,helix,,MBD,UniProt,
+replication,P2,1143,2C,43,K,helix,,MBD,UniProt,
+replication,P2,1144,2C,44,H,helix,,MBD,UniProt,
+replication,P2,1145,2C,45,E,helix,,MBD,UniProt,
+replication,P2,1146,2C,46,F,helix,,MBD,UniProt,
+replication,P2,1147,2C,47,L,helix,,MBD,UniProt,
+replication,P2,1148,2C,48,N,helix,,MBD,UniProt,
+replication,P2,1149,2C,49,R,helix,,MBD,UniProt,
+replication,P2,1150,2C,50,L,helix,,MBD,UniProt,
+replication,P2,1151,2C,51,K,helix,,MBD,UniProt,
+replication,P2,1152,2C,52,Q,helix,,MBD,UniProt,
+replication,P2,1153,2C,53,L,helix,,MBD,UniProt,
+replication,P2,1154,2C,54,P,helix,,MBD,UniProt,
+replication,P2,1155,2C,55,L,helix,,MBD,UniProt,
+replication,P2,1156,2C,56,L,helix,,MBD,UniProt,
+replication,P2,1157,2C,57,E,helix,,MBD,UniProt,
+replication,P2,1158,2C,58,S,helix,,MBD,UniProt,
+replication,P2,1159,2C,59,Q,helix,,MBD,UniProt,
+replication,P2,1160,2C,60,I,helix,,MBD,UniProt,
+replication,P2,1161,2C,61,A,helix,,MBD,UniProt,
+replication,P2,1162,2C,62,T,helix,,MBD,UniProt,
+replication,P2,1163,2C,63,I,loop,,,,
+replication,P2,1164,2C,64,E,loop,,,,
+replication,P2,1165,2C,65,Q,loop,,,,
+replication,P2,1166,2C,66,S,loop,,,,
+replication,P2,1167,2C,67,A,loop,,,,
+replication,P2,1168,2C,68,P,loop,,,,
+replication,P2,1169,2C,69,S,loop,,,,
+replication,P2,1170,2C,70,Q,helix,,,,
+replication,P2,1171,2C,71,S,helix,,,,
+replication,P2,1172,2C,72,D,helix,,,,
+replication,P2,1173,2C,73,Q,helix,,,,
+replication,P2,1174,2C,74,E,helix,,oligomerization,UniProt,
+replication,P2,1175,2C,75,Q,helix,,oligomerization,UniProt,
+replication,P2,1176,2C,76,L,helix,,oligomerization,UniProt,
+replication,P2,1177,2C,77,F,helix,,oligomerization,UniProt,
+replication,P2,1178,2C,78,S,helix,,oligomerization,UniProt,
+replication,P2,1179,2C,79,N,helix,,oligomerization,UniProt,
+replication,P2,1180,2C,80,V,helix,,oligomerization,UniProt,
+replication,P2,1181,2C,81,Q,helix,,oligomerization,UniProt,
+replication,P2,1182,2C,82,Y,helix,,oligomerization,UniProt,
+replication,P2,1183,2C,83,F,helix,,oligomerization,UniProt,
+replication,P2,1184,2C,84,A,helix,,oligomerization,UniProt,
+replication,P2,1185,2C,85,H,helix,,oligomerization,UniProt,
+replication,P2,1186,2C,86,Y,helix,,oligomerization,UniProt,
+replication,P2,1187,2C,87,C,helix,,oligomerization,UniProt,
+replication,P2,1188,2C,88,R,helix,,oligomerization,UniProt,
+replication,P2,1189,2C,89,K,helix,,oligomerization,UniProt,
+replication,P2,1190,2C,90,Y,helix,,oligomerization,UniProt,
+replication,P2,1191,2C,91,A,loop,,oligomerization,UniProt,
+replication,P2,1192,2C,92,P,loop,,oligomerization,UniProt,
+replication,P2,1193,2C,93,L,loop,,oligomerization,UniProt,
+replication,P2,1194,2C,94,Y,loop,,oligomerization,UniProt,
+replication,P2,1195,2C,95,A,helix,,oligomerization,UniProt,
+replication,P2,1196,2C,96,A,helix,,oligomerization,UniProt,
+replication,P2,1197,2C,97,E,helix,,oligomerization,UniProt,
+replication,P2,1198,2C,98,A,helix,,oligomerization,UniProt,
+replication,P2,1199,2C,99,K,helix,,oligomerization,UniProt,
+replication,P2,1200,2C,100,R,helix,,oligomerization,UniProt,
+replication,P2,1201,2C,101,V,helix,,oligomerization,UniProt,
+replication,P2,1202,2C,102,F,helix,,oligomerization,UniProt,
+replication,P2,1203,2C,103,S,helix,,oligomerization,UniProt,
+replication,P2,1204,2C,104,L,helix,,oligomerization,UniProt,
+replication,P2,1205,2C,105,E,helix,,sf3 helicase,UniProt,
+replication,P2,1206,2C,106,K,helix,,sf3 helicase,UniProt,
+replication,P2,1207,2C,107,K,helix,,sf3 helicase,UniProt,
+replication,P2,1208,2C,108,M,helix,cre-stemA,sf3 helicase,UniProt,
+replication,P2,1209,2C,109,S,helix,cre-stemA,sf3 helicase,UniProt,
+replication,P2,1210,2C,110,N,helix,cre-stemA,sf3 helicase,UniProt,
+replication,P2,1211,2C,111,Y,helix,cre-stemA,sf3 helicase,UniProt,
+replication,P2,1212,2C,112,I,helix,cre-stemA,sf3 helicase,UniProt,
+replication,P2,1213,2C,113,Q,helix,cre-stemA,sf3 helicase,UniProt,
+replication,P2,1214,2C,114,F,loop,cre-stemA,sf3 helicase,UniProt,
+replication,P2,1215,2C,115,K,loop,cre-stemA,sf3 helicase,UniProt,
+replication,P2,1216,2C,116,S,loop,cre-loop,sf3 helicase,UniProt,
+replication,P2,1217,2C,117,K,loop,cre-loop,sf3 helicase,UniProt,
+replication,P2,1218,2C,118,C,loop,cre-loop,sf3 helicase,UniProt,
+replication,P2,1219,2C,119,R,loop,cre-loop,sf3 helicase,UniProt,
+replication,P2,1220,2C,120,I,loop,cre-stemB,sf3 helicase,UniProt,
+replication,P2,1221,2C,121,E,loop,cre-stemB,sf3 helicase,UniProt,
+replication,P2,1222,2C,122,P,loop,cre-stemB,sf3 helicase,UniProt,
+replication,P2,1223,2C,123,V,strand,cre-stemB,sf3 helicase,UniProt,
+replication,P2,1224,2C,124,C,strand,cre-stemB,sf3 helicase,UniProt,
+replication,P2,1225,2C,125,L,strand,cre-stemB,sf3 helicase,UniProt,
+replication,P2,1226,2C,126,L,strand,cre-stemB,sf3 helicase,UniProt,
+replication,P2,1227,2C,127,L,strand,,sf3 helicase,UniProt,
+replication,P2,1228,2C,128,H,strand,,sf3 helicase,UniProt,
+replication,P2,1229,2C,129,G,loop,,sf3 helicase,UniProt,
+replication,P2,1230,2C,130,S,loop,,sf3 helicase,UniProt,
+replication,P2,1231,2C,131,P,loop,,sf3 helicase,UniProt,
+replication,P2,1232,2C,132,G,loop,,sf3 helicase,UniProt,
+replication,P2,1233,2C,133,A,loop,,sf3 helicase,UniProt,
+replication,P2,1234,2C,134,G,loop,,sf3 helicase,UniProt,
+replication,P2,1235,2C,135,K,helix,,sf3 helicase,UniProt,
+replication,P2,1236,2C,136,S,helix,,sf3 helicase,UniProt,
+replication,P2,1237,2C,137,V,helix,,sf3 helicase,UniProt,
+replication,P2,1238,2C,138,A,helix,,sf3 helicase,UniProt,
+replication,P2,1239,2C,139,T,helix,,sf3 helicase,UniProt,
+replication,P2,1240,2C,140,N,helix,,sf3 helicase,UniProt,
+replication,P2,1241,2C,141,L,helix,,sf3 helicase,UniProt,
+replication,P2,1242,2C,142,I,helix,,sf3 helicase,UniProt,
+replication,P2,1243,2C,143,G,helix,,sf3 helicase,UniProt,
+replication,P2,1244,2C,144,R,helix,,sf3 helicase,UniProt,
+replication,P2,1245,2C,145,S,helix,,sf3 helicase,UniProt,
+replication,P2,1246,2C,146,L,helix,,sf3 helicase,UniProt,
+replication,P2,1247,2C,147,A,helix,,sf3 helicase,UniProt,
+replication,P2,1248,2C,148,E,helix,,sf3 helicase,UniProt,
+replication,P2,1249,2C,149,K,helix,,sf3 helicase,UniProt,
+replication,P2,1250,2C,150,L,helix,,sf3 helicase,UniProt,
+replication,P2,1251,2C,151,N,loop,,sf3 helicase,UniProt,
+replication,P2,1252,2C,152,S,loop,,sf3 helicase,UniProt,
+replication,P2,1253,2C,153,S,loop,,sf3 helicase,UniProt,
+replication,P2,1254,2C,154,V,strand,,sf3 helicase,UniProt,
+replication,P2,1255,2C,155,Y,strand,,sf3 helicase,UniProt,
+replication,P2,1256,2C,156,S,strand,,sf3 helicase,UniProt,
+replication,P2,1257,2C,157,L,strand,,sf3 helicase,UniProt,
+replication,P2,1258,2C,158,P,loop,,sf3 helicase,UniProt,
+replication,P2,1259,2C,159,P,loop,,sf3 helicase,UniProt,
+replication,P2,1260,2C,160,D,loop,,sf3 helicase,UniProt,
+replication,P2,1261,2C,161,P,loop,,sf3 helicase,UniProt,
+replication,P2,1262,2C,162,D,loop,,sf3 helicase,UniProt,
+replication,P2,1263,2C,163,H,loop,,sf3 helicase,UniProt,
+replication,P2,1264,2C,164,F,loop,,sf3 helicase,UniProt,
+replication,P2,1265,2C,165,D,loop,,sf3 helicase,UniProt,
+replication,P2,1266,2C,166,G,loop,,sf3 helicase,UniProt,
+replication,P2,1267,2C,167,Y,loop,,sf3 helicase,UniProt,
+replication,P2,1268,2C,168,K,loop,,sf3 helicase,UniProt,
+replication,P2,1269,2C,169,Q,loop,,sf3 helicase,UniProt,
+replication,P2,1270,2C,170,Q,loop,,sf3 helicase,UniProt,
+replication,P2,1271,2C,171,A,loop,,sf3 helicase,UniProt,
+replication,P2,1272,2C,172,V,strand,,sf3 helicase,UniProt,
+replication,P2,1273,2C,173,V,strand,,sf3 helicase,UniProt,
+replication,P2,1274,2C,174,I,strand,,sf3 helicase,UniProt,
+replication,P2,1275,2C,175,M,strand,,sf3 helicase,UniProt,
+replication,P2,1276,2C,176,D,loop,,sf3 helicase,UniProt,
+replication,P2,1277,2C,177,D,loop,,sf3 helicase,UniProt,
+replication,P2,1278,2C,178,L,loop,,sf3 helicase,UniProt,
+replication,P2,1279,2C,179,C,loop,,sf3 helicase,UniProt,
+replication,P2,1280,2C,180,Q,loop,,sf3 helicase,UniProt,
+replication,P2,1281,2C,181,N,loop,,sf3 helicase,UniProt,
+replication,P2,1282,2C,182,P,loop,,sf3 helicase,UniProt,
+replication,P2,1283,2C,183,D,loop,,sf3 helicase,UniProt,
+replication,P2,1284,2C,184,G,loop,,sf3 helicase,UniProt,
+replication,P2,1285,2C,185,K,helix,,sf3 helicase,UniProt,
+replication,P2,1286,2C,186,D,helix,,sf3 helicase,UniProt,
+replication,P2,1287,2C,187,V,helix,,sf3 helicase,UniProt,
+replication,P2,1288,2C,188,S,helix,,sf3 helicase,UniProt,
+replication,P2,1289,2C,189,L,helix,,sf3 helicase,UniProt,
+replication,P2,1290,2C,190,F,helix,,sf3 helicase,UniProt,
+replication,P2,1291,2C,191,C,helix,,sf3 helicase,UniProt,
+replication,P2,1292,2C,192,Q,helix,,sf3 helicase,UniProt,
+replication,P2,1293,2C,193,M,helix,,sf3 helicase,UniProt,
+replication,P2,1294,2C,194,V,loop,,sf3 helicase,UniProt,
+replication,P2,1295,2C,195,S,loop,,sf3 helicase,UniProt,
+replication,P2,1296,2C,196,S,loop,,sf3 helicase,UniProt,
+replication,P2,1297,2C,197,V,loop,,sf3 helicase,UniProt,
+replication,P2,1298,2C,198,D,loop,,sf3 helicase,UniProt,
+replication,P2,1299,2C,199,F,strand,,sf3 helicase,UniProt,
+replication,P2,1300,2C,200,V,loop,,sf3 helicase,UniProt,
+replication,P2,1301,2C,201,P,loop,,sf3 helicase,UniProt,
+replication,P2,1302,2C,202,P,loop,,sf3 helicase,UniProt,
+replication,P2,1303,2C,203,M,loop,,sf3 helicase,UniProt,
+replication,P2,1304,2C,204,A,loop,,sf3 helicase,UniProt,
+replication,P2,1305,2C,205,A,loop,,sf3 helicase,UniProt,
+replication,P2,1306,2C,206,L,loop,,sf3 helicase,UniProt,
+replication,P2,1307,2C,207,E,loop,,sf3 helicase,UniProt,
+replication,P2,1308,2C,208,E,loop,,sf3 helicase,UniProt,
+replication,P2,1309,2C,209,K,loop,,sf3 helicase,UniProt,
+replication,P2,1310,2C,210,G,loop,,sf3 helicase,UniProt,
+replication,P2,1311,2C,211,I,loop,,sf3 helicase,UniProt,
+replication,P2,1312,2C,212,L,loop,,sf3 helicase,UniProt,
+replication,P2,1313,2C,213,F,strand,,sf3 helicase,UniProt,
+replication,P2,1314,2C,214,T,loop,,sf3 helicase,UniProt,
+replication,P2,1315,2C,215,S,loop,,sf3 helicase,UniProt,
+replication,P2,1316,2C,216,P,loop,,sf3 helicase,UniProt,
+replication,P2,1317,2C,217,F,strand,,sf3 helicase,UniProt,
+replication,P2,1318,2C,218,V,strand,,sf3 helicase,UniProt,
+replication,P2,1319,2C,219,L,strand,,sf3 helicase,UniProt,
+replication,P2,1320,2C,220,A,strand,,sf3 helicase,UniProt,
+replication,P2,1321,2C,221,S,strand,,sf3 helicase,UniProt,
+replication,P2,1322,2C,222,T,strand,,sf3 helicase,UniProt,
+replication,P2,1323,2C,223,N,loop,,sf3 helicase,UniProt,
+replication,P2,1324,2C,224,A,loop,,sf3 helicase,UniProt,
+replication,P2,1325,2C,225,G,loop,,sf3 helicase,UniProt,
+replication,P2,1326,2C,226,S,loop,,sf3 helicase,UniProt,
+replication,P2,1327,2C,227,I,loop,,sf3 helicase,UniProt,
+replication,P2,1328,2C,228,N,loop,,sf3 helicase,UniProt,
+replication,P2,1329,2C,229,A,loop,,sf3 helicase,UniProt,
+replication,P2,1330,2C,230,P,loop,,sf3 helicase,UniProt,
+replication,P2,1331,2C,231,T,loop,,sf3 helicase,UniProt,
+replication,P2,1332,2C,232,V,loop,,sf3 helicase,UniProt,
+replication,P2,1333,2C,233,S,loop,,sf3 helicase,UniProt,
+replication,P2,1334,2C,234,D,loop,,sf3 helicase,UniProt,
+replication,P2,1335,2C,235,S,helix,,sf3 helicase,UniProt,
+replication,P2,1336,2C,236,R,helix,,sf3 helicase,UniProt,
+replication,P2,1337,2C,237,A,helix,,sf3 helicase,UniProt,
+replication,P2,1338,2C,238,L,helix,,sf3 helicase,UniProt,
+replication,P2,1339,2C,239,A,helix,,sf3 helicase,UniProt,
+replication,P2,1340,2C,240,R,helix,,sf3 helicase,UniProt,
+replication,P2,1341,2C,241,R,loop,,sf3 helicase,UniProt,
+replication,P2,1342,2C,242,F,loop,,sf3 helicase,UniProt,
+replication,P2,1343,2C,243,H,loop,,sf3 helicase,UniProt,
+replication,P2,1344,2C,244,F,strand,,sf3 helicase,UniProt,
+replication,P2,1345,2C,245,D,strand,,sf3 helicase,UniProt,
+replication,P2,1346,2C,246,M,strand,,sf3 helicase,UniProt,
+replication,P2,1347,2C,247,N,strand,,sf3 helicase,UniProt,
+replication,P2,1348,2C,248,I,strand,,sf3 helicase,UniProt,
+replication,P2,1349,2C,249,E,strand,,sf3 helicase,UniProt,
+replication,P2,1350,2C,250,V,strand,,sf3 helicase,UniProt,
+replication,P2,1351,2C,251,I,loop,,sf3 helicase,UniProt,
+replication,P2,1352,2C,252,S,helix,,sf3 helicase,UniProt,
+replication,P2,1353,2C,253,M,helix,,sf3 helicase,UniProt,
+replication,P2,1354,2C,254,Y,helix,,sf3 helicase,UniProt,
+replication,P2,1355,2C,255,S,strand,,sf3 helicase,UniProt,
+replication,P2,1356,2C,256,Q,strand,,sf3 helicase,UniProt,
+replication,P2,1357,2C,257,N,loop,,sf3 helicase,UniProt,
+replication,P2,1358,2C,258,G,loop,,sf3 helicase,UniProt,
+replication,P2,1359,2C,259,K,strand,,sf3 helicase,UniProt,
+replication,P2,1360,2C,260,I,strand,,sf3 helicase,UniProt,
+replication,P2,1361,2C,261,N,loop,,sf3 helicase,UniProt,
+replication,P2,1362,2C,262,M,helix,,,UniProt,
+replication,P2,1363,2C,263,P,helix,,,UniProt,
+replication,P2,1364,2C,264,M,helix,,,UniProt,
+replication,P2,1365,2C,265,S,helix,,,UniProt,
+replication,P2,1366,2C,266,V,helix,,,UniProt,
+replication,P2,1367,2C,267,K,loop,,,UniProt,
+replication,P2,1368,2C,268,T,loop,,,UniProt,
+replication,P2,1369,2C,269,C,loop,metal_binding,zinc-finger,UniProt,
+replication,P2,1370,2C,270,D,loop,,zinc-finger,UniProt,
+replication,P2,1371,2C,271,D,loop,,zinc-finger,UniProt,
+replication,P2,1372,2C,272,E,loop,,zinc-finger,UniProt,
+replication,P2,1373,2C,273,C,loop,,zinc-finger,UniProt,
+replication,P2,1374,2C,274,C,loop,,zinc-finger,UniProt,
+replication,P2,1375,2C,275,P,loop,,zinc-finger,UniProt,
+replication,P2,1376,2C,276,V,loop,,zinc-finger,UniProt,
+replication,P2,1377,2C,277,N,loop,,zinc-finger,UniProt,
+replication,P2,1378,2C,278,F,loop,,zinc-finger,UniProt,
+replication,P2,1379,2C,279,K,loop,,zinc-finger,UniProt,
+replication,P2,1380,2C,280,K,loop,,zinc-finger,UniProt,
+replication,P2,1381,2C,281,C,loop,metal_binding,zinc-finger,UniProt,
+replication,P2,1382,2C,282,C,loop,,zinc-finger,UniProt,
+replication,P2,1383,2C,283,P,loop,,zinc-finger,UniProt,
+replication,P2,1384,2C,284,L,loop,,zinc-finger,UniProt,
+replication,P2,1385,2C,285,V,loop,,zinc-finger,UniProt,
+replication,P2,1386,2C,286,C,loop,metal_binding,zinc-finger,UniProt,
+replication,P2,1387,2C,287,G,loop,,,,
+replication,P2,1388,2C,288,K,loop,,,,
+replication,P2,1389,2C,289,A,loop,,,,
+replication,P2,1390,2C,290,I,strand,,,,
+replication,P2,1391,2C,291,Q,strand,,,,
+replication,P2,1392,2C,292,F,strand,,,,
+replication,P2,1393,2C,293,I,strand,,,,
+replication,P2,1394,2C,294,D,strand,,,,
+replication,P2,1395,2C,295,R,loop,,,,
+replication,P2,1396,2C,296,R,loop,,,,
+replication,P2,1397,2C,297,T,loop,,,,
+replication,P2,1398,2C,298,Q,loop,,,,
+replication,P2,1399,2C,299,V,loop,,,,
+replication,P2,1400,2C,300,R,strand,,,,
+replication,P2,1401,2C,301,Y,strand,,,,
+replication,P2,1402,2C,302,S,loop,,,,
+replication,P2,1403,2C,303,L,helix,,c terminal helical domain,UniProt,
+replication,P2,1404,2C,304,D,helix,,c terminal helical domain,UniProt,
+replication,P2,1405,2C,305,M,helix,,c terminal helical domain,UniProt,
+replication,P2,1406,2C,306,L,helix,,c terminal helical domain,UniProt,
+replication,P2,1407,2C,307,V,helix,,c terminal helical domain,UniProt,
+replication,P2,1408,2C,308,T,helix,,c terminal helical domain,UniProt,
+replication,P2,1409,2C,309,E,helix,,c terminal helical domain,UniProt,
+replication,P2,1410,2C,310,M,helix,,c terminal helical domain,UniProt,
+replication,P2,1411,2C,311,F,helix,,c terminal helical domain,UniProt,
+replication,P2,1412,2C,312,R,helix,,c terminal helical domain,UniProt,
+replication,P2,1413,2C,313,E,helix,,c terminal helical domain,UniProt,
+replication,P2,1414,2C,314,Y,helix,,c terminal helical domain,UniProt,
+replication,P2,1415,2C,315,N,helix,,c terminal helical domain,UniProt,
+replication,P2,1416,2C,316,H,helix,,c terminal helical domain,UniProt,
+replication,P2,1417,2C,317,R,helix,,c terminal helical domain,UniProt,
+replication,P2,1418,2C,318,H,helix,,c terminal helical domain,UniProt,
+replication,P2,1419,2C,319,S,helix,,c terminal helical domain,UniProt,
+replication,P2,1420,2C,320,V,helix,,c terminal helical domain,UniProt,
+replication,P2,1421,2C,321,G,helix,,c terminal helical domain,UniProt,
+replication,P2,1422,2C,322,T,helix,,c terminal helical domain,UniProt,
+replication,P2,1423,2C,323,T,helix,,c terminal helical domain,UniProt,
+replication,P2,1424,2C,324,L,helix,,c terminal helical domain,UniProt,
+replication,P2,1425,2C,325,E,helix,,c terminal helical domain,UniProt,
+replication,P2,1426,2C,326,A,helix,,c terminal helical domain,UniProt,
+replication,P2,1427,2C,327,L,loop,,c terminal helical domain,UniProt,
+replication,P2,1428,2C,328,F,loop,,c terminal helical domain,UniProt,
+replication,P2,1429,2C,329,Q,loop,cleavage_site,c terminal helical domain,UniProt,
+replication,P3,1430,3A,1,G,loop,cleavage_site,NTD,UniProt,
+replication,P3,1431,3A,2,P,loop,,NTD,UniProt,
+replication,P3,1432,3A,3,P,loop,,NTD,UniProt,
+replication,P3,1433,3A,4,V,loop,,NTD,UniProt,
+replication,P3,1434,3A,5,Y,loop,,NTD,UniProt,
+replication,P3,1435,3A,6,R,loop,GBF1-binding,NTD,UniProt,
+replication,P3,1436,3A,7,E,loop,GBF1-binding,NTD,UniProt,
+replication,P3,1437,3A,8,I,loop,GBF1-binding,NTD,UniProt,
+replication,P3,1438,3A,9,K,loop,GBF1-binding,NTD,UniProt,
+replication,P3,1439,3A,10,I,loop,GBF1-binding,NTD,UniProt,
+replication,P3,1440,3A,11,S,loop,,NTD,UniProt,
+replication,P3,1441,3A,12,V,loop,,NTD,UniProt,
+replication,P3,1442,3A,13,A,loop,,NTD,UniProt,
+replication,P3,1443,3A,14,P,loop,,NTD,UniProt,
+replication,P3,1444,3A,15,E,loop,,NTD,UniProt,
+replication,P3,1445,3A,16,T,loop,,NTD,UniProt,
+replication,P3,1446,3A,17,P,loop,,NTD,UniProt,
+replication,P3,1447,3A,18,P,loop,,NTD,UniProt,
+replication,P3,1448,3A,19,P,loop,,NTD,UniProt,
+replication,P3,1449,3A,20,P,helix,,NTD,UniProt,
+replication,P3,1450,3A,21,A,helix,,NTD,UniProt,
+replication,P3,1451,3A,22,I,helix,,NTD,UniProt,
+replication,P3,1452,3A,23,A,helix,,NTD,UniProt,
+replication,P3,1453,3A,24,D,helix,,NTD,UniProt,
+replication,P3,1454,3A,25,L,helix,3A_homodimer_formation,NTD,UniProt,
+replication,P3,1455,3A,26,L,helix,,NTD,UniProt,
+replication,P3,1456,3A,27,K,helix,,NTD,UniProt,
+replication,P3,1457,3A,28,S,helix,,NTD,UniProt,
+replication,P3,1458,3A,29,V,loop,,NTD,UniProt,
+replication,P3,1459,3A,30,D,loop,,NTD,UniProt,
+replication,P3,1460,3A,31,S,loop,,NTD,UniProt,
+replication,P3,1461,3A,32,E,helix,,NTD,UniProt,
+replication,P3,1462,3A,33,A,helix,,NTD,UniProt,
+replication,P3,1463,3A,34,V,helix,3A_homodimer_formation,NTD,UniProt,
+replication,P3,1464,3A,35,R,helix,,NTD,UniProt,
+replication,P3,1465,3A,36,E,helix,,NTD,UniProt,
+replication,P3,1466,3A,37,Y,helix,3A_homodimer_formation,NTD,UniProt,
+replication,P3,1467,3A,38,C,helix,3A_homodimer_formation,NTD,UniProt,
+replication,P3,1468,3A,39,K,helix,,NTD,UniProt,
+replication,P3,1469,3A,40,E,helix,,NTD,UniProt,
+replication,P3,1470,3A,41,K,helix,,NTD,UniProt,
+replication,P3,1471,3A,42,G,loop,,NTD,UniProt,
+replication,P3,1472,3A,43,W,loop,,NTD,UniProt,
+replication,P3,1473,3A,44,L,loop,,NTD,UniProt,
+replication,P3,1474,3A,45,V,loop,,NTD,UniProt,
+replication,P3,1475,3A,46,P,loop,,NTD,UniProt,
+replication,P3,1476,3A,47,E,loop,,NTD,UniProt,
+replication,P3,1477,3A,48,I,loop,,NTD,UniProt,
+replication,P3,1478,3A,49,N,helix,,NTD,UniProt,
+replication,P3,1479,3A,50,S,helix,,NTD,UniProt,
+replication,P3,1480,3A,51,T,helix,,NTD,UniProt,
+replication,P3,1481,3A,52,L,helix,,NTD,UniProt,
+replication,P3,1482,3A,53,Q,helix,,NTD,UniProt,
+replication,P3,1483,3A,54,I,helix,,NTD,UniProt,
+replication,P3,1484,3A,55,E,helix,,NTD,UniProt,
+replication,P3,1485,3A,56,K,helix,,NTD,UniProt,
+replication,P3,1486,3A,57,H,helix,,NTD,UniProt,
+replication,P3,1487,3A,58,V,helix,,NTD,UniProt,
+replication,P3,1488,3A,59,S,helix,,NTD,UniProt,
+replication,P3,1489,3A,60,R,helix,,MBD,UniProt,
+replication,P3,1490,3A,61,A,helix,,MBD,UniProt,
+replication,P3,1491,3A,62,F,helix,,MBD,UniProt,
+replication,P3,1492,3A,63,I,helix,,MBD,UniProt,
+replication,P3,1493,3A,64,C,helix,,MBD,UniProt,
+replication,P3,1494,3A,65,L,helix,,MBD,UniProt,
+replication,P3,1495,3A,66,Q,helix,,MBD,UniProt,
+replication,P3,1496,3A,67,A,helix,,MBD,UniProt,
+replication,P3,1497,3A,68,L,helix,,MBD,UniProt,
+replication,P3,1498,3A,69,T,helix,,MBD,UniProt,
+replication,P3,1499,3A,70,T,helix,,MBD,UniProt,
+replication,P3,1500,3A,71,F,helix,,MBD,UniProt,
+replication,P3,1501,3A,72,V,helix,,MBD,UniProt,
+replication,P3,1502,3A,73,S,helix,,MBD,UniProt,
+replication,P3,1503,3A,74,V,helix,,MBD,UniProt,
+replication,P3,1504,3A,75,A,helix,,MBD,UniProt,
+replication,P3,1505,3A,76,G,helix,,MBD,UniProt,
+replication,P3,1506,3A,77,I,helix,,MBD,UniProt,
+replication,P3,1507,3A,78,I,helix,,MBD,UniProt,
+replication,P3,1508,3A,79,Y,helix,,MBD,UniProt,
+replication,P3,1509,3A,80,I,helix,,MBD,UniProt,
+replication,P3,1510,3A,81,I,helix,,MBD,UniProt,
+replication,P3,1511,3A,82,Y,helix,,MBD,UniProt,
+replication,P3,1512,3A,83,K,helix,,CTD,UniProt,
+replication,P3,1513,3A,84,L,helix,,CTD,UniProt,
+replication,P3,1514,3A,85,F,helix,,CTD,UniProt,
+replication,P3,1515,3A,86,A,helix,,CTD,UniProt,
+replication,P3,1516,3A,87,G,helix,,CTD,UniProt,
+replication,P3,1517,3A,88,F,helix,,CTD,UniProt,
+replication,P3,1518,3A,89,Q,loop,cleavage_site,CTD,UniProt,
+replication,P3,1519,3B,1,G,loop,cleavage_site,CTD,UniProt,
+replication,P3,1520,3B,2,A,loop,,,,
+replication,P3,1521,3B,3,Y,loop,O-(5'-phospho-RNA)-tyrosine,,,
+replication,P3,1522,3B,4,T,loop,,,,
+replication,P3,1523,3B,5,G,loop,,,,
+replication,P3,1524,3B,6,V,loop,,,,
+replication,P3,1525,3B,7,P,loop,,,,
+replication,P3,1526,3B,8,N,loop,,,,
+replication,P3,1527,3B,9,Q,loop,,,,
+replication,P3,1528,3B,10,K,loop,,,,
+replication,P3,1529,3B,11,P,loop,,,,
+replication,P3,1530,3B,12,R,loop,,,,
+replication,P3,1531,3B,13,V,loop,,,,
+replication,P3,1532,3B,14,P,loop,,,,
+replication,P3,1533,3B,15,T,loop,,,,
+replication,P3,1534,3B,16,L,loop,,,,
+replication,P3,1535,3B,17,R,loop,,,,
+replication,P3,1536,3B,18,Q,loop,,,,
+replication,P3,1537,3B,19,A,loop,,,,
+replication,P3,1538,3B,20,K,loop,,,,
+replication,P3,1539,3B,21,V,loop,,,,
+replication,P3,1540,3B,22,Q,loop,cleavage_site,,,
+replication,P3,1541,3C,1,G,loop,cleavage_site,,,
+replication,P3,1542,3C,2,P,helix,,,,
+replication,P3,1543,3C,3,A,helix,,,,
+replication,P3,1544,3C,4,F,helix,,,,
+replication,P3,1545,3C,5,E,helix,,,,
+replication,P3,1546,3C,6,F,helix,,,,
+replication,P3,1547,3C,7,A,helix,,,,
+replication,P3,1548,3C,8,V,helix,,,,
+replication,P3,1549,3C,9,A,helix,,,,
+replication,P3,1550,3C,10,M,helix,,,,
+replication,P3,1551,3C,11,M,helix,,,,
+replication,P3,1552,3C,12,K,helix,,,,
+replication,P3,1553,3C,13,R,helix,,,,
+replication,P3,1554,3C,14,N,helix,,,,
+replication,P3,1555,3C,15,S,strand,,,,
+replication,P3,1556,3C,16,S,strand,,,,
+replication,P3,1557,3C,17,T,strand,,,,
+replication,P3,1558,3C,18,V,strand,,,,
+replication,P3,1559,3C,19,K,strand,,,,
+replication,P3,1560,3C,20,T,strand,,,,
+replication,P3,1561,3C,21,E,loop,,,,
+replication,P3,1562,3C,22,Y,loop,,,,
+replication,P3,1563,3C,23,G,strand,,,,
+replication,P3,1564,3C,24,E,strand,,,,
+replication,P3,1565,3C,25,F,strand,,,,
+replication,P3,1566,3C,26,T,strand,,,,
+replication,P3,1567,3C,27,M,strand,,,,
+replication,P3,1568,3C,28,L,strand,,,,
+replication,P3,1569,3C,29,G,strand,,,,
+replication,P3,1570,3C,30,I,strand,,,,
+replication,P3,1571,3C,31,Y,strand,,,,
+replication,P3,1572,3C,32,D,strand,,,,
+replication,P3,1573,3C,33,R,loop,,,,
+replication,P3,1574,3C,34,W,strand,,,,
+replication,P3,1575,3C,35,A,strand,,,,
+replication,P3,1576,3C,36,V,strand,,,,
+replication,P3,1577,3C,37,L,strand,,,,
+replication,P3,1578,3C,38,P,strand,,,,
+replication,P3,1579,3C,39,R,helix,,,,
+replication,P3,1580,3C,40,H,helix,active_site,,,
+replication,P3,1581,3C,41,A,helix,,,,
+replication,P3,1582,3C,42,K,loop,,,,
+replication,P3,1583,3C,43,P,loop,,,,
+replication,P3,1584,3C,44,G,loop,,,,
+replication,P3,1585,3C,45,P,loop,,,,
+replication,P3,1586,3C,46,T,strand,,,,
+replication,P3,1587,3C,47,I,strand,,,,
+replication,P3,1588,3C,48,L,strand,,,,
+replication,P3,1589,3C,49,M,strand,,,,
+replication,P3,1590,3C,50,N,loop,,,,
+replication,P3,1591,3C,51,D,loop,,,,
+replication,P3,1592,3C,52,Q,strand,,,,
+replication,P3,1593,3C,53,E,strand,,,,
+replication,P3,1594,3C,54,V,strand,,,,
+replication,P3,1595,3C,55,G,strand,,,,
+replication,P3,1596,3C,56,V,strand,,,,
+replication,P3,1597,3C,57,L,strand,,,,
+replication,P3,1598,3C,58,D,strand,,,,
+replication,P3,1599,3C,59,A,strand,,,,
+replication,P3,1600,3C,60,K,strand,,,,
+replication,P3,1601,3C,61,E,strand,,,,
+replication,P3,1602,3C,62,L,strand,,,,
+replication,P3,1603,3C,63,V,strand,,,,
+replication,P3,1604,3C,64,D,loop,,,,
+replication,P3,1605,3C,65,K,loop,,,,
+replication,P3,1606,3C,66,D,loop,,,,
+replication,P3,1607,3C,67,G,loop,,,,
+replication,P3,1608,3C,68,T,loop,,,,
+replication,P3,1609,3C,69,N,strand,,,,
+replication,P3,1610,3C,70,L,strand,,,,
+replication,P3,1611,3C,71,E,strand,active_site,,,
+replication,P3,1612,3C,72,L,strand,,,,
+replication,P3,1613,3C,73,T,strand,,,,
+replication,P3,1614,3C,74,L,strand,,,,
+replication,P3,1615,3C,75,L,strand,,,,
+replication,P3,1616,3C,76,K,strand,,,,
+replication,P3,1617,3C,77,L,strand,,,,
+replication,P3,1618,3C,78,N,strand,,,,
+replication,P3,1619,3C,79,R,loop,,,,
+replication,P3,1620,3C,80,N,loop,,,,
+replication,P3,1621,3C,81,E,loop,,,,
+replication,P3,1622,3C,82,K,loop,,,,
+replication,P3,1623,3C,83,F,strand,,,,
+replication,P3,1624,3C,84,R,loop,,,,
+replication,P3,1625,3C,85,D,loop,,,,
+replication,P3,1626,3C,86,I,loop,,,,
+replication,P3,1627,3C,87,R,helix,,,,
+replication,P3,1628,3C,88,G,helix,,,,
+replication,P3,1629,3C,89,F,helix,,,,
+replication,P3,1630,3C,90,L,strand,,,,
+replication,P3,1631,3C,91,A,strand,,,,
+replication,P3,1632,3C,92,K,loop,,,,
+replication,P3,1633,3C,93,E,loop,,,,
+replication,P3,1634,3C,94,E,loop,,,,
+replication,P3,1635,3C,95,V,loop,,,,
+replication,P3,1636,3C,96,E,loop,,,,
+replication,P3,1637,3C,97,V,strand,,,,
+replication,P3,1638,3C,98,N,loop,,,,
+replication,P3,1639,3C,99,E,loop,,,,
+replication,P3,1640,3C,100,A,strand,,,,
+replication,P3,1641,3C,101,V,strand,,,,
+replication,P3,1642,3C,102,L,strand,,,,
+replication,P3,1643,3C,103,A,strand,,,,
+replication,P3,1644,3C,104,I,strand,,,,
+replication,P3,1645,3C,105,N,strand,,,,
+replication,P3,1646,3C,106,T,strand,,,,
+replication,P3,1647,3C,107,S,loop,,,,
+replication,P3,1648,3C,108,K,loop,,,,
+replication,P3,1649,3C,109,F,strand,,,,
+replication,P3,1650,3C,110,P,strand,,,,
+replication,P3,1651,3C,111,N,strand,,,,
+replication,P3,1652,3C,112,M,strand,,,,
+replication,P3,1653,3C,113,Y,strand,,,,
+replication,P3,1654,3C,114,I,strand,,,,
+replication,P3,1655,3C,115,P,strand,,,,
+replication,P3,1656,3C,116,V,strand,,,,
+replication,P3,1657,3C,117,G,strand,,,,
+replication,P3,1658,3C,118,Q,loop,,,,
+replication,P3,1659,3C,119,V,strand,,,,
+replication,P3,1660,3C,120,T,strand,,,,
+replication,P3,1661,3C,121,E,strand,,,,
+replication,P3,1662,3C,122,Y,strand,,,,
+replication,P3,1663,3C,123,G,strand,,,,
+replication,P3,1664,3C,124,F,strand,,,,
+replication,P3,1665,3C,125,L,strand,,,,
+replication,P3,1666,3C,126,N,strand,,,,
+replication,P3,1667,3C,127,L,strand,,,,
+replication,P3,1668,3C,128,G,loop,,,,
+replication,P3,1669,3C,129,G,loop,,,,
+replication,P3,1670,3C,130,T,strand,,,,
+replication,P3,1671,3C,131,P,strand,,,,
+replication,P3,1672,3C,132,T,strand,,,,
+replication,P3,1673,3C,133,K,strand,,,,
+replication,P3,1674,3C,134,R,strand,,,,
+replication,P3,1675,3C,135,M,strand,,,,
+replication,P3,1676,3C,136,L,strand,,,,
+replication,P3,1677,3C,137,M,strand,,,,
+replication,P3,1678,3C,138,Y,strand,,,,
+replication,P3,1679,3C,139,N,loop,,,,
+replication,P3,1680,3C,140,F,loop,,,,
+replication,P3,1681,3C,141,P,loop,,,,
+replication,P3,1682,3C,142,T,loop,,,,
+replication,P3,1683,3C,143,R,loop,,,,
+replication,P3,1684,3C,144,A,loop,,,,
+replication,P3,1685,3C,145,G,loop,,,,
+replication,P3,1686,3C,146,Q,loop,,,,
+replication,P3,1687,3C,147,C,loop,active_site,,,
+replication,P3,1688,3C,148,G,loop,,,,
+replication,P3,1689,3C,149,G,strand,,,,
+replication,P3,1690,3C,150,V,strand,,,,
+replication,P3,1691,3C,151,L,strand,,,,
+replication,P3,1692,3C,152,M,strand,,,,
+replication,P3,1693,3C,153,S,strand,,,,
+replication,P3,1694,3C,154,T,loop,,,,
+replication,P3,1695,3C,155,G,loop,,,,
+replication,P3,1696,3C,156,K,strand,,,,
+replication,P3,1697,3C,157,V,strand,,,,
+replication,P3,1698,3C,158,L,strand,,,,
+replication,P3,1699,3C,159,G,strand,,,,
+replication,P3,1700,3C,160,I,strand,,,,
+replication,P3,1701,3C,161,H,strand,,,,
+replication,P3,1702,3C,162,V,strand,,,,
+replication,P3,1703,3C,163,G,strand,,,,
+replication,P3,1704,3C,164,G,strand,,,,
+replication,P3,1705,3C,165,N,loop,,,,
+replication,P3,1706,3C,166,G,loop,,,,
+replication,P3,1707,3C,167,H,loop,,,,
+replication,P3,1708,3C,168,Q,loop,,,,
+replication,P3,1709,3C,169,G,strand,,,,
+replication,P3,1710,3C,170,F,strand,,,,
+replication,P3,1711,3C,171,S,strand,,,,
+replication,P3,1712,3C,172,A,strand,,,,
+replication,P3,1713,3C,173,A,strand,,,,
+replication,P3,1714,3C,174,L,loop,,,,
+replication,P3,1715,3C,175,L,strand,,,,
+replication,P3,1716,3C,176,K,helix,,,,
+replication,P3,1717,3C,177,H,helix,,,,
+replication,P3,1718,3C,178,Y,helix,,,,
+replication,P3,1719,3C,179,F,loop,,,,
+replication,P3,1720,3C,180,N,loop,,,,
+replication,P3,1721,3C,181,D,loop,,,,
+replication,P3,1722,3C,182,E,loop,,,,
+replication,P3,1723,3C,183,Q,loop,cleavage_site,,,
+replication,P3,1724,3D,1,G,loop,cleavage_site,index,"Thompson and Peersen, 2004",
+replication,P3,1725,3D,2,E,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1726,3D,3,I,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1727,3D,4,E,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1728,3D,5,F,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1729,3D,6,I,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1730,3D,7,E,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1731,3D,8,S,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1732,3D,9,S,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1733,3D,10,K,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1734,3D,11,D,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1735,3D,12,A,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1736,3D,13,G,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1737,3D,14,F,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1738,3D,15,P,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1739,3D,16,V,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1740,3D,17,I,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1741,3D,18,N,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1742,3D,19,T,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1743,3D,20,P,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1744,3D,21,S,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1745,3D,22,K,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1746,3D,23,T,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1747,3D,24,K,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1748,3D,25,L,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1749,3D,26,E,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1750,3D,27,P,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1751,3D,28,S,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1752,3D,29,V,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1753,3D,30,F,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1754,3D,31,H,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1755,3D,32,Q,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1756,3D,33,V,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1757,3D,34,F,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1758,3D,35,E,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1759,3D,36,G,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1760,3D,37,N,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1761,3D,38,K,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1762,3D,39,E,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1763,3D,40,P,strand,,index,"Thompson and Peersen, 2004",
+replication,P3,1764,3D,41,A,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1765,3D,42,V,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1766,3D,43,L,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1767,3D,44,R,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1768,3D,45,S,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1769,3D,46,G,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1770,3D,47,D,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1771,3D,48,P,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1772,3D,49,R,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1773,3D,50,L,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1774,3D,51,K,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1775,3D,52,A,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1776,3D,53,N,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1777,3D,54,F,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1778,3D,55,E,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1779,3D,56,E,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1780,3D,57,A,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1781,3D,58,I,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1782,3D,59,F,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1783,3D,60,S,helix,,index,"Thompson and Peersen, 2004",
+replication,P3,1784,3D,61,K,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1785,3D,62,Y,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1786,3D,63,I,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1787,3D,64,G,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1788,3D,65,N,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1789,3D,66,V,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1790,3D,67,N,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1791,3D,68,T,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1792,3D,69,H,loop,,index,"Thompson and Peersen, 2004",
+replication,P3,1793,3D,70,V,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1794,3D,71,D,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1795,3D,72,E,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1796,3D,73,Y,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1797,3D,74,M,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1798,3D,75,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1799,3D,76,E,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1800,3D,77,A,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1801,3D,78,V,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1802,3D,79,D,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1803,3D,80,H,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1804,3D,81,Y,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1805,3D,82,A,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1806,3D,83,G,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1807,3D,84,Q,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1808,3D,85,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1809,3D,86,A,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1810,3D,87,T,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1811,3D,88,L,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1812,3D,89,D,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1813,3D,90,I,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1814,3D,91,S,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1815,3D,92,T,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1816,3D,93,E,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1817,3D,94,P,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1818,3D,95,M,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1819,3D,96,K,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1820,3D,97,L,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1821,3D,98,E,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1822,3D,99,D,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1823,3D,100,A,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1824,3D,101,V,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1825,3D,102,Y,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1826,3D,103,G,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1827,3D,104,T,strand,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1828,3D,105,E,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1829,3D,106,G,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1830,3D,107,L,strand,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1831,3D,108,E,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1832,3D,109,A,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1833,3D,110,L,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1834,3D,111,D,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1835,3D,112,L,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1836,3D,113,T,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1837,3D,114,T,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1838,3D,115,S,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1839,3D,116,A,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1840,3D,117,G,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1841,3D,118,Y,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1842,3D,119,P,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1843,3D,120,Y,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1844,3D,121,V,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1845,3D,122,A,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1846,3D,123,L,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1847,3D,124,G,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1848,3D,125,I,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1849,3D,126,K,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1850,3D,127,K,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1851,3D,128,R,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1852,3D,129,D,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1853,3D,130,I,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1854,3D,131,L,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1855,3D,132,S,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1856,3D,133,K,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1857,3D,134,K,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1858,3D,135,T,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1859,3D,136,K,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1860,3D,137,D,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1861,3D,138,L,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1862,3D,139,T,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1863,3D,140,K,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1864,3D,141,L,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1865,3D,142,K,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1866,3D,143,E,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1867,3D,144,C,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1868,3D,145,M,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1869,3D,146,D,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1870,3D,147,K,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1871,3D,148,Y,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1872,3D,149,G,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1873,3D,150,L,loop,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1874,3D,151,N,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1875,3D,152,L,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1876,3D,153,P,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1877,3D,154,M,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1878,3D,155,V,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1879,3D,156,T,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1880,3D,157,Y,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1881,3D,158,V,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1882,3D,159,K,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1883,3D,160,D,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1884,3D,161,E,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1885,3D,162,L,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1886,3D,163,R,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1887,3D,164,S,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1888,3D,165,I,helix,,ring,"Thompson and Peersen, 2004",
+replication,P3,1889,3D,166,E,helix,,ring,"Thompson and Peersen, 2004",
+replication,P3,1890,3D,167,K,helix,,ring,"Thompson and Peersen, 2004",
+replication,P3,1891,3D,168,V,helix,,ring,"Thompson and Peersen, 2004",
+replication,P3,1892,3D,169,A,helix,,ring,"Thompson and Peersen, 2004",
+replication,P3,1893,3D,170,K,helix,,ring,"Thompson and Peersen, 2004",
+replication,P3,1894,3D,171,G,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1895,3D,172,K,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1896,3D,173,S,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1897,3D,174,R,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1898,3D,175,L,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1899,3D,176,I,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1900,3D,177,E,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1901,3D,178,A,strand,,ring,"Thompson and Peersen, 2004",
+replication,P3,1902,3D,179,S,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1903,3D,180,S,loop,,ring,"Thompson and Peersen, 2004",
+replication,P3,1904,3D,181,L,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1905,3D,182,N,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1906,3D,183,D,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1907,3D,184,S,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1908,3D,185,V,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1909,3D,186,A,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1910,3D,187,M,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1911,3D,188,R,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1912,3D,189,Q,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1913,3D,190,T,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1914,3D,191,F,helix,,pinky,"Thompson and Peersen, 2004",
+replication,P3,1915,3D,192,G,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1916,3D,193,N,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1917,3D,194,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1918,3D,195,Y,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1919,3D,196,K,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1920,3D,197,T,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1921,3D,198,F,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1922,3D,199,H,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1923,3D,200,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1924,3D,201,N,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1925,3D,202,P,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1926,3D,203,G,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1927,3D,204,V,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1928,3D,205,V,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1929,3D,206,T,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1930,3D,207,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1931,3D,208,S,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1932,3D,209,A,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1933,3D,210,V,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1934,3D,211,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1935,3D,212,C,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1936,3D,213,D,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1937,3D,214,P,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1938,3D,215,D,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1939,3D,216,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1940,3D,217,F,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1941,3D,218,W,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1942,3D,219,S,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1943,3D,220,K,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1944,3D,221,I,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1945,3D,222,P,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1946,3D,223,V,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1947,3D,224,M,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1948,3D,225,L,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1949,3D,226,D,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1950,3D,227,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1951,3D,228,H,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1952,3D,229,L,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1953,3D,230,I,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1954,3D,231,A,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1955,3D,232,F,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1956,3D,233,D,strand,metal_binding,palm,"Thompson and Peersen, 2004",
+replication,P3,1957,3D,234,Y,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1958,3D,235,S,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1959,3D,236,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1960,3D,237,Y,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1961,3D,238,D,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1962,3D,239,A,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1963,3D,240,S,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1964,3D,241,L,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1965,3D,242,S,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1966,3D,243,P,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1967,3D,244,V,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1968,3D,245,W,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1969,3D,246,F,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1970,3D,247,A,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1971,3D,248,C,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1972,3D,249,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1973,3D,250,K,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1974,3D,251,M,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1975,3D,252,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1976,3D,253,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1977,3D,254,E,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1978,3D,255,K,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1979,3D,256,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1980,3D,257,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1981,3D,258,Y,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1982,3D,259,T,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,1983,3D,260,H,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1984,3D,261,K,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1985,3D,262,E,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1986,3D,263,T,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1987,3D,264,N,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1988,3D,265,Y,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1989,3D,266,I,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1990,3D,267,D,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1991,3D,268,Y,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1992,3D,269,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1993,3D,270,C,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,1994,3D,271,N,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1995,3D,272,S,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1996,3D,273,H,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1997,3D,274,H,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1998,3D,275,L,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,1999,3D,276,Y,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2000,3D,277,R,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2001,3D,278,D,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2002,3D,279,K,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2003,3D,280,H,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2004,3D,281,Y,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2005,3D,282,F,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2006,3D,283,V,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2007,3D,284,R,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2008,3D,285,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2009,3D,286,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2010,3D,287,M,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2011,3D,288,P,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2012,3D,289,S,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2013,3D,290,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2014,3D,291,C,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2015,3D,292,S,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2016,3D,293,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2017,3D,294,T,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2018,3D,295,S,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2019,3D,296,I,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2020,3D,297,F,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2021,3D,298,N,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2022,3D,299,S,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2023,3D,300,M,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2024,3D,301,I,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2025,3D,302,N,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2026,3D,303,N,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2027,3D,304,I,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2028,3D,305,I,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2029,3D,306,I,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2030,3D,307,R,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2031,3D,308,T,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2032,3D,309,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2033,3D,310,M,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2034,3D,311,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2035,3D,312,K,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2036,3D,313,V,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2037,3D,314,Y,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2038,3D,315,K,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2039,3D,316,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2040,3D,317,I,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2041,3D,318,D,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2042,3D,319,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2043,3D,320,D,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2044,3D,321,Q,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2045,3D,322,F,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2046,3D,323,R,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2047,3D,324,M,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2048,3D,325,I,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2049,3D,326,A,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2050,3D,327,Y,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2051,3D,328,G,loop,active_site,palm,"Thompson and Peersen, 2004",
+replication,P3,2052,3D,329,D,loop,active_site,palm,"Thompson and Peersen, 2004",
+replication,P3,2053,3D,330,D,strand,active_site,palm,"Thompson and Peersen, 2004",
+replication,P3,2054,3D,331,V,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2055,3D,332,I,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2056,3D,333,A,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2057,3D,334,S,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2058,3D,335,Y,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2059,3D,336,P,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2060,3D,337,W,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2061,3D,338,P,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2062,3D,339,I,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2063,3D,340,D,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2064,3D,341,A,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2065,3D,342,S,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2066,3D,343,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2067,3D,344,L,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2068,3D,345,A,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2069,3D,346,E,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2070,3D,347,A,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2071,3D,348,G,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2072,3D,349,K,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2073,3D,350,G,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2074,3D,351,Y,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2075,3D,352,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2076,3D,353,L,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2077,3D,354,I,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2078,3D,355,M,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2079,3D,356,T,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2080,3D,357,P,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2081,3D,358,A,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2082,3D,359,D,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2083,3D,360,K,helix,,palm,"Thompson and Peersen, 2004",
+replication,P3,2084,3D,361,G,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2085,3D,362,E,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2086,3D,363,C,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2087,3D,364,F,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2088,3D,365,N,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2089,3D,366,E,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2090,3D,367,V,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2091,3D,368,T,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2092,3D,369,W,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2093,3D,370,T,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2094,3D,371,N,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2095,3D,372,A,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2096,3D,373,T,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2097,3D,374,F,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2098,3D,375,L,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2099,3D,376,K,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2100,3D,377,R,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2101,3D,378,Y,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2102,3D,379,F,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2103,3D,380,R,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2104,3D,381,A,strand,,palm,"Thompson and Peersen, 2004",
+replication,P3,2105,3D,382,D,loop,,palm,"Thompson and Peersen, 2004",
+replication,P3,2106,3D,383,E,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2107,3D,384,Q,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2108,3D,385,Y,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2109,3D,386,P,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2110,3D,387,F,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2111,3D,388,L,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2112,3D,389,V,strand,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2113,3D,390,H,strand,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2114,3D,391,P,strand,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2115,3D,392,V,strand,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2116,3D,393,M,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2117,3D,394,P,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2118,3D,395,M,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2119,3D,396,K,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2120,3D,397,D,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2121,3D,398,I,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2122,3D,399,H,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2123,3D,400,E,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2124,3D,401,S,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2125,3D,402,I,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2126,3D,403,R,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2127,3D,404,W,strand,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2128,3D,405,T,strand,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2129,3D,406,K,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2130,3D,407,D,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2131,3D,408,P,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2132,3D,409,K,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2133,3D,410,N,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2134,3D,411,T,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2135,3D,412,Q,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2136,3D,413,D,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2137,3D,414,H,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2138,3D,415,V,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2139,3D,416,R,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2140,3D,417,S,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2141,3D,418,L,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2142,3D,419,C,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2143,3D,420,L,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2144,3D,421,L,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2145,3D,422,A,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2146,3D,423,W,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2147,3D,424,H,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2148,3D,425,N,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2149,3D,426,G,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2150,3D,427,E,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2151,3D,428,H,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2152,3D,429,E,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2153,3D,430,Y,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2154,3D,431,E,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2155,3D,432,E,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2156,3D,433,F,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2157,3D,434,I,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2158,3D,435,R,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2159,3D,436,K,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2160,3D,437,I,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2161,3D,438,R,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2162,3D,439,S,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2163,3D,440,V,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2164,3D,441,P,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2165,3D,442,V,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2166,3D,443,G,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2167,3D,444,R,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2168,3D,445,C,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2169,3D,446,L,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2170,3D,447,T,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2171,3D,448,L,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2172,3D,449,P,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2173,3D,450,A,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2174,3D,451,F,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2175,3D,452,S,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2176,3D,453,T,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2177,3D,454,L,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2178,3D,455,R,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2179,3D,456,R,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2180,3D,457,K,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2181,3D,458,W,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2182,3D,459,L,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2183,3D,460,D,helix,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2184,3D,461,S,loop,,thumb,"Thompson and Peersen, 2004",
+replication,P3,2185,3D,462,F,loop,,thumb,"Thompson and Peersen, 2004",

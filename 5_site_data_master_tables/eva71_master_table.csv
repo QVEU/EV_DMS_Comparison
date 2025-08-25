@@ -1,0 +1,2195 @@
+eva71_functional_region,eva71_site,eva71_region,eva71_prot,eva71_pos,eva71_aa,eva71_ss,eva71_annotation,eva71_domains,eva71_domains_2,eva71_domains_source,eva71_capsid_ss
+capsid,1,P1,VP4,1,M,loop,,,,,NA
+capsid,2,P1,VP4,2,G,loop,,,,,NA
+capsid,3,P1,VP4,3,S,strand,,,,,NA
+capsid,4,P1,VP4,4,Q,strand,,,,,NA
+capsid,5,P1,VP4,5,V,strand,,,,,NA
+capsid,6,P1,VP4,6,S,strand,,,,,NA
+capsid,7,P1,VP4,7,T,strand,,,,,NA
+capsid,8,P1,VP4,8,Q,loop,,,,,NA
+capsid,9,P1,VP4,9,R,loop,,,,,NA
+capsid,10,P1,VP4,10,S,loop,,,,,NA
+capsid,11,P1,VP4,11,G,loop,,,,,NA
+capsid,12,P1,VP4,12,S,loop,,,,,NA
+capsid,13,P1,VP4,13,H,loop,,,,,NA
+capsid,14,P1,VP4,14,E,loop,,,,,NA
+capsid,15,P1,VP4,15,N,loop,,,,,NA
+capsid,16,P1,VP4,16,S,loop,,,,,NA
+capsid,17,P1,VP4,17,N,loop,,,,,NA
+capsid,18,P1,VP4,18,S,loop,,,,,NA
+capsid,19,P1,VP4,19,A,loop,,,,,NA
+capsid,20,P1,VP4,20,T,loop,,,,,NA
+capsid,21,P1,VP4,21,E,loop,,,,,NA
+capsid,22,P1,VP4,22,G,loop,,,,,NA
+capsid,23,P1,VP4,23,S,loop,,,,,NA
+capsid,24,P1,VP4,24,T,loop,,,,,NA
+capsid,25,P1,VP4,25,I,loop,,,,,NA
+capsid,26,P1,VP4,26,N,strand,,,,,NA
+capsid,27,P1,VP4,27,Y,strand,,,,,NA
+capsid,28,P1,VP4,28,T,strand,,,,,NA
+capsid,29,P1,VP4,29,T,strand,,,,,NA
+capsid,30,P1,VP4,30,I,strand,,,,,NA
+capsid,31,P1,VP4,31,N,loop,,,,,NA
+capsid,32,P1,VP4,32,Y,loop,,,,,NA
+capsid,33,P1,VP4,33,Y,loop,,,,,NA
+capsid,34,P1,VP4,34,K,loop,,,,,NA
+capsid,35,P1,VP4,35,D,loop,,,,,NA
+capsid,36,P1,VP4,36,S,helix,,,,,NA
+capsid,37,P1,VP4,37,Y,helix,,,,,NA
+capsid,38,P1,VP4,38,A,helix,,,,,NA
+capsid,39,P1,VP4,39,A,loop,,,,,NA
+capsid,40,P1,VP4,40,T,loop,,,,,NA
+capsid,41,P1,VP4,41,A,loop,,,,,NA
+capsid,42,P1,VP4,42,G,loop,,,,,NA
+capsid,43,P1,VP4,43,K,loop,,,,,NA
+capsid,44,P1,VP4,44,Q,loop,,,,,NA
+capsid,45,P1,VP4,45,S,loop,,,,,NA
+capsid,46,P1,VP4,46,L,loop,,,,,NA
+capsid,47,P1,VP4,47,K,loop,,,,,NA
+capsid,48,P1,VP4,48,Q,loop,,,,,NA
+capsid,49,P1,VP4,49,D,loop,,,,,NA
+capsid,50,P1,VP4,50,P,helix,,,,,NA
+capsid,51,P1,VP4,51,D,helix,,,,,NA
+capsid,52,P1,VP4,52,K,helix,,,,,NA
+capsid,53,P1,VP4,53,F,helix,,,,,NA
+capsid,54,P1,VP4,54,A,helix,,,,,NA
+capsid,55,P1,VP4,55,N,helix,,,,,NA
+capsid,56,P1,VP4,56,P,loop,,,,,NA
+capsid,57,P1,VP4,57,V,helix,,,,,NA
+capsid,58,P1,VP4,58,K,helix,,,,,NA
+capsid,59,P1,VP4,59,D,helix,,,,,NA
+capsid,60,P1,VP4,60,I,helix,,,,,NA
+capsid,61,P1,VP4,61,F,helix,,,,,NA
+capsid,62,P1,VP4,62,T,helix,,,,,NA
+capsid,63,P1,VP4,63,E,helix,,,,,NA
+capsid,64,P1,VP4,64,M,loop,,,,,NA
+capsid,65,P1,VP4,65,A,loop,,,,,NA
+capsid,66,P1,VP4,66,A,loop,,,,,NA
+capsid,67,P1,VP4,67,P,loop,,,,,NA
+capsid,68,P1,VP4,68,L,loop,,,,,NA
+capsid,69,P1,VP4,69,K,loop,,,,,NA
+capsid,70,P1,VP2,1,S,loop,,,,,NA
+capsid,71,P1,VP2,2,P,loop,,,,,NA
+capsid,72,P1,VP2,3,S,loop,,,,,NA
+capsid,73,P1,VP2,4,A,helix,,,,,NA
+capsid,74,P1,VP2,5,E,helix,,,,,NA
+capsid,75,P1,VP2,6,A,helix,,,,,NA
+capsid,76,P1,VP2,7,C,helix,,,,,NA
+capsid,77,P1,VP2,8,G,helix,,,,,NA
+capsid,78,P1,VP2,9,Y,helix,,,,,NA
+capsid,79,P1,VP2,10,S,helix,,,,,NA
+capsid,80,P1,VP2,11,D,loop,,,,,NA
+capsid,81,P1,VP2,12,R,loop,,,,,NA
+capsid,82,P1,VP2,13,V,loop,,,,,NA
+capsid,83,P1,VP2,14,A,strand,,,,,NA
+capsid,84,P1,VP2,15,Q,strand,,,,,NA
+capsid,85,P1,VP2,16,L,strand,,,,,NA
+capsid,86,P1,VP2,17,T,strand,,,,,NA
+capsid,87,P1,VP2,18,I,strand,,,,,NA
+capsid,88,P1,VP2,19,G,loop,,,,,NA
+capsid,89,P1,VP2,20,N,loop,,,,,NA
+capsid,90,P1,VP2,21,S,strand,,,,,NA
+capsid,91,P1,VP2,22,T,strand,,,,,NA
+capsid,92,P1,VP2,23,I,strand,,,,,NA
+capsid,93,P1,VP2,24,T,strand,,,,,NA
+capsid,94,P1,VP2,25,T,strand,,,,,NA
+capsid,95,P1,VP2,26,Q,loop,,,,,NA
+capsid,96,P1,VP2,27,E,loop,,,,,NA
+capsid,97,P1,VP2,28,A,loop,,,,,NA
+capsid,98,P1,VP2,29,A,loop,,,,,NA
+capsid,99,P1,VP2,30,N,loop,,,,,NA
+capsid,100,P1,VP2,31,I,loop,,,,,NA
+capsid,101,P1,VP2,32,I,strand,,,,,NA
+capsid,102,P1,VP2,33,V,strand,,,,,NA
+capsid,103,P1,VP2,34,G,helix,,,,,NA
+capsid,104,P1,VP2,35,Y,helix,,,,,NA
+capsid,105,P1,VP2,36,G,helix,,,,,NA
+capsid,106,P1,VP2,37,E,loop,,,,,NA
+capsid,107,P1,VP2,38,W,loop,,,,,NA
+capsid,108,P1,VP2,39,P,loop,,,,,NA
+capsid,109,P1,VP2,40,S,loop,,,,,NA
+capsid,110,P1,VP2,41,Y,loop,,,,,NA
+capsid,111,P1,VP2,42,C,loop,,,,,NA
+capsid,112,P1,VP2,43,S,loop,,,,,NA
+capsid,113,P1,VP2,44,D,loop,,,,,NA
+capsid,114,P1,VP2,45,S,loop,,,,,NA
+capsid,115,P1,VP2,46,D,loop,,,,,NA
+capsid,116,P1,VP2,47,A,loop,,,,,NA
+capsid,117,P1,VP2,48,T,loop,,,,,NA
+capsid,118,P1,VP2,49,A,loop,,,,,NA
+capsid,119,P1,VP2,50,V,loop,,,,,NA
+capsid,120,P1,VP2,51,D,loop,,,,,NA
+capsid,121,P1,VP2,52,K,loop,,,,,NA
+capsid,122,P1,VP2,53,P,loop,,,,,NA
+capsid,123,P1,VP2,54,T,strand,,,,,NA
+capsid,124,P1,VP2,55,R,loop,,,,,NA
+capsid,125,P1,VP2,56,P,loop,,,,,NA
+capsid,126,P1,VP2,57,D,loop,,,,,NA
+capsid,127,P1,VP2,58,V,loop,,,,,NA
+capsid,128,P1,VP2,59,S,loop,,,,,NA
+capsid,129,P1,VP2,60,V,loop,,,,,NA
+capsid,130,P1,VP2,61,N,loop,,,,,NA
+capsid,131,P1,VP2,62,R,loop,,,,,NA
+capsid,132,P1,VP2,63,F,loop,,,,,NA
+capsid,133,P1,VP2,64,Y,strand,,,,,NA
+capsid,134,P1,VP2,65,T,strand,,,,,NA
+capsid,135,P1,VP2,66,L,strand,,,,,NA
+capsid,136,P1,VP2,67,D,strand,,,,,NA
+capsid,137,P1,VP2,68,T,strand,,,,,NA
+capsid,138,P1,VP2,69,K,strand,,,,,NA
+capsid,139,P1,VP2,70,L,strand,,,,,NA
+capsid,140,P1,VP2,71,W,strand,,,,,NA
+capsid,141,P1,VP2,72,E,loop,,,,,NA
+capsid,142,P1,VP2,73,K,loop,,,,,NA
+capsid,143,P1,VP2,74,S,loop,,,,,NA
+capsid,144,P1,VP2,75,S,loop,,,,,NA
+capsid,145,P1,VP2,76,K,loop,,,,,NA
+capsid,146,P1,VP2,77,G,loop,,,,,NA
+capsid,147,P1,VP2,78,W,strand,,,,,NA
+capsid,148,P1,VP2,79,Y,strand,,,,,NA
+capsid,149,P1,VP2,80,W,strand,,,,,NA
+capsid,150,P1,VP2,81,K,strand,,,,,NA
+capsid,151,P1,VP2,82,F,strand,,,,,NA
+capsid,152,P1,VP2,83,P,loop,,,,,NA
+capsid,153,P1,VP2,84,D,helix,,,,,NA
+capsid,154,P1,VP2,85,V,helix,,,,,NA
+capsid,155,P1,VP2,86,L,helix,,,,,NA
+capsid,156,P1,VP2,87,T,loop,,,,,NA
+capsid,157,P1,VP2,88,E,loop,,,,,NA
+capsid,158,P1,VP2,89,T,loop,,,,,NA
+capsid,159,P1,VP2,90,G,helix,,,,,NA
+capsid,160,P1,VP2,91,V,helix,,,,,NA
+capsid,161,P1,VP2,92,F,helix,,,,,NA
+capsid,162,P1,VP2,93,G,helix,,,,,NA
+capsid,163,P1,VP2,94,Q,helix,,,,,NA
+capsid,164,P1,VP2,95,N,helix,,,,,NA
+capsid,165,P1,VP2,96,A,helix,,,,,NA
+capsid,166,P1,VP2,97,Q,helix,,,,,NA
+capsid,167,P1,VP2,98,F,helix,,,,,NA
+capsid,168,P1,VP2,99,H,strand,,,,,NA
+capsid,169,P1,VP2,100,Y,strand,,,,,NA
+capsid,170,P1,VP2,101,L,strand,,,,,NA
+capsid,171,P1,VP2,102,Y,strand,,,,,NA
+capsid,172,P1,VP2,103,R,strand,,,,,NA
+capsid,173,P1,VP2,104,S,strand,,,,,NA
+capsid,174,P1,VP2,105,G,strand,,,,,NA
+capsid,175,P1,VP2,106,F,strand,,,,,NA
+capsid,176,P1,VP2,107,C,strand,,,,,NA
+capsid,177,P1,VP2,108,I,strand,,,,,NA
+capsid,178,P1,VP2,109,H,strand,,,,,NA
+capsid,179,P1,VP2,110,V,strand,,,,,NA
+capsid,180,P1,VP2,111,Q,strand,,,,,NA
+capsid,181,P1,VP2,112,C,loop,,,,,NA
+capsid,182,P1,VP2,113,N,loop,,,,,NA
+capsid,183,P1,VP2,114,A,loop,,,,,NA
+capsid,184,P1,VP2,115,S,loop,,,,,NA
+capsid,185,P1,VP2,116,K,loop,,,,,NA
+capsid,186,P1,VP2,117,F,loop,,,,,NA
+capsid,187,P1,VP2,118,H,loop,,,,,NA
+capsid,188,P1,VP2,119,Q,strand,,,,,NA
+capsid,189,P1,VP2,120,G,strand,,,,,NA
+capsid,190,P1,VP2,121,A,strand,,,,,NA
+capsid,191,P1,VP2,122,L,strand,,,,,NA
+capsid,192,P1,VP2,123,L,strand,,,,,NA
+capsid,193,P1,VP2,124,V,strand,,,,,NA
+capsid,194,P1,VP2,125,A,strand,,,,,NA
+capsid,195,P1,VP2,126,V,strand,,,,,NA
+capsid,196,P1,VP2,127,L,strand,,,,,NA
+capsid,197,P1,VP2,128,P,strand,,,,,NA
+capsid,198,P1,VP2,129,E,loop,,,,,NA
+capsid,199,P1,VP2,130,Y,loop,,,,,NA
+capsid,200,P1,VP2,131,V,loop,,,,,NA
+capsid,201,P1,VP2,132,I,loop,,,,,NA
+capsid,202,P1,VP2,133,G,loop,,,,,NA
+capsid,203,P1,VP2,134,T,loop,,,,,NA
+capsid,204,P1,VP2,135,V,loop,,,,,NA
+capsid,205,P1,VP2,136,A,loop,,,,,NA
+capsid,206,P1,VP2,137,G,loop,,,,,NA
+capsid,207,P1,VP2,138,G,loop,,,,,NA
+capsid,208,P1,VP2,139,T,loop,,,,,NA
+capsid,209,P1,VP2,140,G,loop,,,,,NA
+capsid,210,P1,VP2,141,T,loop,,,,,NA
+capsid,211,P1,VP2,142,E,loop,,,,,NA
+capsid,212,P1,VP2,143,D,loop,,,,,NA
+capsid,213,P1,VP2,144,S,loop,,,,,NA
+capsid,214,P1,VP2,145,H,loop,,,,,NA
+capsid,215,P1,VP2,146,P,loop,,,,,NA
+capsid,216,P1,VP2,147,P,loop,,,,,NA
+capsid,217,P1,VP2,148,Y,helix,,,,,NA
+capsid,218,P1,VP2,149,K,helix,,,,,NA
+capsid,219,P1,VP2,150,Q,helix,,,,,NA
+capsid,220,P1,VP2,151,T,helix,,,,,NA
+capsid,221,P1,VP2,152,Q,loop,,,,,NA
+capsid,222,P1,VP2,153,P,loop,,,,,NA
+capsid,223,P1,VP2,154,G,loop,,,,,NA
+capsid,224,P1,VP2,155,A,loop,,,,,NA
+capsid,225,P1,VP2,156,D,loop,,,,,NA
+capsid,226,P1,VP2,157,G,loop,,,,,NA
+capsid,227,P1,VP2,158,F,strand,,,,,NA
+capsid,228,P1,VP2,159,E,strand,,,,,NA
+capsid,229,P1,VP2,160,L,loop,,,,,NA
+capsid,230,P1,VP2,161,Q,loop,,,,,NA
+capsid,231,P1,VP2,162,H,loop,,,,,NA
+capsid,232,P1,VP2,163,P,helix,,,,,NA
+capsid,233,P1,VP2,164,Y,helix,,,,,NA
+capsid,234,P1,VP2,165,V,helix,,,,,NA
+capsid,235,P1,VP2,166,L,loop,,,,,NA
+capsid,236,P1,VP2,167,D,loop,,,,,NA
+capsid,237,P1,VP2,168,A,loop,,,,,NA
+capsid,238,P1,VP2,169,G,loop,,,,,NA
+capsid,239,P1,VP2,170,I,loop,,,,,NA
+capsid,240,P1,VP2,171,P,loop,,,,,NA
+capsid,241,P1,VP2,172,I,helix,,,,,NA
+capsid,242,P1,VP2,173,S,helix,,,,,NA
+capsid,243,P1,VP2,174,Q,helix,,,,,NA
+capsid,244,P1,VP2,175,L,helix,,,,,NA
+capsid,245,P1,VP2,176,T,helix,,,,,NA
+capsid,246,P1,VP2,177,V,helix,,,,,NA
+capsid,247,P1,VP2,178,C,loop,,,,,NA
+capsid,248,P1,VP2,179,P,loop,,,,,NA
+capsid,249,P1,VP2,180,H,strand,,,,,NA
+capsid,250,P1,VP2,181,Q,strand,,,,,NA
+capsid,251,P1,VP2,182,W,strand,,,,,NA
+capsid,252,P1,VP2,183,I,strand,,,,,NA
+capsid,253,P1,VP2,184,N,strand,,,,,NA
+capsid,254,P1,VP2,185,L,loop,,,,,NA
+capsid,255,P1,VP2,186,R,loop,,,,,NA
+capsid,256,P1,VP2,187,T,loop,,,,,NA
+capsid,257,P1,VP2,188,N,loop,,,,,NA
+capsid,258,P1,VP2,189,N,loop,,,,,NA
+capsid,259,P1,VP2,190,C,strand,,,,,NA
+capsid,260,P1,VP2,191,A,strand,,,,,NA
+capsid,261,P1,VP2,192,T,strand,,,,,NA
+capsid,262,P1,VP2,193,I,strand,,,,,NA
+capsid,263,P1,VP2,194,I,strand,,,,,NA
+capsid,264,P1,VP2,195,V,strand,,,,,NA
+capsid,265,P1,VP2,196,P,loop,,,,,NA
+capsid,266,P1,VP2,197,Y,loop,,,,,NA
+capsid,267,P1,VP2,198,I,loop,,,,,NA
+capsid,268,P1,VP2,199,N,loop,,,,,NA
+capsid,269,P1,VP2,200,A,loop,,,,,NA
+capsid,270,P1,VP2,201,L,loop,,,,,NA
+capsid,271,P1,VP2,202,P,loop,,,,,NA
+capsid,272,P1,VP2,203,F,loop,,,,,NA
+capsid,273,P1,VP2,204,D,strand,,,,,NA
+capsid,274,P1,VP2,205,S,strand,,,,,NA
+capsid,275,P1,VP2,206,A,loop,,,,,NA
+capsid,276,P1,VP2,207,L,loop,,,,,NA
+capsid,277,P1,VP2,208,N,loop,,,,,NA
+capsid,278,P1,VP2,209,H,loop,,,,,NA
+capsid,279,P1,VP2,210,C,loop,,,,,NA
+capsid,280,P1,VP2,211,N,loop,,,,,NA
+capsid,281,P1,VP2,212,F,strand,,,,,NA
+capsid,282,P1,VP2,213,G,strand,,,,,NA
+capsid,283,P1,VP2,214,L,strand,,,,,NA
+capsid,284,P1,VP2,215,L,strand,,,,,NA
+capsid,285,P1,VP2,216,V,strand,,,,,NA
+capsid,286,P1,VP2,217,V,strand,,,,,NA
+capsid,287,P1,VP2,218,P,strand,,,,,NA
+capsid,288,P1,VP2,219,I,strand,,,,,NA
+capsid,289,P1,VP2,220,S,strand,,,,,NA
+capsid,290,P1,VP2,221,P,strand,,,,,NA
+capsid,291,P1,VP2,222,L,strand,,,,,NA
+capsid,292,P1,VP2,223,D,strand,,,,,NA
+capsid,293,P1,VP2,224,Y,loop,,,,,NA
+capsid,294,P1,VP2,225,D,loop,,,,,NA
+capsid,295,P1,VP2,226,Q,loop,,,,,NA
+capsid,296,P1,VP2,227,G,loop,,,,,NA
+capsid,297,P1,VP2,228,A,loop,,,,,NA
+capsid,298,P1,VP2,229,T,loop,,,,,NA
+capsid,299,P1,VP2,230,P,loop,,,,,NA
+capsid,300,P1,VP2,231,V,loop,,,,,NA
+capsid,301,P1,VP2,232,I,strand,,,,,NA
+capsid,302,P1,VP2,233,P,strand,,,,,NA
+capsid,303,P1,VP2,234,I,strand,,,,,NA
+capsid,304,P1,VP2,235,T,strand,,,,,NA
+capsid,305,P1,VP2,236,I,strand,,,,,NA
+capsid,306,P1,VP2,237,T,strand,,,,,NA
+capsid,307,P1,VP2,238,L,strand,,,,,NA
+capsid,308,P1,VP2,239,A,strand,,,,,NA
+capsid,309,P1,VP2,240,P,strand,,,,,NA
+capsid,310,P1,VP2,241,M,strand,,,,,NA
+capsid,311,P1,VP2,242,C,strand,,,,,NA
+capsid,312,P1,VP2,243,S,strand,,,,,NA
+capsid,313,P1,VP2,244,E,strand,,,,,NA
+capsid,314,P1,VP2,245,F,strand,,,,,NA
+capsid,315,P1,VP2,246,A,strand,,,,,NA
+capsid,316,P1,VP2,247,G,strand,,,,,NA
+capsid,317,P1,VP2,248,L,strand,,,,,NA
+capsid,318,P1,VP2,249,R,loop,,,,,NA
+capsid,319,P1,VP2,250,Q,loop,,,,,NA
+capsid,320,P1,VP2,251,A,loop,,,,,NA
+capsid,321,P1,VP2,252,V,loop,,,,,NA
+capsid,322,P1,VP2,253,T,loop,,,,,NA
+capsid,323,P1,VP2,254,Q,loop,cleavage_site,,,,NA
+capsid,324,P1,VP3,1,G,loop,cleavage_site,,,,NA
+capsid,325,P1,VP3,2,F,loop,,,,,NA
+capsid,326,P1,VP3,3,P,loop,,,,,NA
+capsid,327,P1,VP3,4,T,loop,,,,,NA
+capsid,328,P1,VP3,5,E,loop,,,,,NA
+capsid,329,P1,VP3,6,L,loop,,,,,NA
+capsid,330,P1,VP3,7,K,loop,,,,,NA
+capsid,331,P1,VP3,8,P,loop,,,,,NA
+capsid,332,P1,VP3,9,G,loop,,,,,NA
+capsid,333,P1,VP3,10,T,loop,,,,,NA
+capsid,334,P1,VP3,11,N,loop,,,,,NA
+capsid,335,P1,VP3,12,Q,loop,,,,,NA
+capsid,336,P1,VP3,13,F,loop,,,,,NA
+capsid,337,P1,VP3,14,L,loop,,,,,NA
+capsid,338,P1,VP3,15,T,loop,,,,,NA
+capsid,339,P1,VP3,16,T,loop,,,,,NA
+capsid,340,P1,VP3,17,D,loop,,,,,NA
+capsid,341,P1,VP3,18,D,loop,,,,,NA
+capsid,342,P1,VP3,19,G,loop,,,,,NA
+capsid,343,P1,VP3,20,V,loop,,,,,NA
+capsid,344,P1,VP3,21,S,loop,,,,,NA
+capsid,345,P1,VP3,22,A,loop,,,,,NA
+capsid,346,P1,VP3,23,P,loop,,,,,NA
+capsid,347,P1,VP3,24,I,loop,,,,,NA
+capsid,348,P1,VP3,25,L,loop,,,,,NA
+capsid,349,P1,VP3,26,P,loop,,,,,NA
+capsid,350,P1,VP3,27,N,loop,,,,,NA
+capsid,351,P1,VP3,28,F,loop,,,,,NA
+capsid,352,P1,VP3,29,H,loop,,,,,NA
+capsid,353,P1,VP3,30,P,loop,,,,,NA
+capsid,354,P1,VP3,31,T,loop,,,,,NA
+capsid,355,P1,VP3,32,P,loop,,,,,NA
+capsid,356,P1,VP3,33,C,loop,,,,,NA
+capsid,357,P1,VP3,34,I,loop,,,,,NA
+capsid,358,P1,VP3,35,H,loop,,,,,NA
+capsid,359,P1,VP3,36,I,loop,,,,,NA
+capsid,360,P1,VP3,37,P,loop,,,,,NA
+capsid,361,P1,VP3,38,G,loop,,,,,NA
+capsid,362,P1,VP3,39,E,loop,,,,,NA
+capsid,363,P1,VP3,40,V,loop,,,,,NA
+capsid,364,P1,VP3,41,R,loop,,,,,NA
+capsid,365,P1,VP3,42,N,loop,,,,,NA
+capsid,366,P1,VP3,43,L,helix,,,,,NA
+capsid,367,P1,VP3,44,L,helix,,,,,NA
+capsid,368,P1,VP3,45,E,helix,,,,,NA
+capsid,369,P1,VP3,46,L,helix,,,,,NA
+capsid,370,P1,VP3,47,C,helix,,,,,NA
+capsid,371,P1,VP3,48,Q,helix,,,,,NA
+capsid,372,P1,VP3,49,V,loop,,,,,NA
+capsid,373,P1,VP3,50,E,loop,,,,,NA
+capsid,374,P1,VP3,51,T,strand,,,,,NA
+capsid,375,P1,VP3,52,I,strand,,,,,NA
+capsid,376,P1,VP3,53,L,strand,,,,,NA
+capsid,377,P1,VP3,54,E,loop,,,,,NA
+capsid,378,P1,VP3,55,V,loop,,,,,NA
+capsid,379,P1,VP3,56,N,loop,,,,,NA
+capsid,380,P1,VP3,57,N,loop,,,,,NA
+capsid,381,P1,VP3,58,V,loop,,,,,NA
+capsid,382,P1,VP3,59,P,helix,,,,,NA
+capsid,383,P1,VP3,60,T,helix,,,,,NA
+capsid,384,P1,VP3,61,N,helix,,,,,NA
+capsid,385,P1,VP3,62,A,loop,,,,,NA
+capsid,386,P1,VP3,63,T,loop,,,,,NA
+capsid,387,P1,VP3,64,S,loop,,,,,NA
+capsid,388,P1,VP3,65,L,helix,,,,,NA
+capsid,389,P1,VP3,66,M,helix,,,,,NA
+capsid,390,P1,VP3,67,E,helix,,,,,NA
+capsid,391,P1,VP3,68,R,helix,,,,,NA
+capsid,392,P1,VP3,69,L,helix,,,,,NA
+capsid,393,P1,VP3,70,R,strand,,,,,NA
+capsid,394,P1,VP3,71,F,strand,,,,,NA
+capsid,395,P1,VP3,72,P,strand,,,,,NA
+capsid,396,P1,VP3,73,V,strand,,,,,NA
+capsid,397,P1,VP3,74,S,strand,,,,,NA
+capsid,398,P1,VP3,75,A,loop,,,,,NA
+capsid,399,P1,VP3,76,Q,loop,,,,,NA
+capsid,400,P1,VP3,77,A,loop,,,,,NA
+capsid,401,P1,VP3,78,G,loop,,,,,NA
+capsid,402,P1,VP3,79,K,loop,,,,,NA
+capsid,403,P1,VP3,80,G,loop,,,,,NA
+capsid,404,P1,VP3,81,E,loop,,,,,NA
+capsid,405,P1,VP3,82,L,strand,,,,,NA
+capsid,406,P1,VP3,83,C,strand,,,,,NA
+capsid,407,P1,VP3,84,A,strand,,,,,NA
+capsid,408,P1,VP3,85,V,strand,,,,,NA
+capsid,409,P1,VP3,86,F,strand,,,,,NA
+capsid,410,P1,VP3,87,R,strand,,,,,NA
+capsid,411,P1,VP3,88,A,loop,,,,,NA
+capsid,412,P1,VP3,89,D,loop,,,,,NA
+capsid,413,P1,VP3,90,P,loop,,,,,NA
+capsid,414,P1,VP3,91,G,loop,,,,,NA
+capsid,415,P1,VP3,92,R,loop,,,,,NA
+capsid,416,P1,VP3,93,S,loop,,,,,NA
+capsid,417,P1,VP3,94,G,loop,,,,,NA
+capsid,418,P1,VP3,95,P,loop,,,,,NA
+capsid,419,P1,VP3,96,W,loop,,,,,NA
+capsid,420,P1,VP3,97,Q,loop,,,,,NA
+capsid,421,P1,VP3,98,S,loop,,,,,NA
+capsid,422,P1,VP3,99,T,loop,,,,,NA
+capsid,423,P1,VP3,100,L,helix,,,,,NA
+capsid,424,P1,VP3,101,L,helix,,,,,NA
+capsid,425,P1,VP3,102,G,helix,,,,,NA
+capsid,426,P1,VP3,103,Q,helix,,,,,NA
+capsid,427,P1,VP3,104,L,helix,,,,,NA
+capsid,428,P1,VP3,105,C,helix,,,,,NA
+capsid,429,P1,VP3,106,G,helix,,,,,NA
+capsid,430,P1,VP3,107,Y,helix,,,,,NA
+capsid,431,P1,VP3,108,Y,strand,,,,,NA
+capsid,432,P1,VP3,109,T,strand,,,,,NA
+capsid,433,P1,VP3,110,Q,strand,,,,,NA
+capsid,434,P1,VP3,111,W,strand,,,,,NA
+capsid,435,P1,VP3,112,S,strand,,,,,NA
+capsid,436,P1,VP3,113,G,loop,,,,,NA
+capsid,437,P1,VP3,114,S,loop,,,,,NA
+capsid,438,P1,VP3,115,L,strand,,,,,NA
+capsid,439,P1,VP3,116,E,strand,,,,,NA
+capsid,440,P1,VP3,117,V,strand,,,,,NA
+capsid,441,P1,VP3,118,T,strand,,,,,NA
+capsid,442,P1,VP3,119,F,strand,,,,,NA
+capsid,443,P1,VP3,120,M,strand,,,,,NA
+capsid,444,P1,VP3,121,F,strand,,,,,NA
+capsid,445,P1,VP3,122,T,loop,,,,,NA
+capsid,446,P1,VP3,123,G,loop,,,,,NA
+capsid,447,P1,VP3,124,S,loop,,,,,NA
+capsid,448,P1,VP3,125,F,loop,,,,,NA
+capsid,449,P1,VP3,126,M,loop,,,,,NA
+capsid,450,P1,VP3,127,A,loop,,,,,NA
+capsid,451,P1,VP3,128,T,strand,,,,,NA
+capsid,452,P1,VP3,129,G,strand,,,,,NA
+capsid,453,P1,VP3,130,K,strand,,,,,NA
+capsid,454,P1,VP3,131,M,strand,,,,,NA
+capsid,455,P1,VP3,132,L,strand,,,,,NA
+capsid,456,P1,VP3,133,I,strand,,,,,NA
+capsid,457,P1,VP3,134,A,strand,,,,,NA
+capsid,458,P1,VP3,135,Y,strand,,,,,NA
+capsid,459,P1,VP3,136,T,strand,,,,,NA
+capsid,460,P1,VP3,137,P,loop,,,,,NA
+capsid,461,P1,VP3,138,P,loop,,,,,NA
+capsid,462,P1,VP3,139,G,loop,,,,,NA
+capsid,463,P1,VP3,140,G,loop,,,,,NA
+capsid,464,P1,VP3,141,P,loop,,,,,NA
+capsid,465,P1,VP3,142,L,loop,,,,,NA
+capsid,466,P1,VP3,143,P,loop,,,,,NA
+capsid,467,P1,VP3,144,K,loop,,,,,NA
+capsid,468,P1,VP3,145,D,loop,,,,,NA
+capsid,469,P1,VP3,146,R,helix,,,,,NA
+capsid,470,P1,VP3,147,A,helix,,,,,NA
+capsid,471,P1,VP3,148,T,helix,,,,,NA
+capsid,472,P1,VP3,149,A,helix,,,,,NA
+capsid,473,P1,VP3,150,M,helix,,,,,NA
+capsid,474,P1,VP3,151,L,loop,,,,,NA
+capsid,475,P1,VP3,152,G,loop,,,,,NA
+capsid,476,P1,VP3,153,T,strand,,,,,NA
+capsid,477,P1,VP3,154,H,strand,,,,,NA
+capsid,478,P1,VP3,155,V,strand,,,,,NA
+capsid,479,P1,VP3,156,I,strand,,,,,NA
+capsid,480,P1,VP3,157,W,strand,,,,,NA
+capsid,481,P1,VP3,158,D,strand,,,,,NA
+capsid,482,P1,VP3,159,F,strand,,,,,NA
+capsid,483,P1,VP3,160,G,loop,,,,,NA
+capsid,484,P1,VP3,161,L,loop,,,,,NA
+capsid,485,P1,VP3,162,Q,loop,,,,,NA
+capsid,486,P1,VP3,163,S,loop,,,,,NA
+capsid,487,P1,VP3,164,S,strand,,,,,NA
+capsid,488,P1,VP3,165,V,strand,,,,,NA
+capsid,489,P1,VP3,166,T,strand,,,,,NA
+capsid,490,P1,VP3,167,L,strand,,,,,NA
+capsid,491,P1,VP3,168,V,strand,,,,,NA
+capsid,492,P1,VP3,169,I,strand,,,,,NA
+capsid,493,P1,VP3,170,P,loop,,,,,NA
+capsid,494,P1,VP3,171,W,loop,,,,,NA
+capsid,495,P1,VP3,172,I,loop,,,,,NA
+capsid,496,P1,VP3,173,S,loop,,,,,NA
+capsid,497,P1,VP3,174,N,loop,,,,,NA
+capsid,498,P1,VP3,175,T,loop,,,,,NA
+capsid,499,P1,VP3,176,H,loop,,,,,NA
+capsid,500,P1,VP3,177,Y,loop,,,,,NA
+capsid,501,P1,VP3,178,R,strand,,,,,NA
+capsid,502,P1,VP3,179,A,strand,,,,,NA
+capsid,503,P1,VP3,180,H,loop,,,,,NA
+capsid,504,P1,VP3,181,A,loop,,,,,NA
+capsid,505,P1,VP3,182,R,strand,,,,,NA
+capsid,506,P1,VP3,183,D,loop,,,,,NA
+capsid,507,P1,VP3,184,G,loop,,,,,NA
+capsid,508,P1,VP3,185,V,strand,,,,,NA
+capsid,509,P1,VP3,186,F,loop,,,,,NA
+capsid,510,P1,VP3,187,D,helix,,,,,NA
+capsid,511,P1,VP3,188,Y,helix,,,,,NA
+capsid,512,P1,VP3,189,Y,helix,,,,,NA
+capsid,513,P1,VP3,190,T,loop,,,,,NA
+capsid,514,P1,VP3,191,T,loop,,,,,NA
+capsid,515,P1,VP3,192,G,loop,,,,,NA
+capsid,516,P1,VP3,193,L,strand,,,,,NA
+capsid,517,P1,VP3,194,V,strand,,,,,NA
+capsid,518,P1,VP3,195,S,strand,,,,,NA
+capsid,519,P1,VP3,196,I,strand,,,,,NA
+capsid,520,P1,VP3,197,W,strand,,,,,NA
+capsid,521,P1,VP3,198,Y,strand,,,,,NA
+capsid,522,P1,VP3,199,Q,strand,,,,,NA
+capsid,523,P1,VP3,200,T,strand,,,,,NA
+capsid,524,P1,VP3,201,N,strand,,,,,NA
+capsid,525,P1,VP3,202,Y,strand,,,,,NA
+capsid,526,P1,VP3,203,V,strand,,,,,NA
+capsid,527,P1,VP3,204,V,loop,,,,,NA
+capsid,528,P1,VP3,205,P,loop,,,,,NA
+capsid,529,P1,VP3,206,I,loop,,,,,NA
+capsid,530,P1,VP3,207,G,loop,,,,,NA
+capsid,531,P1,VP3,208,A,loop,,,,,NA
+capsid,532,P1,VP3,209,P,loop,,,,,NA
+capsid,533,P1,VP3,210,N,loop,,,,,NA
+capsid,534,P1,VP3,211,T,strand,,,,,NA
+capsid,535,P1,VP3,212,A,strand,,,,,NA
+capsid,536,P1,VP3,213,Y,strand,,,,,NA
+capsid,537,P1,VP3,214,I,strand,,,,,NA
+capsid,538,P1,VP3,215,I,strand,,,,,NA
+capsid,539,P1,VP3,216,A,strand,,,,,NA
+capsid,540,P1,VP3,217,L,strand,,,,,NA
+capsid,541,P1,VP3,218,A,strand,,,,,NA
+capsid,542,P1,VP3,219,A,strand,,,,,NA
+capsid,543,P1,VP3,220,A,strand,,,,,NA
+capsid,544,P1,VP3,221,Q,loop,,,,,NA
+capsid,545,P1,VP3,222,K,loop,,,,,NA
+capsid,546,P1,VP3,223,N,loop,,,,,NA
+capsid,547,P1,VP3,224,F,loop,,,,,NA
+capsid,548,P1,VP3,225,T,strand,,,,,NA
+capsid,549,P1,VP3,226,M,strand,,,,,NA
+capsid,550,P1,VP3,227,K,strand,,,,,NA
+capsid,551,P1,VP3,228,L,strand,,,,,NA
+capsid,552,P1,VP3,229,C,strand,,,,,NA
+capsid,553,P1,VP3,230,K,loop,,,,,NA
+capsid,554,P1,VP3,231,D,loop,,,,,NA
+capsid,555,P1,VP3,232,A,loop,,,,,NA
+capsid,556,P1,VP3,233,S,loop,,,,,NA
+capsid,557,P1,VP3,234,D,loop,,,,,NA
+capsid,558,P1,VP3,235,I,loop,,,,,NA
+capsid,559,P1,VP3,236,L,loop,,,,,NA
+capsid,560,P1,VP3,237,Q,loop,,,,,NA
+capsid,561,P1,VP3,238,T,loop,,,,,NA
+capsid,562,P1,VP3,239,G,loop,,,,,NA
+capsid,563,P1,VP3,240,T,loop,,,,,NA
+capsid,564,P1,VP3,241,I,loop,,,,,NA
+capsid,565,P1,VP3,242,Q,loop,cleavage_site,,,,NA
+capsid,566,P1,VP1,1,G,loop,cleavage_site,,,,NA
+capsid,567,P1,VP1,2,D,loop,,,,,NA
+capsid,568,P1,VP1,3,R,helix,,,,,NA
+capsid,569,P1,VP1,4,V,helix,,,,,NA
+capsid,570,P1,VP1,5,A,helix,,,,,NA
+capsid,571,P1,VP1,6,D,helix,,,,,NA
+capsid,572,P1,VP1,7,V,helix,,,,,NA
+capsid,573,P1,VP1,8,I,helix,,,,,NA
+capsid,574,P1,VP1,9,E,helix,,,,,NA
+capsid,575,P1,VP1,10,S,loop,,,,,NA
+capsid,576,P1,VP1,11,S,loop,,,,,NA
+capsid,577,P1,VP1,12,I,loop,,,,,NA
+capsid,578,P1,VP1,13,G,loop,,,,,NA
+capsid,579,P1,VP1,14,D,loop,,,,,NA
+capsid,580,P1,VP1,15,S,loop,,,,,NA
+capsid,581,P1,VP1,16,V,loop,,,,,NA
+capsid,582,P1,VP1,17,S,loop,,,,,NA
+capsid,583,P1,VP1,18,R,loop,,,,,NA
+capsid,584,P1,VP1,19,A,loop,,,,,NA
+capsid,585,P1,VP1,20,L,loop,,,,,NA
+capsid,586,P1,VP1,21,T,loop,,,,,NA
+capsid,587,P1,VP1,22,R,loop,,,,,NA
+capsid,588,P1,VP1,23,A,loop,,,,,NA
+capsid,589,P1,VP1,24,L,loop,,,,,NA
+capsid,590,P1,VP1,25,P,loop,,,,,NA
+capsid,591,P1,VP1,26,A,loop,,,,,NA
+capsid,592,P1,VP1,27,P,loop,,,,,NA
+capsid,593,P1,VP1,28,T,strand,,,,,NA
+capsid,594,P1,VP1,29,G,loop,,,,,NA
+capsid,595,P1,VP1,30,Q,loop,,,,,NA
+capsid,596,P1,VP1,31,D,loop,,,,,NA
+capsid,597,P1,VP1,32,T,strand,,,,,NA
+capsid,598,P1,VP1,33,Q,loop,,,,,NA
+capsid,599,P1,VP1,34,V,loop,,,,,NA
+capsid,600,P1,VP1,35,S,strand,,,,,NA
+capsid,601,P1,VP1,36,S,loop,,,,,NA
+capsid,602,P1,VP1,37,H,loop,,,,,NA
+capsid,603,P1,VP1,38,R,loop,,,,,NA
+capsid,604,P1,VP1,39,L,loop,,,,,NA
+capsid,605,P1,VP1,40,D,loop,,,,,NA
+capsid,606,P1,VP1,41,T,loop,,,,,NA
+capsid,607,P1,VP1,42,G,loop,,,,,NA
+capsid,608,P1,VP1,43,K,loop,,,,,NA
+capsid,609,P1,VP1,44,V,loop,,,,,NA
+capsid,610,P1,VP1,45,P,loop,,,,,NA
+capsid,611,P1,VP1,46,A,loop,,,,,NA
+capsid,612,P1,VP1,47,L,loop,,,,,NA
+capsid,613,P1,VP1,48,Q,loop,,,,,NA
+capsid,614,P1,VP1,49,A,loop,,,,,NA
+capsid,615,P1,VP1,50,A,helix,,,,,NA
+capsid,616,P1,VP1,51,E,helix,,,,,NA
+capsid,617,P1,VP1,52,I,helix,,,,,NA
+capsid,618,P1,VP1,53,G,loop,,,,,NA
+capsid,619,P1,VP1,54,A,loop,,,,,NA
+capsid,620,P1,VP1,55,S,loop,,,,,NA
+capsid,621,P1,VP1,56,S,loop,,,,,NA
+capsid,622,P1,VP1,57,N,loop,,,,,NA
+capsid,623,P1,VP1,58,A,loop,,,,,NA
+capsid,624,P1,VP1,59,S,loop,,,,,NA
+capsid,625,P1,VP1,60,D,helix,,,,,NA
+capsid,626,P1,VP1,61,E,helix,,,,,NA
+capsid,627,P1,VP1,62,S,helix,,,,,NA
+capsid,628,P1,VP1,63,M,loop,,,,,NA
+capsid,629,P1,VP1,64,I,loop,,,,,NA
+capsid,630,P1,VP1,65,E,loop,,,,,NA
+capsid,631,P1,VP1,66,T,strand,,,,,NA
+capsid,632,P1,VP1,67,R,loop,,,,,NA
+capsid,633,P1,VP1,68,C,loop,,,,,NA
+capsid,634,P1,VP1,69,V,strand,,,,,NA
+capsid,635,P1,VP1,70,L,loop,,,,,NA
+capsid,636,P1,VP1,71,N,loop,,,,,NA
+capsid,637,P1,VP1,72,S,loop,,,,,NA
+capsid,638,P1,VP1,73,H,loop,,,,,NA
+capsid,639,P1,VP1,74,S,strand,,,,,NA
+capsid,640,P1,VP1,75,T,loop,,,,,NA
+capsid,641,P1,VP1,76,A,helix,,,,,NA
+capsid,642,P1,VP1,77,E,helix,,,,,NA
+capsid,643,P1,VP1,78,T,helix,,,,,NA
+capsid,644,P1,VP1,79,T,loop,,,,,NA
+capsid,645,P1,VP1,80,L,helix,,,,,NA
+capsid,646,P1,VP1,81,D,helix,,,,,NA
+capsid,647,P1,VP1,82,S,helix,,,,,NA
+capsid,648,P1,VP1,83,F,helix,,,,,NA
+capsid,649,P1,VP1,84,F,helix,,,,,NA
+capsid,650,P1,VP1,85,S,loop,,,,,NA
+capsid,651,P1,VP1,86,R,loop,,,,,NA
+capsid,652,P1,VP1,87,A,loop,,,,,NA
+capsid,653,P1,VP1,88,G,strand,,,,,NA
+capsid,654,P1,VP1,89,L,strand,,,,,NA
+capsid,655,P1,VP1,90,V,strand,,,,,NA
+capsid,656,P1,VP1,91,G,strand,,,,,NA
+capsid,657,P1,VP1,92,E,strand,,,,,NA
+capsid,658,P1,VP1,93,I,strand,,,,,NA
+capsid,659,P1,VP1,94,D,strand,,,,,NA
+capsid,660,P1,VP1,95,L,strand,,,,,NA
+capsid,661,P1,VP1,96,P,loop,,,,,NA
+capsid,662,P1,VP1,97,L,loop,,,,,NA
+capsid,663,P1,VP1,98,E,loop,,,,,NA
+capsid,664,P1,VP1,99,G,loop,,,,,NA
+capsid,665,P1,VP1,100,T,loop,,,,,NA
+capsid,666,P1,VP1,101,T,loop,,,,,NA
+capsid,667,P1,VP1,102,N,loop,,,,,NA
+capsid,668,P1,VP1,103,P,loop,,,,,NA
+capsid,669,P1,VP1,104,N,loop,,,,,NA
+capsid,670,P1,VP1,105,G,loop,,,,,NA
+capsid,671,P1,VP1,106,Y,strand,,,,,NA
+capsid,672,P1,VP1,107,A,strand,,,,,NA
+capsid,673,P1,VP1,108,N,strand,,,,,NA
+capsid,674,P1,VP1,109,W,strand,,,,,NA
+capsid,675,P1,VP1,110,D,strand,,,,,NA
+capsid,676,P1,VP1,111,I,strand,,,,,NA
+capsid,677,P1,VP1,112,D,loop,,,,,NA
+capsid,678,P1,VP1,113,I,loop,,,,,NA
+capsid,679,P1,VP1,114,T,loop,,,,,NA
+capsid,680,P1,VP1,115,G,loop,,,,,NA
+capsid,681,P1,VP1,116,Y,loop,,,,,NA
+capsid,682,P1,VP1,117,A,helix,,,,,NA
+capsid,683,P1,VP1,118,Q,helix,,,,,NA
+capsid,684,P1,VP1,119,M,helix,,,,,NA
+capsid,685,P1,VP1,120,R,helix,,,,,NA
+capsid,686,P1,VP1,121,R,helix,,,,,NA
+capsid,687,P1,VP1,122,K,helix,,,,,NA
+capsid,688,P1,VP1,123,V,helix,,,,,NA
+capsid,689,P1,VP1,124,E,helix,,,,,NA
+capsid,690,P1,VP1,125,L,loop,,,,,NA
+capsid,691,P1,VP1,126,F,strand,,,,,NA
+capsid,692,P1,VP1,127,T,strand,,,,,NA
+capsid,693,P1,VP1,128,Y,strand,,,,,NA
+capsid,694,P1,VP1,129,M,strand,,,,,NA
+capsid,695,P1,VP1,130,R,strand,,,,,NA
+capsid,696,P1,VP1,131,F,strand,,,,,NA
+capsid,697,P1,VP1,132,D,strand,,,,,NA
+capsid,698,P1,VP1,133,A,strand,,,,,NA
+capsid,699,P1,VP1,134,E,strand,,,,,NA
+capsid,700,P1,VP1,135,F,strand,,,,,NA
+capsid,701,P1,VP1,136,T,strand,,,,,NA
+capsid,702,P1,VP1,137,F,strand,,,,,NA
+capsid,703,P1,VP1,138,V,strand,,,,,NA
+capsid,704,P1,VP1,139,A,strand,,,,,NA
+capsid,705,P1,VP1,140,C,strand,,,,,NA
+capsid,706,P1,VP1,141,T,loop,,,,,NA
+capsid,707,P1,VP1,142,P,loop,,,,,NA
+capsid,708,P1,VP1,143,T,loop,,,,,NA
+capsid,709,P1,VP1,144,G,loop,,,,,NA
+capsid,710,P1,VP1,145,Q,loop,,,,,NA
+capsid,711,P1,VP1,146,V,loop,,,,,NA
+capsid,712,P1,VP1,147,V,loop,,,,,NA
+capsid,713,P1,VP1,148,P,loop,,,,,NA
+capsid,714,P1,VP1,149,Q,loop,,,,,NA
+capsid,715,P1,VP1,150,L,strand,,,,,NA
+capsid,716,P1,VP1,151,L,strand,,,,,NA
+capsid,717,P1,VP1,152,Q,strand,,,,,NA
+capsid,718,P1,VP1,153,Y,strand,,,,,NA
+capsid,719,P1,VP1,154,M,strand,,,,,NA
+capsid,720,P1,VP1,155,F,strand,,,,,NA
+capsid,721,P1,VP1,156,V,strand,,,,,NA
+capsid,722,P1,VP1,157,P,loop,,,,,NA
+capsid,723,P1,VP1,158,P,loop,,,,,NA
+capsid,724,P1,VP1,159,G,loop,,,,,NA
+capsid,725,P1,VP1,160,A,loop,,,,,NA
+capsid,726,P1,VP1,161,P,loop,,,,,NA
+capsid,727,P1,VP1,162,K,loop,,,,,NA
+capsid,728,P1,VP1,163,P,loop,,,,,NA
+capsid,729,P1,VP1,164,D,loop,,,,,NA
+capsid,730,P1,VP1,165,S,loop,,,,,NA
+capsid,731,P1,VP1,166,R,loop,,,,,NA
+capsid,732,P1,VP1,167,E,loop,,,,,NA
+capsid,733,P1,VP1,168,S,loop,,,,,NA
+capsid,734,P1,VP1,169,L,helix,,,,,NA
+capsid,735,P1,VP1,170,A,helix,,,,,NA
+capsid,736,P1,VP1,171,W,helix,,,,,NA
+capsid,737,P1,VP1,172,Q,helix,,,,,NA
+capsid,738,P1,VP1,173,T,loop,,,,,NA
+capsid,739,P1,VP1,174,A,loop,,,,,NA
+capsid,740,P1,VP1,175,T,loop,,,,,NA
+capsid,741,P1,VP1,176,N,loop,,,,,NA
+capsid,742,P1,VP1,177,P,loop,,,,,NA
+capsid,743,P1,VP1,178,S,strand,,,,,NA
+capsid,744,P1,VP1,179,V,strand,,,,,NA
+capsid,745,P1,VP1,180,F,strand,,,,,NA
+capsid,746,P1,VP1,181,V,strand,,,,,NA
+capsid,747,P1,VP1,182,K,strand,,,,,NA
+capsid,748,P1,VP1,183,L,loop,,,,,NA
+capsid,749,P1,VP1,184,S,loop,,,,,NA
+capsid,750,P1,VP1,185,D,loop,,,,,NA
+capsid,751,P1,VP1,186,P,loop,,,,,NA
+capsid,752,P1,VP1,187,P,loop,,,,,NA
+capsid,753,P1,VP1,188,A,strand,,,,,NA
+capsid,754,P1,VP1,189,Q,strand,,,,,NA
+capsid,755,P1,VP1,190,V,strand,,,,,NA
+capsid,756,P1,VP1,191,S,strand,,,,,NA
+capsid,757,P1,VP1,192,V,strand,,,,,NA
+capsid,758,P1,VP1,193,P,loop,,,,,NA
+capsid,759,P1,VP1,194,F,loop,,,,,NA
+capsid,760,P1,VP1,195,M,loop,,,,,NA
+capsid,761,P1,VP1,196,S,loop,,,,,NA
+capsid,762,P1,VP1,197,P,loop,,,,,NA
+capsid,763,P1,VP1,198,A,loop,,,,,NA
+capsid,764,P1,VP1,199,S,loop,,,,,NA
+capsid,765,P1,VP1,200,A,loop,,,,,NA
+capsid,766,P1,VP1,201,Y,strand,,,,,NA
+capsid,767,P1,VP1,202,Q,strand,,,,,NA
+capsid,768,P1,VP1,203,W,loop,,,,,NA
+capsid,769,P1,VP1,204,F,loop,,,,,NA
+capsid,770,P1,VP1,205,Y,loop,,,,,NA
+capsid,771,P1,VP1,206,D,loop,,,,,NA
+capsid,772,P1,VP1,207,G,loop,,,,,NA
+capsid,773,P1,VP1,208,Y,loop,,,,,NA
+capsid,774,P1,VP1,209,P,loop,,,,,NA
+capsid,775,P1,VP1,210,T,loop,,,,,NA
+capsid,776,P1,VP1,211,F,loop,,,,,NA
+capsid,777,P1,VP1,212,G,loop,,,,,NA
+capsid,778,P1,VP1,213,E,loop,,,,,NA
+capsid,779,P1,VP1,214,H,loop,,,,,NA
+capsid,780,P1,VP1,215,K,loop,,,,,NA
+capsid,781,P1,VP1,216,Q,helix,,,,,NA
+capsid,782,P1,VP1,217,E,helix,,,,,NA
+capsid,783,P1,VP1,218,K,helix,,,,,NA
+capsid,784,P1,VP1,219,D,helix,,,,,NA
+capsid,785,P1,VP1,220,L,helix,,,,,NA
+capsid,786,P1,VP1,221,E,helix,,,,,NA
+capsid,787,P1,VP1,222,Y,loop,,,,,NA
+capsid,788,P1,VP1,223,G,loop,,,,,NA
+capsid,789,P1,VP1,224,A,loop,,,,,NA
+capsid,790,P1,VP1,225,C,loop,,,,,NA
+capsid,791,P1,VP1,226,P,helix,,,,,NA
+capsid,792,P1,VP1,227,N,helix,,,,,NA
+capsid,793,P1,VP1,228,N,helix,,,,,NA
+capsid,794,P1,VP1,229,M,loop,,,,,NA
+capsid,795,P1,VP1,230,M,loop,,,,,NA
+capsid,796,P1,VP1,231,G,strand,,,,,NA
+capsid,797,P1,VP1,232,T,strand,,,,,NA
+capsid,798,P1,VP1,233,F,strand,,,,,NA
+capsid,799,P1,VP1,234,S,strand,,,,,NA
+capsid,800,P1,VP1,235,V,strand,,,,,NA
+capsid,801,P1,VP1,236,R,strand,,,,,NA
+capsid,802,P1,VP1,237,T,strand,,,,,NA
+capsid,803,P1,VP1,238,V,loop,,,,,NA
+capsid,804,P1,VP1,239,G,loop,,,,,NA
+capsid,805,P1,VP1,240,T,loop,,,,,NA
+capsid,806,P1,VP1,241,S,loop,,,,,NA
+capsid,807,P1,VP1,242,K,loop,,,,,NA
+capsid,808,P1,VP1,243,S,loop,,,,,NA
+capsid,809,P1,VP1,244,K,loop,,,,,NA
+capsid,810,P1,VP1,245,Y,loop,,,,,NA
+capsid,811,P1,VP1,246,P,loop,,,,,NA
+capsid,812,P1,VP1,247,L,strand,,,,,NA
+capsid,813,P1,VP1,248,V,strand,,,,,NA
+capsid,814,P1,VP1,249,I,strand,,,,,NA
+capsid,815,P1,VP1,250,R,strand,,,,,NA
+capsid,816,P1,VP1,251,I,strand,,,,,NA
+capsid,817,P1,VP1,252,Y,strand,,,,,NA
+capsid,818,P1,VP1,253,M,strand,,,,,NA
+capsid,819,P1,VP1,254,R,strand,,,,,NA
+capsid,820,P1,VP1,255,M,strand,,,,,NA
+capsid,821,P1,VP1,256,K,strand,,,,,NA
+capsid,822,P1,VP1,257,H,strand,,,,,NA
+capsid,823,P1,VP1,258,V,strand,,,,,NA
+capsid,824,P1,VP1,259,R,strand,,,,,NA
+capsid,825,P1,VP1,260,A,strand,,,,,NA
+capsid,826,P1,VP1,261,W,strand,,,,,NA
+capsid,827,P1,VP1,262,I,strand,,,,,NA
+capsid,828,P1,VP1,263,P,strand,,,,,NA
+capsid,829,P1,VP1,264,R,loop,,,,,NA
+capsid,830,P1,VP1,265,P,loop,,,,,NA
+capsid,831,P1,VP1,266,M,loop,,,,,NA
+capsid,832,P1,VP1,267,R,loop,,,,,NA
+capsid,833,P1,VP1,268,N,loop,,,,,NA
+capsid,834,P1,VP1,269,Q,loop,,,,,NA
+capsid,835,P1,VP1,270,N,loop,,,,,NA
+capsid,836,P1,VP1,271,Y,loop,,,,,NA
+capsid,837,P1,VP1,272,L,loop,,,,,NA
+capsid,838,P1,VP1,273,F,loop,,,,,NA
+capsid,839,P1,VP1,274,K,loop,,,,,NA
+capsid,840,P1,VP1,275,A,loop,,,,,NA
+capsid,841,P1,VP1,276,N,loop,,,,,NA
+capsid,842,P1,VP1,277,P,loop,,,,,NA
+capsid,843,P1,VP1,278,N,loop,,,,,NA
+capsid,844,P1,VP1,279,Y,loop,,,,,NA
+capsid,845,P1,VP1,280,A,loop,,,,,NA
+capsid,846,P1,VP1,281,G,loop,,,,,NA
+capsid,847,P1,VP1,282,N,loop,,,,,NA
+capsid,848,P1,VP1,283,F,loop,,,,,NA
+capsid,849,P1,VP1,284,I,loop,,,,,NA
+capsid,850,P1,VP1,285,K,loop,,,,,NA
+capsid,851,P1,VP1,286,P,loop,,,,,NA
+capsid,852,P1,VP1,287,T,loop,,,,,NA
+capsid,853,P1,VP1,288,G,loop,,,,,NA
+capsid,854,P1,VP1,289,A,loop,,,,,NA
+capsid,855,P1,VP1,290,S,loop,,,,,NA
+capsid,856,P1,VP1,291,R,loop,,,,,NA
+capsid,857,P1,VP1,292,T,loop,,,,,NA
+capsid,858,P1,VP1,293,A,loop,,,,,NA
+capsid,859,P1,VP1,294,I,loop,,,,,NA
+capsid,860,P1,VP1,295,T,loop,,,,,NA
+capsid,861,P1,VP1,296,T,loop,,,,,NA
+capsid,862,P1,VP1,297,L,loop,cleavage_site,,,,NA
+replication,863,P2,2A,1,G,loop,cleavage_site,,,,NA
+replication,864,P2,2A,2,K,loop,,,,,NA
+replication,865,P2,2A,3,F,loop,,,,,NA
+replication,866,P2,2A,4,G,loop,,,,,NA
+replication,867,P2,2A,5,Q,loop,,,,,NA
+replication,868,P2,2A,6,Q,loop,,,,,NA
+replication,869,P2,2A,7,S,loop,,,,,NA
+replication,870,P2,2A,8,G,loop,,,,,NA
+replication,871,P2,2A,9,A,loop,,,,,NA
+replication,872,P2,2A,10,I,strand,,,,,NA
+replication,873,P2,2A,11,Y,strand,,,,,NA
+replication,874,P2,2A,12,V,strand,,,,,NA
+replication,875,P2,2A,13,G,strand,,,,,NA
+replication,876,P2,2A,14,N,strand,,,,,NA
+replication,877,P2,2A,15,F,strand,,,,,NA
+replication,878,P2,2A,16,R,strand,,,,,NA
+replication,879,P2,2A,17,V,strand,,,,,NA
+replication,880,P2,2A,18,V,strand,,,,,NA
+replication,881,P2,2A,19,N,strand,,,,,NA
+replication,882,P2,2A,20,R,helix,,,,,NA
+replication,883,P2,2A,21,H,helix,active_site,,,,NA
+replication,884,P2,2A,22,L,helix,,,,,NA
+replication,885,P2,2A,23,A,loop,,,,,NA
+replication,886,P2,2A,24,T,loop,,,,,NA
+replication,887,P2,2A,25,H,helix,,,,,NA
+replication,888,P2,2A,26,N,helix,,,,,NA
+replication,889,P2,2A,27,D,helix,,,,,NA
+replication,890,P2,2A,28,W,helix,,,,,NA
+replication,891,P2,2A,29,A,helix,,,,,NA
+replication,892,P2,2A,30,N,helix,,,,,NA
+replication,893,P2,2A,31,L,strand,,,,,NA
+replication,894,P2,2A,32,V,strand,,,,,NA
+replication,895,P2,2A,33,W,strand,,,,,NA
+replication,896,P2,2A,34,E,strand,,,,,NA
+replication,897,P2,2A,35,D,strand,,,,,NA
+replication,898,P2,2A,36,S,helix,,,,,NA
+replication,899,P2,2A,37,S,helix,,,,,NA
+replication,900,P2,2A,38,R,helix,,,,,NA
+replication,901,P2,2A,39,D,loop,active_site,,,,NA
+replication,902,P2,2A,40,L,strand,,,,,NA
+replication,903,P2,2A,41,L,strand,,,,,NA
+replication,904,P2,2A,42,V,strand,,,,,NA
+replication,905,P2,2A,43,S,strand,,,,,NA
+replication,906,P2,2A,44,S,strand,,,,,NA
+replication,907,P2,2A,45,T,strand,,,,,NA
+replication,908,P2,2A,46,T,strand,,,,,NA
+replication,909,P2,2A,47,A,strand,,,,,NA
+replication,910,P2,2A,48,Q,strand,,,,,NA
+replication,911,P2,2A,49,G,strand,,,,,NA
+replication,912,P2,2A,50,C,strand,,,,,NA
+replication,913,P2,2A,51,D,loop,,,,,NA
+replication,914,P2,2A,52,T,loop,,,,,NA
+replication,915,P2,2A,53,I,strand,,,,,NA
+replication,916,P2,2A,54,A,loop,,,,,NA
+replication,917,P2,2A,55,R,loop,,,,,NA
+replication,918,P2,2A,56,C,loop,metal_binding,zinc-finger,PDB: 3W95,,NA
+replication,919,P2,2A,57,N,loop,,,,,NA
+replication,920,P2,2A,58,C,loop,metal_binding,zinc-finger,PDB: 3W95,,NA
+replication,921,P2,2A,59,Q,loop,,,,,NA
+replication,922,P2,2A,60,T,strand,,,,,NA
+replication,923,P2,2A,61,G,strand,,,,,NA
+replication,924,P2,2A,62,V,strand,,,,,NA
+replication,925,P2,2A,63,Y,strand,,,,,NA
+replication,926,P2,2A,64,Y,strand,,,,,NA
+replication,927,P2,2A,65,C,strand,,,,,NA
+replication,928,P2,2A,66,N,helix,,,,,NA
+replication,929,P2,2A,67,S,helix,,,,,NA
+replication,930,P2,2A,68,M,helix,,,,,NA
+replication,931,P2,2A,69,R,loop,,,,,NA
+replication,932,P2,2A,70,K,strand,,,,,NA
+replication,933,P2,2A,71,H,strand,,,,,NA
+replication,934,P2,2A,72,Y,strand,,,,,NA
+replication,935,P2,2A,73,P,strand,,,,,NA
+replication,936,P2,2A,74,V,strand,,,,,NA
+replication,937,P2,2A,75,S,strand,,,,,NA
+replication,938,P2,2A,76,F,strand,,,,,NA
+replication,939,P2,2A,77,S,loop,,,,,NA
+replication,940,P2,2A,78,K,loop,,,,,NA
+replication,941,P2,2A,79,P,loop,,,,,NA
+replication,942,P2,2A,80,S,strand,,,,,NA
+replication,943,P2,2A,81,L,strand,,,,,NA
+replication,944,P2,2A,82,I,strand,,,,,NA
+replication,945,P2,2A,83,F,strand,,,,,NA
+replication,946,P2,2A,84,V,strand,,,,,NA
+replication,947,P2,2A,85,E,loop,,,,,NA
+replication,948,P2,2A,86,A,loop,,,,,NA
+replication,949,P2,2A,87,S,strand,,,,,NA
+replication,950,P2,2A,88,E,loop,,,,,NA
+replication,951,P2,2A,89,Y,loop,,,,,NA
+replication,952,P2,2A,90,Y,strand,,,,,NA
+replication,953,P2,2A,91,P,loop,,,,,NA
+replication,954,P2,2A,92,A,loop,,,,,NA
+replication,955,P2,2A,93,R,strand,,,,,NA
+replication,956,P2,2A,94,Y,strand,,,,,NA
+replication,957,P2,2A,95,Q,strand,,,,,NA
+replication,958,P2,2A,96,S,strand,,,,,NA
+replication,959,P2,2A,97,H,strand,,,,,NA
+replication,960,P2,2A,98,L,strand,,,,,NA
+replication,961,P2,2A,99,M,strand,,,,,NA
+replication,962,P2,2A,100,L,strand,,,,,NA
+replication,963,P2,2A,101,A,strand,,,,,NA
+replication,964,P2,2A,102,V,strand,,,,,NA
+replication,965,P2,2A,103,G,loop,,,,,NA
+replication,966,P2,2A,104,H,loop,,,,,NA
+replication,967,P2,2A,105,S,loop,,,,,NA
+replication,968,P2,2A,106,E,loop,,,,,NA
+replication,969,P2,2A,107,P,loop,,,,,NA
+replication,970,P2,2A,108,G,loop,,,,,NA
+replication,971,P2,2A,109,D,loop,,,,,NA
+replication,972,P2,2A,110,C,loop,active_site,,,,NA
+replication,973,P2,2A,111,G,loop,,,,,NA
+replication,974,P2,2A,112,G,strand,,,,,NA
+replication,975,P2,2A,113,I,strand,,,,,NA
+replication,976,P2,2A,114,L,strand,,,,,NA
+replication,977,P2,2A,115,R,strand,,,,,NA
+replication,978,P2,2A,116,C,strand,metal_binding,zinc-finger,PDB: 3W95,,NA
+replication,979,P2,2A,117,Q,loop,,,,,NA
+replication,980,P2,2A,118,H,loop,metal_binding,zinc-finger,PDB: 3W95,,NA
+replication,981,P2,2A,119,G,strand,,,,,NA
+replication,982,P2,2A,120,V,strand,,,,,NA
+replication,983,P2,2A,121,V,strand,,,,,NA
+replication,984,P2,2A,122,G,strand,,,,,NA
+replication,985,P2,2A,123,I,strand,,,,,NA
+replication,986,P2,2A,124,V,strand,,,,,NA
+replication,987,P2,2A,125,S,strand,,,,,NA
+replication,988,P2,2A,126,T,strand,,,,,NA
+replication,989,P2,2A,127,G,strand,,,,,NA
+replication,990,P2,2A,128,G,strand,,,,,NA
+replication,991,P2,2A,129,N,loop,,,,,NA
+replication,992,P2,2A,130,G,loop,,,,,NA
+replication,993,P2,2A,131,L,strand,,,,,NA
+replication,994,P2,2A,132,V,strand,,,,,NA
+replication,995,P2,2A,133,G,strand,,,,,NA
+replication,996,P2,2A,134,F,strand,,,,,NA
+replication,997,P2,2A,135,A,strand,,,,,NA
+replication,998,P2,2A,136,D,strand,,,,,NA
+replication,999,P2,2A,137,V,loop,,,,,NA
+replication,1000,P2,2A,138,R,loop,,,,,NA
+replication,1001,P2,2A,139,D,loop,,,,,NA
+replication,1002,P2,2A,140,L,loop,,,,,NA
+replication,1003,P2,2A,141,L,helix,,,,,NA
+replication,1004,P2,2A,142,W,helix,,,,,NA
+replication,1005,P2,2A,143,L,helix,,,,,NA
+replication,1006,P2,2A,144,D,loop,,,,,NA
+replication,1007,P2,2A,145,D,loop,,,,,NA
+replication,1008,P2,2A,146,E,loop,,,,,NA
+replication,1009,P2,2A,147,A,loop,,,,,NA
+replication,1010,P2,2A,148,M,loop,,,,,NA
+replication,1011,P2,2A,149,E,loop,,,,,NA
+replication,1012,P2,2A,150,Q,loop,cleavage_site,,,,NA
+replication,1013,P2,2B,1,G,loop,cleavage_site,,,,NA
+replication,1014,P2,2B,2,V,helix,,,,,NA
+replication,1015,P2,2B,3,S,helix,,,,,NA
+replication,1016,P2,2B,4,D,helix,,,,,NA
+replication,1017,P2,2B,5,Y,helix,,,,,NA
+replication,1018,P2,2B,6,I,helix,,,,,NA
+replication,1019,P2,2B,7,K,helix,,,,,NA
+replication,1020,P2,2B,8,G,helix,,,,,NA
+replication,1021,P2,2B,9,L,helix,,,,,NA
+replication,1022,P2,2B,10,G,helix,,,,,NA
+replication,1023,P2,2B,11,D,helix,,,,,NA
+replication,1024,P2,2B,12,A,helix,,,,,NA
+replication,1025,P2,2B,13,F,loop,,,,,NA
+replication,1026,P2,2B,14,G,loop,,,,,NA
+replication,1027,P2,2B,15,M,loop,,,,,NA
+replication,1028,P2,2B,16,G,helix,,,,,NA
+replication,1029,P2,2B,17,F,helix,,,,,NA
+replication,1030,P2,2B,18,T,helix,,,,,NA
+replication,1031,P2,2B,19,D,helix,,,,,NA
+replication,1032,P2,2B,20,A,helix,,,,,NA
+replication,1033,P2,2B,21,V,helix,,,,,NA
+replication,1034,P2,2B,22,S,helix,,,,,NA
+replication,1035,P2,2B,23,R,helix,,,,,NA
+replication,1036,P2,2B,24,E,helix,,,,,NA
+replication,1037,P2,2B,25,V,helix,,,,,NA
+replication,1038,P2,2B,26,E,helix,,,,,NA
+replication,1039,P2,2B,27,A,helix,,,,,NA
+replication,1040,P2,2B,28,L,helix,,,,,NA
+replication,1041,P2,2B,29,K,helix,,,,,NA
+replication,1042,P2,2B,30,S,helix,,,,,NA
+replication,1043,P2,2B,31,H,helix,,,,,NA
+replication,1044,P2,2B,32,L,loop,,,,,NA
+replication,1045,P2,2B,33,I,loop,,,,,NA
+replication,1046,P2,2B,34,G,loop,,,,,NA
+replication,1047,P2,2B,35,S,loop,,,,,NA
+replication,1048,P2,2B,36,E,helix,,,,,NA
+replication,1049,P2,2B,37,G,helix,,,,,NA
+replication,1050,P2,2B,38,A,helix,,,,,NA
+replication,1051,P2,2B,39,V,helix,,,,,NA
+replication,1052,P2,2B,40,E,helix,,,,,NA
+replication,1053,P2,2B,41,K,helix,,,,,NA
+replication,1054,P2,2B,42,I,helix,,,,,NA
+replication,1055,P2,2B,43,L,helix,,,,,NA
+replication,1056,P2,2B,44,K,helix,,,,,NA
+replication,1057,P2,2B,45,N,helix,,,,,NA
+replication,1058,P2,2B,46,L,helix,,,,,NA
+replication,1059,P2,2B,47,V,helix,,,,,NA
+replication,1060,P2,2B,48,K,helix,,,,,NA
+replication,1061,P2,2B,49,L,helix,,,,,NA
+replication,1062,P2,2B,50,I,helix,,,,,NA
+replication,1063,P2,2B,51,S,helix,,,,,NA
+replication,1064,P2,2B,52,A,helix,,,,,NA
+replication,1065,P2,2B,53,L,helix,,,,,NA
+replication,1066,P2,2B,54,V,helix,,,,,NA
+replication,1067,P2,2B,55,I,helix,,,,,NA
+replication,1068,P2,2B,56,V,helix,,,,,NA
+replication,1069,P2,2B,57,I,helix,,,,,NA
+replication,1070,P2,2B,58,R,helix,,,,,NA
+replication,1071,P2,2B,59,S,helix,,,,,NA
+replication,1072,P2,2B,60,D,loop,,,,,NA
+replication,1073,P2,2B,61,Y,loop,,,,,NA
+replication,1074,P2,2B,62,D,loop,,,,,NA
+replication,1075,P2,2B,63,M,helix,,,,,NA
+replication,1076,P2,2B,64,V,helix,,,,,NA
+replication,1077,P2,2B,65,T,helix,,,,,NA
+replication,1078,P2,2B,66,L,helix,,,,,NA
+replication,1079,P2,2B,67,T,helix,,,,,NA
+replication,1080,P2,2B,68,A,helix,,,,,NA
+replication,1081,P2,2B,69,T,helix,,,,,NA
+replication,1082,P2,2B,70,L,helix,,,,,NA
+replication,1083,P2,2B,71,A,helix,,,,,NA
+replication,1084,P2,2B,72,L,helix,,,,,NA
+replication,1085,P2,2B,73,I,helix,,,,,NA
+replication,1086,P2,2B,74,G,loop,,,,,NA
+replication,1087,P2,2B,75,C,loop,,,,,NA
+replication,1088,P2,2B,76,H,loop,,,,,NA
+replication,1089,P2,2B,77,G,loop,,,,,NA
+replication,1090,P2,2B,78,S,loop,,,,,NA
+replication,1091,P2,2B,79,P,helix,,,,,NA
+replication,1092,P2,2B,80,W,helix,,,,,NA
+replication,1093,P2,2B,81,A,helix,,,,,NA
+replication,1094,P2,2B,82,W,helix,,,,,NA
+replication,1095,P2,2B,83,V,helix,,,,,NA
+replication,1096,P2,2B,84,K,helix,,,,,NA
+replication,1097,P2,2B,85,S,helix,,,,,NA
+replication,1098,P2,2B,86,K,helix,,,,,NA
+replication,1099,P2,2B,87,T,helix,,,,,NA
+replication,1100,P2,2B,88,A,helix,,,,,NA
+replication,1101,P2,2B,89,S,helix,,,,,NA
+replication,1102,P2,2B,90,I,helix,,,,,NA
+replication,1103,P2,2B,91,L,helix,,,,,NA
+replication,1104,P2,2B,92,G,loop,,,,,NA
+replication,1105,P2,2B,93,I,loop,,,,,NA
+replication,1106,P2,2B,94,P,loop,,,,,NA
+replication,1107,P2,2B,95,M,loop,,,,,NA
+replication,1108,P2,2B,96,A,loop,,,,,NA
+replication,1109,P2,2B,97,Q,loop,,,,,NA
+replication,1110,P2,2B,98,K,loop,,,,,NA
+replication,1111,P2,2B,99,Q,loop,cleavage_site,,,,NA
+replication,1112,P2,2C,1,S,helix,cleavage_site,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1113,P2,2C,2,A,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1114,P2,2C,3,S,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1115,P2,2C,4,W,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1116,P2,2C,5,L,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1117,P2,2C,6,K,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1118,P2,2C,7,K,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1119,P2,2C,8,F,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1120,P2,2C,9,N,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1121,P2,2C,10,D,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1122,P2,2C,11,A,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1123,P2,2C,12,A,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1124,P2,2C,13,S,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1125,P2,2C,14,A,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1126,P2,2C,15,A,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1127,P2,2C,16,K,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1128,P2,2C,17,G,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1129,P2,2C,18,L,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1130,P2,2C,19,E,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1131,P2,2C,20,W,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1132,P2,2C,21,I,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1133,P2,2C,22,S,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1134,P2,2C,23,N,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1135,P2,2C,24,K,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1136,P2,2C,25,I,helix,Involved in the interaction with host RTN3,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1137,P2,2C,26,S,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1138,P2,2C,27,K,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1139,P2,2C,28,F,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1140,P2,2C,29,I,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1141,P2,2C,30,D,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1142,P2,2C,31,W,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1143,P2,2C,32,L,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1144,P2,2C,33,K,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1145,P2,2C,34,E,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1146,P2,2C,35,K,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1147,P2,2C,36,I,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1148,P2,2C,37,I,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1149,P2,2C,38,P,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1150,P2,2C,39,A,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1151,P2,2C,40,A,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1152,P2,2C,41,K,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1153,P2,2C,42,E,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1154,P2,2C,43,K,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1155,P2,2C,44,V,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1156,P2,2C,45,E,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1157,P2,2C,46,F,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1158,P2,2C,47,L,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1159,P2,2C,48,N,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1160,P2,2C,49,N,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1161,P2,2C,50,L,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1162,P2,2C,51,K,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1163,P2,2C,52,Q,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1164,P2,2C,53,L,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1165,P2,2C,54,P,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1166,P2,2C,55,L,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1167,P2,2C,56,L,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1168,P2,2C,57,E,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1169,P2,2C,58,N,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1170,P2,2C,59,Q,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1171,P2,2C,60,I,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1172,P2,2C,61,S,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1173,P2,2C,62,N,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1174,P2,2C,63,L,loop,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1175,P2,2C,64,E,loop,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1176,P2,2C,65,Q,loop,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1177,P2,2C,66,S,loop,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1178,P2,2C,67,A,loop,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1179,P2,2C,68,A,loop,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1180,P2,2C,69,S,loop,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1181,P2,2C,70,Q,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1182,P2,2C,71,E,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1183,P2,2C,72,D,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1184,P2,2C,73,L,helix,,MBD,oligomerization,Uniprot_Q66478,NA
+replication,1185,P2,2C,74,E,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1186,P2,2C,75,A,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1187,P2,2C,76,M,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1188,P2,2C,77,F,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1189,P2,2C,78,G,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1190,P2,2C,79,N,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1191,P2,2C,80,V,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1192,P2,2C,81,S,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1193,P2,2C,82,Y,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1194,P2,2C,83,L,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1195,P2,2C,84,A,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1196,P2,2C,85,H,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1197,P2,2C,86,F,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1198,P2,2C,87,C,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1199,P2,2C,88,R,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1200,P2,2C,89,K,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1201,P2,2C,90,F,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1202,P2,2C,91,Q,loop,,oligomerization,,Uniprot_Q66478,NA
+replication,1203,P2,2C,92,P,loop,,oligomerization,,Uniprot_Q66478,NA
+replication,1204,P2,2C,93,L,loop,,oligomerization,,Uniprot_Q66478,NA
+replication,1205,P2,2C,94,Y,loop,,oligomerization,,Uniprot_Q66478,NA
+replication,1206,P2,2C,95,A,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1207,P2,2C,96,T,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1208,P2,2C,97,E,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1209,P2,2C,98,A,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1210,P2,2C,99,K,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1211,P2,2C,100,R,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1212,P2,2C,101,V,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1213,P2,2C,102,Y,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1214,P2,2C,103,A,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1215,P2,2C,104,L,helix,,oligomerization,,Uniprot_Q66478,NA
+replication,1216,P2,2C,105,E,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1217,P2,2C,106,K,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1218,P2,2C,107,R,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1219,P2,2C,108,M,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1220,P2,2C,109,N,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1221,P2,2C,110,N,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1222,P2,2C,111,Y,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1223,P2,2C,112,M,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1224,P2,2C,113,Q,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1225,P2,2C,114,F,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1226,P2,2C,115,K,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1227,P2,2C,116,S,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1228,P2,2C,117,K,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1229,P2,2C,118,H,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1230,P2,2C,119,R,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1231,P2,2C,120,I,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1232,P2,2C,121,E,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1233,P2,2C,122,P,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1234,P2,2C,123,V,strand,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1235,P2,2C,124,C,strand,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1236,P2,2C,125,L,strand,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1237,P2,2C,126,I,strand,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1238,P2,2C,127,I,strand,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1239,P2,2C,128,R,strand,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1240,P2,2C,129,G,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1241,P2,2C,130,S,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1242,P2,2C,131,P,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1243,P2,2C,132,G,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1244,P2,2C,133,T,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1245,P2,2C,134,G,loop,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1246,P2,2C,135,K,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1247,P2,2C,136,S,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1248,P2,2C,137,L,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1249,P2,2C,138,A,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1250,P2,2C,139,T,helix,,oligomerization,sf3 helicase,Uniprot_Q66478,NA
+replication,1251,P2,2C,140,G,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1252,P2,2C,141,I,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1253,P2,2C,142,I,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1254,P2,2C,143,A,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1255,P2,2C,144,R,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1256,P2,2C,145,A,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1257,P2,2C,146,I,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1258,P2,2C,147,A,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1259,P2,2C,148,D,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1260,P2,2C,149,K,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1261,P2,2C,150,Y,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1262,P2,2C,151,H,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1263,P2,2C,152,S,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1264,P2,2C,153,S,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1265,P2,2C,154,V,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1266,P2,2C,155,Y,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1267,P2,2C,156,S,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1268,P2,2C,157,L,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1269,P2,2C,158,P,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1270,P2,2C,159,P,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1271,P2,2C,160,D,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1272,P2,2C,161,P,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1273,P2,2C,162,D,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1274,P2,2C,163,H,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1275,P2,2C,164,F,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1276,P2,2C,165,D,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1277,P2,2C,166,G,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1278,P2,2C,167,Y,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1279,P2,2C,168,K,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1280,P2,2C,169,Q,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1281,P2,2C,170,Q,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1282,P2,2C,171,I,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1283,P2,2C,172,V,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1284,P2,2C,173,T,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1285,P2,2C,174,V,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1286,P2,2C,175,M,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1287,P2,2C,176,D,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1288,P2,2C,177,D,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1289,P2,2C,178,L,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1290,P2,2C,179,C,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1291,P2,2C,180,Q,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1292,P2,2C,181,N,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1293,P2,2C,182,P,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1294,P2,2C,183,D,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1295,P2,2C,184,G,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1296,P2,2C,185,K,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1297,P2,2C,186,D,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1298,P2,2C,187,M,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1299,P2,2C,188,S,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1300,P2,2C,189,L,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1301,P2,2C,190,F,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1302,P2,2C,191,C,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1303,P2,2C,192,Q,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1304,P2,2C,193,M,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1305,P2,2C,194,V,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1306,P2,2C,195,S,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1307,P2,2C,196,T,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1308,P2,2C,197,V,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1309,P2,2C,198,D,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1310,P2,2C,199,F,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1311,P2,2C,200,I,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1312,P2,2C,201,P,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1313,P2,2C,202,P,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1314,P2,2C,203,M,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1315,P2,2C,204,A,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1316,P2,2C,205,S,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1317,P2,2C,206,L,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1318,P2,2C,207,E,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1319,P2,2C,208,E,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1320,P2,2C,209,K,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1321,P2,2C,210,G,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1322,P2,2C,211,V,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1323,P2,2C,212,S,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1324,P2,2C,213,F,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1325,P2,2C,214,T,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1326,P2,2C,215,S,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1327,P2,2C,216,K,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1328,P2,2C,217,F,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1329,P2,2C,218,V,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1330,P2,2C,219,I,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1331,P2,2C,220,A,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1332,P2,2C,221,S,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1333,P2,2C,222,T,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1334,P2,2C,223,N,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1335,P2,2C,224,A,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1336,P2,2C,225,S,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1337,P2,2C,226,N,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1338,P2,2C,227,I,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1339,P2,2C,228,I,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1340,P2,2C,229,V,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1341,P2,2C,230,P,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1342,P2,2C,231,T,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1343,P2,2C,232,V,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1344,P2,2C,233,S,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1345,P2,2C,234,D,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1346,P2,2C,235,S,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1347,P2,2C,236,D,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1348,P2,2C,237,A,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1349,P2,2C,238,I,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1350,P2,2C,239,R,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1351,P2,2C,240,R,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1352,P2,2C,241,R,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1353,P2,2C,242,F,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1354,P2,2C,243,F,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1355,P2,2C,244,M,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1356,P2,2C,245,D,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1357,P2,2C,246,C,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1358,P2,2C,247,D,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1359,P2,2C,248,I,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1360,P2,2C,249,E,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1361,P2,2C,250,V,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1362,P2,2C,251,T,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1363,P2,2C,252,D,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1364,P2,2C,253,S,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1365,P2,2C,254,Y,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1366,P2,2C,255,K,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1367,P2,2C,256,T,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1368,P2,2C,257,E,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1369,P2,2C,258,L,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1370,P2,2C,259,G,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1371,P2,2C,260,R,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1372,P2,2C,261,L,strand,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1373,P2,2C,262,D,loop,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1374,P2,2C,263,A,helix,,,sf3 helicase,Uniprot_Q66478,NA
+replication,1375,P2,2C,264,G,helix,,,,,NA
+replication,1376,P2,2C,265,R,helix,,,,,NA
+replication,1377,P2,2C,266,A,helix,,,,,NA
+replication,1378,P2,2C,267,A,helix,,,,,NA
+replication,1379,P2,2C,268,R,loop,,,,,NA
+replication,1380,P2,2C,269,L,loop,,,,,NA
+replication,1381,P2,2C,270,C,loop,metal_binding,zinc-finger,,Uniprot_Q66478& https://www.science.org/doi/10.1126/sciadv.1602573,NA
+replication,1382,P2,2C,271,S,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1383,P2,2C,272,E,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1384,P2,2C,273,N,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1385,P2,2C,274,N,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1386,P2,2C,275,T,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1387,P2,2C,276,A,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1388,P2,2C,277,N,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1389,P2,2C,278,F,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1390,P2,2C,279,K,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1391,P2,2C,280,R,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1392,P2,2C,281,C,loop,metal_binding,zinc-finger,,Uniprot_Q66478& https://www.science.org/doi/10.1126/sciadv.1602573,NA
+replication,1393,P2,2C,282,S,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1394,P2,2C,283,P,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1395,P2,2C,284,L,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1396,P2,2C,285,V,loop,,zinc-finger,,Uniprot_Q66478,NA
+replication,1397,P2,2C,286,C,loop,metal_binding,zinc-finger,,Uniprot_Q66478& https://www.science.org/doi/10.1126/sciadv.1602573,NA
+replication,1398,P2,2C,287,G,loop,,,,,NA
+replication,1399,P2,2C,288,K,loop,,,,,NA
+replication,1400,P2,2C,289,A,loop,,,,,NA
+replication,1401,P2,2C,290,I,strand,,,,,NA
+replication,1402,P2,2C,291,Q,strand,,,,,NA
+replication,1403,P2,2C,292,L,strand,,,,,NA
+replication,1404,P2,2C,293,R,strand,,,,,NA
+replication,1405,P2,2C,294,D,strand,,,,,NA
+replication,1406,P2,2C,295,R,loop,,,,,NA
+replication,1407,P2,2C,296,K,loop,,,,,NA
+replication,1408,P2,2C,297,S,loop,,,,,NA
+replication,1409,P2,2C,298,K,loop,,,,,NA
+replication,1410,P2,2C,299,V,loop,,,,,NA
+replication,1411,P2,2C,300,R,strand,,,,,NA
+replication,1412,P2,2C,301,Y,strand,,,,,NA
+replication,1413,P2,2C,302,S,loop,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1414,P2,2C,303,V,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1415,P2,2C,304,D,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1416,P2,2C,305,T,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1417,P2,2C,306,V,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1418,P2,2C,307,V,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1419,P2,2C,308,S,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1420,P2,2C,309,E,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1421,P2,2C,310,L,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1422,P2,2C,311,I,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1423,P2,2C,312,R,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1424,P2,2C,313,E,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1425,P2,2C,314,Y,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1426,P2,2C,315,N,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1427,P2,2C,316,N,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1428,P2,2C,317,R,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1429,P2,2C,318,S,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1430,P2,2C,319,V,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1431,P2,2C,320,I,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1432,P2,2C,321,G,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1433,P2,2C,322,N,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1434,P2,2C,323,T,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1435,P2,2C,324,I,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1436,P2,2C,325,E,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1437,P2,2C,326,A,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1438,P2,2C,327,L,helix,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1439,P2,2C,328,F,loop,,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1440,P2,2C,329,Q,loop,cleavage_site,c terminal helical domain,,https://www.science.org/doi/10.1126/sciadv.1602573 & PDB: 5gq1,NA
+replication,1441,P3,3A,1,G,loop,cleavage_site,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1442,P3,3A,2,P,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1443,P3,3A,3,P,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1444,P3,3A,4,K,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1445,P3,3A,5,F,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1446,P3,3A,6,R,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1447,P3,3A,7,P,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1448,P3,3A,8,I,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1449,P3,3A,9,R,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1450,P3,3A,10,I,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1451,P3,3A,11,S,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1452,P3,3A,12,L,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1453,P3,3A,13,E,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1454,P3,3A,14,E,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1455,P3,3A,15,K,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1456,P3,3A,16,P,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1457,P3,3A,17,A,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1458,P3,3A,18,P,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1459,P3,3A,19,D,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1460,P3,3A,20,A,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1461,P3,3A,21,I,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1462,P3,3A,22,S,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1463,P3,3A,23,D,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1464,P3,3A,24,L,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1465,P3,3A,25,L,helix,3A_homodimer_formation,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/ & homology to CVB-3/EVD68,NA
+replication,1466,P3,3A,26,A,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1467,P3,3A,27,S,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1468,P3,3A,28,V,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1469,P3,3A,29,D,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1470,P3,3A,30,S,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1471,P3,3A,31,E,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1472,P3,3A,32,E,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1473,P3,3A,33,V,helix,3A_homodimer_formation,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/ & homology to CVB-3/EVD68,NA
+replication,1474,P3,3A,34,R,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1475,P3,3A,35,Q,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1476,P3,3A,36,Y,helix,3A_homodimer_formation,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/ & homology to CVB-3/EVD68,NA
+replication,1477,P3,3A,37,C,helix,3A_homodimer_formation,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/ & homology to CVB-3/EVD68,NA
+replication,1478,P3,3A,38,R,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1479,P3,3A,39,D,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1480,P3,3A,40,Q,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1481,P3,3A,41,G,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1482,P3,3A,42,W,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1483,P3,3A,43,I,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1484,P3,3A,44,V,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1485,P3,3A,45,P,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1486,P3,3A,46,D,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1487,P3,3A,47,S,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1488,P3,3A,48,P,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1489,P3,3A,49,T,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1490,P3,3A,50,N,loop,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1491,P3,3A,51,V,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1492,P3,3A,52,E,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1493,P3,3A,53,R,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1494,P3,3A,54,H,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1495,P3,3A,55,L,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1496,P3,3A,56,N,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1497,P3,3A,57,R,helix,,NTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1498,P3,3A,58,A,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1499,P3,3A,59,V,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1500,P3,3A,60,L,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1501,P3,3A,61,I,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1502,P3,3A,62,M,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1503,P3,3A,63,Q,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1504,P3,3A,64,S,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1505,P3,3A,65,V,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1506,P3,3A,66,A,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1507,P3,3A,67,T,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1508,P3,3A,68,V,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1509,P3,3A,69,V,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1510,P3,3A,70,A,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1511,P3,3A,71,V,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1512,P3,3A,72,V,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1513,P3,3A,73,S,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1514,P3,3A,74,L,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1515,P3,3A,75,V,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1516,P3,3A,76,Y,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1517,P3,3A,77,V,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1518,P3,3A,78,I,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1519,P3,3A,79,Y,helix,,MBD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1520,P3,3A,80,K,helix,,CTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1521,P3,3A,81,L,helix,,CTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1522,P3,3A,82,F,helix,,CTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1523,P3,3A,83,A,helix,,CTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1524,P3,3A,84,G,helix,,CTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1525,P3,3A,85,F,helix,,CTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1526,P3,3A,86,Q,loop,cleavage_site,CTD,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695192/,NA
+replication,1527,P3,3B,1,G,loop,cleavage_site,,,,NA
+replication,1528,P3,3B,2,A,loop,,,,,NA
+replication,1529,P3,3B,3,Y,loop,O-(5'-phospho-RNA)-tyrosine,,,Uniprot_Q66478,NA
+replication,1530,P3,3B,4,S,loop,,,,,NA
+replication,1531,P3,3B,5,G,loop,,,,,NA
+replication,1532,P3,3B,6,A,loop,,,,,NA
+replication,1533,P3,3B,7,P,loop,,,,,NA
+replication,1534,P3,3B,8,K,loop,,,,,NA
+replication,1535,P3,3B,9,Q,loop,,,,,NA
+replication,1536,P3,3B,10,T,loop,,,,,NA
+replication,1537,P3,3B,11,L,loop,,,,,NA
+replication,1538,P3,3B,12,K,loop,,,,,NA
+replication,1539,P3,3B,13,K,loop,,,,,NA
+replication,1540,P3,3B,14,P,loop,,,,,NA
+replication,1541,P3,3B,15,V,loop,,,,,NA
+replication,1542,P3,3B,16,L,loop,,,,,NA
+replication,1543,P3,3B,17,R,loop,,,,,NA
+replication,1544,P3,3B,18,T,loop,,,,,NA
+replication,1545,P3,3B,19,A,loop,,,,,NA
+replication,1546,P3,3B,20,T,loop,,,,,NA
+replication,1547,P3,3B,21,V,loop,,,,,NA
+replication,1548,P3,3B,22,Q,loop,cleavage_site,,,,NA
+replication,1549,P3,3C,1,G,loop,cleavage_site,,,,NA
+replication,1550,P3,3C,2,P,helix,,,,,NA
+replication,1551,P3,3C,3,S,helix,,,,,NA
+replication,1552,P3,3C,4,L,helix,,,,,NA
+replication,1553,P3,3C,5,D,helix,,,,,NA
+replication,1554,P3,3C,6,F,helix,,,,,NA
+replication,1555,P3,3C,7,A,helix,,,,,NA
+replication,1556,P3,3C,8,L,helix,,,,,NA
+replication,1557,P3,3C,9,S,helix,,,,,NA
+replication,1558,P3,3C,10,L,helix,,,,,NA
+replication,1559,P3,3C,11,L,helix,,,,,NA
+replication,1560,P3,3C,12,R,helix,,,,,NA
+replication,1561,P3,3C,13,R,helix,,,,,NA
+replication,1562,P3,3C,14,N,helix,,,,,NA
+replication,1563,P3,3C,15,I,strand,,,,,NA
+replication,1564,P3,3C,16,R,strand,,,,,NA
+replication,1565,P3,3C,17,Q,strand,,,,,NA
+replication,1566,P3,3C,18,V,strand,,,,,NA
+replication,1567,P3,3C,19,Q,strand,,,,,NA
+replication,1568,P3,3C,20,T,strand,,,,,NA
+replication,1569,P3,3C,21,D,loop,,,,,NA
+replication,1570,P3,3C,22,Q,loop,,,,,NA
+replication,1571,P3,3C,23,G,strand,,,,,NA
+replication,1572,P3,3C,24,H,strand,,,,,NA
+replication,1573,P3,3C,25,F,strand,,,,,NA
+replication,1574,P3,3C,26,T,strand,,,,,NA
+replication,1575,P3,3C,27,M,strand,,,,,NA
+replication,1576,P3,3C,28,L,strand,,,,,NA
+replication,1577,P3,3C,29,G,strand,,,,,NA
+replication,1578,P3,3C,30,V,strand,,,,,NA
+replication,1579,P3,3C,31,R,strand,,,,,NA
+replication,1580,P3,3C,32,D,strand,,,,,NA
+replication,1581,P3,3C,33,R,loop,,,,,NA
+replication,1582,P3,3C,34,L,strand,,,,,NA
+replication,1583,P3,3C,35,A,strand,,,,,NA
+replication,1584,P3,3C,36,V,strand,,,,,NA
+replication,1585,P3,3C,37,L,strand,,,,,NA
+replication,1586,P3,3C,38,P,strand,,,,,NA
+replication,1587,P3,3C,39,R,helix,,,,,NA
+replication,1588,P3,3C,40,H,helix,active_site,,,,NA
+replication,1589,P3,3C,41,S,helix,,,,,NA
+replication,1590,P3,3C,42,Q,loop,,,,,NA
+replication,1591,P3,3C,43,P,loop,,,,,NA
+replication,1592,P3,3C,44,G,loop,,,,,NA
+replication,1593,P3,3C,45,K,loop,,,,,NA
+replication,1594,P3,3C,46,T,strand,,,,,NA
+replication,1595,P3,3C,47,I,strand,,,,,NA
+replication,1596,P3,3C,48,W,strand,,,,,NA
+replication,1597,P3,3C,49,V,strand,,,,,NA
+replication,1598,P3,3C,50,E,loop,,,,,NA
+replication,1599,P3,3C,51,H,loop,,,,,NA
+replication,1600,P3,3C,52,K,strand,,,,,NA
+replication,1601,P3,3C,53,L,strand,,,,,NA
+replication,1602,P3,3C,54,V,strand,,,,,NA
+replication,1603,P3,3C,55,K,strand,,,,,NA
+replication,1604,P3,3C,56,I,strand,,,,,NA
+replication,1605,P3,3C,57,V,strand,,,,,NA
+replication,1606,P3,3C,58,D,strand,,,,,NA
+replication,1607,P3,3C,59,A,strand,,,,,NA
+replication,1608,P3,3C,60,V,strand,,,,,NA
+replication,1609,P3,3C,61,E,strand,,,,,NA
+replication,1610,P3,3C,62,L,strand,,,,,NA
+replication,1611,P3,3C,63,V,strand,,,,,NA
+replication,1612,P3,3C,64,D,loop,,,,,NA
+replication,1613,P3,3C,65,E,loop,,,,,NA
+replication,1614,P3,3C,66,Q,loop,,,,,NA
+replication,1615,P3,3C,67,G,loop,,,,,NA
+replication,1616,P3,3C,68,V,loop,,,,,NA
+replication,1617,P3,3C,69,N,strand,,,,,NA
+replication,1618,P3,3C,70,L,strand,,,,,NA
+replication,1619,P3,3C,71,E,strand,active_site,,,,NA
+replication,1620,P3,3C,72,L,strand,,,,,NA
+replication,1621,P3,3C,73,T,strand,,,,,NA
+replication,1622,P3,3C,74,L,strand,,,,,NA
+replication,1623,P3,3C,75,V,strand,,,,,NA
+replication,1624,P3,3C,76,T,strand,,,,,NA
+replication,1625,P3,3C,77,L,strand,,,,,NA
+replication,1626,P3,3C,78,D,loop,,,,,NA
+replication,1627,P3,3C,79,T,loop,,,,,NA
+replication,1628,P3,3C,80,N,loop,,,,,NA
+replication,1629,P3,3C,81,E,loop,,,,,NA
+replication,1630,P3,3C,82,K,loop,,,,,NA
+replication,1631,P3,3C,83,F,strand,,,,,NA
+replication,1632,P3,3C,84,R,loop,,,,,NA
+replication,1633,P3,3C,85,D,loop,,,,,NA
+replication,1634,P3,3C,86,I,loop,,,,,NA
+replication,1635,P3,3C,87,T,helix,,,,,NA
+replication,1636,P3,3C,88,R,helix,,,,,NA
+replication,1637,P3,3C,89,F,helix,,,,,NA
+replication,1638,P3,3C,90,I,loop,,,,,NA
+replication,1639,P3,3C,91,P,loop,,,,,NA
+replication,1640,P3,3C,92,E,loop,,,,,NA
+replication,1641,P3,3C,93,T,loop,,,,,NA
+replication,1642,P3,3C,94,I,loop,,,,,NA
+replication,1643,P3,3C,95,S,loop,,,,,NA
+replication,1644,P3,3C,96,P,loop,,,,,NA
+replication,1645,P3,3C,97,A,strand,,,,,NA
+replication,1646,P3,3C,98,S,loop,,,,,NA
+replication,1647,P3,3C,99,D,loop,,,,,NA
+replication,1648,P3,3C,100,A,strand,,,,,NA
+replication,1649,P3,3C,101,T,strand,,,,,NA
+replication,1650,P3,3C,102,L,strand,,,,,NA
+replication,1651,P3,3C,103,V,strand,,,,,NA
+replication,1652,P3,3C,104,I,strand,,,,,NA
+replication,1653,P3,3C,105,N,strand,,,,,NA
+replication,1654,P3,3C,106,T,strand,,,,,NA
+replication,1655,P3,3C,107,E,loop,,,,,NA
+replication,1656,P3,3C,108,H,loop,,,,,NA
+replication,1657,P3,3C,109,M,strand,,,,,NA
+replication,1658,P3,3C,110,P,strand,,,,,NA
+replication,1659,P3,3C,111,S,strand,,,,,NA
+replication,1660,P3,3C,112,M,strand,,,,,NA
+replication,1661,P3,3C,113,F,strand,,,,,NA
+replication,1662,P3,3C,114,V,strand,,,,,NA
+replication,1663,P3,3C,115,P,strand,,,,,NA
+replication,1664,P3,3C,116,V,strand,,,,,NA
+replication,1665,P3,3C,117,G,strand,,,,,NA
+replication,1666,P3,3C,118,D,loop,,,,,NA
+replication,1667,P3,3C,119,V,strand,,,,,NA
+replication,1668,P3,3C,120,V,strand,,,,,NA
+replication,1669,P3,3C,121,Q,strand,,,,,NA
+replication,1670,P3,3C,122,Y,strand,,,,,NA
+replication,1671,P3,3C,123,G,strand,,,,,NA
+replication,1672,P3,3C,124,F,loop,,,,,NA
+replication,1673,P3,3C,125,L,strand,,,,,NA
+replication,1674,P3,3C,126,N,strand,,,,,NA
+replication,1675,P3,3C,127,L,strand,,,,,NA
+replication,1676,P3,3C,128,S,loop,,,,,NA
+replication,1677,P3,3C,129,G,loop,,,,,NA
+replication,1678,P3,3C,130,K,strand,,,,,NA
+replication,1679,P3,3C,131,P,strand,,,,,NA
+replication,1680,P3,3C,132,T,strand,,,,,NA
+replication,1681,P3,3C,133,H,loop,,,,,NA
+replication,1682,P3,3C,134,R,loop,,,,,NA
+replication,1683,P3,3C,135,T,strand,,,,,NA
+replication,1684,P3,3C,136,M,strand,,,,,NA
+replication,1685,P3,3C,137,M,strand,,,,,NA
+replication,1686,P3,3C,138,Y,strand,,,,,NA
+replication,1687,P3,3C,139,N,loop,,,,,NA
+replication,1688,P3,3C,140,F,loop,,,,,NA
+replication,1689,P3,3C,141,P,loop,,,,,NA
+replication,1690,P3,3C,142,T,loop,,,,,NA
+replication,1691,P3,3C,143,K,loop,,,,,NA
+replication,1692,P3,3C,144,A,loop,,,,,NA
+replication,1693,P3,3C,145,G,loop,,,,,NA
+replication,1694,P3,3C,146,Q,loop,,,,,NA
+replication,1695,P3,3C,147,C,loop,active_site,,,,NA
+replication,1696,P3,3C,148,G,loop,,,,,NA
+replication,1697,P3,3C,149,G,strand,,,,,NA
+replication,1698,P3,3C,150,V,strand,,,,,NA
+replication,1699,P3,3C,151,V,strand,,,,,NA
+replication,1700,P3,3C,152,T,strand,,,,,NA
+replication,1701,P3,3C,153,A,strand,,,,,NA
+replication,1702,P3,3C,154,V,loop,,,,,NA
+replication,1703,P3,3C,155,G,loop,,,,,NA
+replication,1704,P3,3C,156,K,strand,,,,,NA
+replication,1705,P3,3C,157,V,strand,,,,,NA
+replication,1706,P3,3C,158,I,strand,,,,,NA
+replication,1707,P3,3C,159,G,strand,,,,,NA
+replication,1708,P3,3C,160,I,strand,,,,,NA
+replication,1709,P3,3C,161,H,strand,,,,,NA
+replication,1710,P3,3C,162,I,strand,,,,,NA
+replication,1711,P3,3C,163,G,strand,,,,,NA
+replication,1712,P3,3C,164,G,strand,,,,,NA
+replication,1713,P3,3C,165,N,loop,,,,,NA
+replication,1714,P3,3C,166,G,loop,,,,,NA
+replication,1715,P3,3C,167,R,loop,,,,,NA
+replication,1716,P3,3C,168,Q,loop,,,,,NA
+replication,1717,P3,3C,169,G,strand,,,,,NA
+replication,1718,P3,3C,170,F,strand,,,,,NA
+replication,1719,P3,3C,171,C,strand,,,,,NA
+replication,1720,P3,3C,172,A,strand,,,,,NA
+replication,1721,P3,3C,173,A,strand,,,,,NA
+replication,1722,P3,3C,174,L,loop,,,,,NA
+replication,1723,P3,3C,175,K,loop,,,,,NA
+replication,1724,P3,3C,176,R,helix,,,,,NA
+replication,1725,P3,3C,177,G,helix,,,,,NA
+replication,1726,P3,3C,178,Y,helix,,,,,NA
+replication,1727,P3,3C,179,F,loop,,,,,NA
+replication,1728,P3,3C,180,C,loop,,,,,NA
+replication,1729,P3,3C,181,S,loop,,,,,NA
+replication,1730,P3,3C,182,E,loop,,,,,NA
+replication,1731,P3,3C,183,Q,loop,cleavage_site,,,,NA
+replication,1732,P3,3D,1,G,loop,cleavage_site,index,,"Thompson and Peersen, 2004",NA
+replication,1733,P3,3D,2,E,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1734,P3,3D,3,I,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1735,P3,3D,4,Q,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1736,P3,3D,5,W,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1737,P3,3D,6,M,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1738,P3,3D,7,K,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1739,P3,3D,8,P,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1740,P3,3D,9,N,helix,,index,,"Thompson and Peersen, 2004",NA
+replication,1741,P3,3D,10,K,helix,,index,,"Thompson and Peersen, 2004",NA
+replication,1742,P3,3D,11,E,helix,,index,,"Thompson and Peersen, 2004",NA
+replication,1743,P3,3D,12,T,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1744,P3,3D,13,G,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1745,P3,3D,14,R,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1746,P3,3D,15,L,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1747,P3,3D,16,N,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1748,P3,3D,17,I,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1749,P3,3D,18,N,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1750,P3,3D,19,G,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1751,P3,3D,20,P,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1752,P3,3D,21,T,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1753,P3,3D,22,R,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1754,P3,3D,23,T,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1755,P3,3D,24,K,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1756,P3,3D,25,L,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1757,P3,3D,26,E,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1758,P3,3D,27,P,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1759,P3,3D,28,S,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1760,P3,3D,29,V,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1761,P3,3D,30,F,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1762,P3,3D,31,H,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1763,P3,3D,32,D,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1764,P3,3D,33,V,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1765,P3,3D,34,F,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1766,P3,3D,35,E,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1767,P3,3D,36,G,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1768,P3,3D,37,T,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1769,P3,3D,38,K,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1770,P3,3D,39,E,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1771,P3,3D,40,P,strand,,index,,"Thompson and Peersen, 2004",NA
+replication,1772,P3,3D,41,A,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1773,P3,3D,42,V,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1774,P3,3D,43,L,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1775,P3,3D,44,T,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1776,P3,3D,45,S,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1777,P3,3D,46,K,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1778,P3,3D,47,D,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1779,P3,3D,48,P,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1780,P3,3D,49,R,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1781,P3,3D,50,L,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1782,P3,3D,51,E,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1783,P3,3D,52,V,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1784,P3,3D,53,D,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1785,P3,3D,54,F,helix,,index,,"Thompson and Peersen, 2004",NA
+replication,1786,P3,3D,55,E,helix,,index,,"Thompson and Peersen, 2004",NA
+replication,1787,P3,3D,56,Q,helix,,index,,"Thompson and Peersen, 2004",NA
+replication,1788,P3,3D,57,A,helix,,index,,"Thompson and Peersen, 2004",NA
+replication,1789,P3,3D,58,L,helix,,index,,"Thompson and Peersen, 2004",NA
+replication,1790,P3,3D,59,F,helix,,index,,"Thompson and Peersen, 2004",NA
+replication,1791,P3,3D,60,S,helix,,index,,"Thompson and Peersen, 2004",NA
+replication,1792,P3,3D,61,K,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1793,P3,3D,62,Y,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1794,P3,3D,63,V,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1795,P3,3D,64,G,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1796,P3,3D,65,N,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1797,P3,3D,66,T,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1798,P3,3D,67,L,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1799,P3,3D,68,H,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1800,P3,3D,69,E,loop,,index,,"Thompson and Peersen, 2004",NA
+replication,1801,P3,3D,70,P,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1802,P3,3D,71,D,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1803,P3,3D,72,E,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1804,P3,3D,73,F,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1805,P3,3D,74,V,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1806,P3,3D,75,K,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1807,P3,3D,76,E,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1808,P3,3D,77,A,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1809,P3,3D,78,A,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1810,P3,3D,79,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1811,P3,3D,80,H,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1812,P3,3D,81,Y,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1813,P3,3D,82,A,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1814,P3,3D,83,N,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1815,P3,3D,84,Q,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1816,P3,3D,85,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1817,P3,3D,86,K,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1818,P3,3D,87,Q,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1819,P3,3D,88,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1820,P3,3D,89,D,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1821,P3,3D,90,I,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1822,P3,3D,91,K,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1823,P3,3D,92,T,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1824,P3,3D,93,T,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1825,P3,3D,94,K,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1826,P3,3D,95,M,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1827,P3,3D,96,S,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1828,P3,3D,97,M,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1829,P3,3D,98,E,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1830,P3,3D,99,D,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1831,P3,3D,100,A,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1832,P3,3D,101,C,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1833,P3,3D,102,Y,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1834,P3,3D,103,G,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1835,P3,3D,104,T,strand,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1836,P3,3D,105,E,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1837,P3,3D,106,N,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1838,P3,3D,107,L,strand,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1839,P3,3D,108,E,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1840,P3,3D,109,A,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1841,P3,3D,110,I,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1842,P3,3D,111,D,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1843,P3,3D,112,L,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1844,P3,3D,113,H,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1845,P3,3D,114,T,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1846,P3,3D,115,S,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1847,P3,3D,116,A,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1848,P3,3D,117,G,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1849,P3,3D,118,Y,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1850,P3,3D,119,P,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1851,P3,3D,120,Y,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1852,P3,3D,121,S,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1853,P3,3D,122,A,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1854,P3,3D,123,L,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1855,P3,3D,124,G,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1856,P3,3D,125,I,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1857,P3,3D,126,K,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1858,P3,3D,127,K,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1859,P3,3D,128,K,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1860,P3,3D,129,D,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1861,P3,3D,130,I,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1862,P3,3D,131,L,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1863,P3,3D,132,D,strand,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1864,P3,3D,133,P,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1865,P3,3D,134,T,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1866,P3,3D,135,T,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1867,P3,3D,136,R,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1868,P3,3D,137,D,strand,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1869,P3,3D,138,V,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1870,P3,3D,139,S,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1871,P3,3D,140,K,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1872,P3,3D,141,M,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1873,P3,3D,142,K,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1874,P3,3D,143,F,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1875,P3,3D,144,Y,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1876,P3,3D,145,M,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1877,P3,3D,146,D,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1878,P3,3D,147,K,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1879,P3,3D,148,Y,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1880,P3,3D,149,G,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1881,P3,3D,150,L,loop,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1882,P3,3D,151,D,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1883,P3,3D,152,L,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1884,P3,3D,153,P,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1885,P3,3D,154,Y,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1886,P3,3D,155,S,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1887,P3,3D,156,T,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1888,P3,3D,157,Y,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1889,P3,3D,158,V,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1890,P3,3D,159,K,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1891,P3,3D,160,D,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1892,P3,3D,161,E,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1893,P3,3D,162,L,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1894,P3,3D,163,R,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1895,P3,3D,164,A,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1896,P3,3D,165,I,helix,,ring,,"Thompson and Peersen, 2004",NA
+replication,1897,P3,3D,166,D,helix,,ring,,"Thompson and Peersen, 2004",NA
+replication,1898,P3,3D,167,K,helix,,ring,,"Thompson and Peersen, 2004",NA
+replication,1899,P3,3D,168,I,helix,,ring,,"Thompson and Peersen, 2004",NA
+replication,1900,P3,3D,169,K,helix,,ring,,"Thompson and Peersen, 2004",NA
+replication,1901,P3,3D,170,K,helix,,ring,,"Thompson and Peersen, 2004",NA
+replication,1902,P3,3D,171,G,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1903,P3,3D,172,K,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1904,P3,3D,173,S,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1905,P3,3D,174,R,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1906,P3,3D,175,L,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1907,P3,3D,176,I,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1908,P3,3D,177,E,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1909,P3,3D,178,A,strand,,ring,,"Thompson and Peersen, 2004",NA
+replication,1910,P3,3D,179,S,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1911,P3,3D,180,S,loop,,ring,,"Thompson and Peersen, 2004",NA
+replication,1912,P3,3D,181,L,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1913,P3,3D,182,N,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1914,P3,3D,183,D,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1915,P3,3D,184,S,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1916,P3,3D,185,V,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1917,P3,3D,186,Y,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1918,P3,3D,187,L,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1919,P3,3D,188,R,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1920,P3,3D,189,M,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1921,P3,3D,190,T,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1922,P3,3D,191,F,helix,,pinky,,"Thompson and Peersen, 2004",NA
+replication,1923,P3,3D,192,G,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1924,P3,3D,193,H,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1925,P3,3D,194,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1926,P3,3D,195,Y,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1927,P3,3D,196,E,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1928,P3,3D,197,A,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1929,P3,3D,198,F,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1930,P3,3D,199,H,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1931,P3,3D,200,A,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1932,P3,3D,201,N,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1933,P3,3D,202,P,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1934,P3,3D,203,G,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,1935,P3,3D,204,T,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1936,P3,3D,205,I,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1937,P3,3D,206,T,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1938,P3,3D,207,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1939,P3,3D,208,S,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,1940,P3,3D,209,A,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1941,P3,3D,210,V,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1942,P3,3D,211,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1943,P3,3D,212,C,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1944,P3,3D,213,N,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1945,P3,3D,214,P,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1946,P3,3D,215,D,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1947,P3,3D,216,V,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1948,P3,3D,217,F,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1949,P3,3D,218,W,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1950,P3,3D,219,S,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1951,P3,3D,220,K,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1952,P3,3D,221,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1953,P3,3D,222,P,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1954,P3,3D,223,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1955,P3,3D,224,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1956,P3,3D,225,L,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1957,P3,3D,226,P,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1958,P3,3D,227,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1959,P3,3D,228,S,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,1960,P3,3D,229,L,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,1961,P3,3D,230,F,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,1962,P3,3D,231,A,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,1963,P3,3D,232,F,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,1964,P3,3D,233,D,strand,metal_binding,palm,,"Uniprot_Q66478 & Thompson and Peersen, 2004
+Thompson and Peersen, 2004",NA
+replication,1965,P3,3D,234,Y,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,1966,P3,3D,235,S,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1967,P3,3D,236,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1968,P3,3D,237,Y,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1969,P3,3D,238,D,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1970,P3,3D,239,A,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1971,P3,3D,240,S,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1972,P3,3D,241,L,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1973,P3,3D,242,S,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1974,P3,3D,243,P,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1975,P3,3D,244,V,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1976,P3,3D,245,W,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1977,P3,3D,246,F,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1978,P3,3D,247,R,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1979,P3,3D,248,A,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1980,P3,3D,249,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1981,P3,3D,250,E,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1982,P3,3D,251,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1983,P3,3D,252,V,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1984,P3,3D,253,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1985,P3,3D,254,R,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1986,P3,3D,255,E,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1987,P3,3D,256,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1988,P3,3D,257,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1989,P3,3D,258,Y,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1990,P3,3D,259,S,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1991,P3,3D,260,E,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1992,P3,3D,261,D,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1993,P3,3D,262,A,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1994,P3,3D,263,V,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1995,P3,3D,264,S,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1996,P3,3D,265,L,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,1997,P3,3D,266,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1998,P3,3D,267,E,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,1999,P3,3D,268,G,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2000,P3,3D,269,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2001,P3,3D,270,N,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2002,P3,3D,271,H,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2003,P3,3D,272,T,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2004,P3,3D,273,H,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2005,P3,3D,274,H,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2006,P3,3D,275,V,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2007,P3,3D,276,Y,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2008,P3,3D,277,R,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2009,P3,3D,278,N,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2010,P3,3D,279,K,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2011,P3,3D,280,T,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2012,P3,3D,281,Y,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2013,P3,3D,282,C,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2014,P3,3D,283,V,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2015,P3,3D,284,L,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2016,P3,3D,285,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2017,P3,3D,286,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2018,P3,3D,287,M,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2019,P3,3D,288,P,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2020,P3,3D,289,S,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2021,P3,3D,290,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2022,P3,3D,291,C,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2023,P3,3D,292,S,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2024,P3,3D,293,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2025,P3,3D,294,T,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2026,P3,3D,295,S,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2027,P3,3D,296,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2028,P3,3D,297,F,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2029,P3,3D,298,N,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2030,P3,3D,299,S,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2031,P3,3D,300,M,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2032,P3,3D,301,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2033,P3,3D,302,N,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2034,P3,3D,303,N,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2035,P3,3D,304,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2036,P3,3D,305,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2037,P3,3D,306,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2038,P3,3D,307,R,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2039,P3,3D,308,T,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2040,P3,3D,309,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2041,P3,3D,310,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2042,P3,3D,311,I,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2043,P3,3D,312,K,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2044,P3,3D,313,T,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2045,P3,3D,314,F,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2046,P3,3D,315,K,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2047,P3,3D,316,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2048,P3,3D,317,I,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2049,P3,3D,318,D,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2050,P3,3D,319,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2051,P3,3D,320,D,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2052,P3,3D,321,E,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2053,P3,3D,322,L,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2054,P3,3D,323,N,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2055,P3,3D,324,M,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2056,P3,3D,325,V,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2057,P3,3D,326,A,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2058,P3,3D,327,Y,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2059,P3,3D,328,G,loop,active_site,palm,,"Thompson and Peersen, 2004",NA
+replication,2060,P3,3D,329,D,loop,active_site,palm,,"Thompson and Peersen, 2004",NA
+replication,2061,P3,3D,330,D,strand,active_site,palm,,"Thompson and Peersen, 2004",NA
+replication,2062,P3,3D,331,V,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2063,P3,3D,332,L,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2064,P3,3D,333,A,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2065,P3,3D,334,S,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2066,P3,3D,335,Y,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2067,P3,3D,336,P,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2068,P3,3D,337,F,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2069,P3,3D,338,P,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2070,P3,3D,339,I,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2071,P3,3D,340,D,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2072,P3,3D,341,C,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2073,P3,3D,342,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2074,P3,3D,343,E,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2075,P3,3D,344,L,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2076,P3,3D,345,A,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2077,P3,3D,346,R,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2078,P3,3D,347,T,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2079,P3,3D,348,G,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2080,P3,3D,349,K,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2081,P3,3D,350,E,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2082,P3,3D,351,Y,helix,,palm,,"Thompson and Peersen, 2004",NA
+replication,2083,P3,3D,352,G,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2084,P3,3D,353,L,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2085,P3,3D,354,T,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2086,P3,3D,355,M,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2087,P3,3D,356,T,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2088,P3,3D,357,P,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2089,P3,3D,358,A,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2090,P3,3D,359,D,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2091,P3,3D,360,K,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2092,P3,3D,361,S,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2093,P3,3D,362,P,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2094,P3,3D,363,C,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2095,P3,3D,364,F,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2096,P3,3D,365,N,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2097,P3,3D,366,E,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2098,P3,3D,367,V,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2099,P3,3D,368,T,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2100,P3,3D,369,W,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2101,P3,3D,370,E,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2102,P3,3D,371,N,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2103,P3,3D,372,A,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2104,P3,3D,373,T,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2105,P3,3D,374,F,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2106,P3,3D,375,L,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2107,P3,3D,376,K,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2108,P3,3D,377,R,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2109,P3,3D,378,G,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2110,P3,3D,379,F,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2111,P3,3D,380,L,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2112,P3,3D,381,P,strand,,palm,,"Thompson and Peersen, 2004",NA
+replication,2113,P3,3D,382,D,loop,,palm,,"Thompson and Peersen, 2004",NA
+replication,2114,P3,3D,383,H,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2115,P3,3D,384,Q,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2116,P3,3D,385,F,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2117,P3,3D,386,P,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2118,P3,3D,387,F,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2119,P3,3D,388,L,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2120,P3,3D,389,I,strand,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2121,P3,3D,390,H,strand,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2122,P3,3D,391,P,strand,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2123,P3,3D,392,T,strand,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2124,P3,3D,393,M,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2125,P3,3D,394,P,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2126,P3,3D,395,M,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2127,P3,3D,396,R,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2128,P3,3D,397,E,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2129,P3,3D,398,I,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2130,P3,3D,399,H,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2131,P3,3D,400,E,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2132,P3,3D,401,S,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2133,P3,3D,402,I,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2134,P3,3D,403,R,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2135,P3,3D,404,W,strand,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2136,P3,3D,405,T,strand,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2137,P3,3D,406,K,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2138,P3,3D,407,D,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2139,P3,3D,408,A,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2140,P3,3D,409,R,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2141,P3,3D,410,S,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2142,P3,3D,411,T,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2143,P3,3D,412,Q,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2144,P3,3D,413,D,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2145,P3,3D,414,H,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2146,P3,3D,415,V,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2147,P3,3D,416,R,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2148,P3,3D,417,S,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2149,P3,3D,418,L,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2150,P3,3D,419,C,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2151,P3,3D,420,L,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2152,P3,3D,421,L,helix,recombination_determinant,thumb,,"Thompson and Peersen, 2004 & https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6364027/",NA
+replication,2153,P3,3D,422,A,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2154,P3,3D,423,W,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2155,P3,3D,424,H,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2156,P3,3D,425,N,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2157,P3,3D,426,G,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2158,P3,3D,427,K,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2159,P3,3D,428,E,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2160,P3,3D,429,E,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2161,P3,3D,430,Y,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2162,P3,3D,431,E,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2163,P3,3D,432,K,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2164,P3,3D,433,F,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2165,P3,3D,434,V,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2166,P3,3D,435,S,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2167,P3,3D,436,A,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2168,P3,3D,437,I,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2169,P3,3D,438,R,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2170,P3,3D,439,S,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2171,P3,3D,440,V,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2172,P3,3D,441,P,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2173,P3,3D,442,I,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2174,P3,3D,443,G,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2175,P3,3D,444,K,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2176,P3,3D,445,A,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2177,P3,3D,446,L,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2178,P3,3D,447,A,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2179,P3,3D,448,I,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2180,P3,3D,449,P,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2181,P3,3D,450,N,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2182,P3,3D,451,Y,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2183,P3,3D,452,E,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2184,P3,3D,453,N,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2185,P3,3D,454,L,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2186,P3,3D,455,R,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2187,P3,3D,456,R,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2188,P3,3D,457,N,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2189,P3,3D,458,W,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2190,P3,3D,459,L,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2191,P3,3D,460,E,helix,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2192,P3,3D,461,L,loop,,thumb,,"Thompson and Peersen, 2004",NA
+replication,2193,P3,3D,462,F,loop,,thumb,,"Thompson and Peersen, 2004",NA
