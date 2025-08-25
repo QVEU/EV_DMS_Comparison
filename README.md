@@ -5,10 +5,10 @@ Files and code for: "Comparative Analysis of Deep Mutational Scanning Datasets o
 GitHub data
 1. normalized_DMS_datasets 
 - EVA71
-CVB3
+- CVB3
 2. per_protein_corrected_data
 - EVA71
-CVB3
+- CVB3
 3. protein_structures 
 - EVA71
 - CVB3
