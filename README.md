@@ -2,7 +2,6 @@
 Files and code for: "Comparative Analysis of Deep Mutational Scanning Datasets of Enteroviruses A and B Identifies Functional Constraints and Therapeutic Targets". Álvarez-Rodríguez, Bakhache, McCormick, Geller, and Dolan. (2025)
 
 ## Outline of Contents:
-GitHub data
 1. normalized_DMS_datasets 
 - EVA71
 - CVB3
